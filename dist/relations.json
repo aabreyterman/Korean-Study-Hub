@@ -1,0 +1,773 @@
+[
+  {
+    "id": "synonyms-1",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "늘",
+        "meaning": "always",
+        "cardId": "늘"
+      },
+      {
+        "korean": "항상",
+        "meaning": "always",
+        "cardId": "항상"
+      }
+    ],
+    "note": "Both express always. 늘 is native Korean; 항상 is Sino-Korean.",
+    "near": false
+  },
+  {
+    "id": "synonyms-2",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "빨다",
+        "meaning": "wash / launder clothes",
+        "cardId": "빨다"
+      },
+      {
+        "korean": "세탁하다",
+        "meaning": "wash / launder clothes",
+        "cardId": "세탁하다"
+      }
+    ],
+    "note": "Similar for washing clothes. 세탁하다 is the standard laundry word; 빨다 also has other senses.",
+    "near": false
+  },
+  {
+    "id": "synonyms-3",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "수리하다",
+        "meaning": "repair",
+        "cardId": "수리"
+      },
+      {
+        "korean": "고치다",
+        "meaning": "fix / repair",
+        "cardId": "고치다"
+      }
+    ],
+    "note": "Both can mean repair objects. 고치다 can also mean correct a mistake or change a habit.",
+    "near": true
+  },
+  {
+    "id": "synonyms-4",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "경치",
+        "meaning": "scenery / view",
+        "cardId": "경치"
+      },
+      {
+        "korean": "풍경",
+        "meaning": "scenery / landscape",
+        "cardId": "풍경"
+      }
+    ],
+    "note": "Often interchangeable for a landscape. 풍경 can also describe a scene or sight more generally.",
+    "near": true
+  },
+  {
+    "id": "synonyms-5",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "가운데",
+        "meaning": "middle",
+        "cardId": "가운데"
+      },
+      {
+        "korean": "중앙",
+        "meaning": "centre",
+        "cardId": "중앙"
+      },
+      {
+        "korean": "중심",
+        "meaning": "centre / focal point",
+        "cardId": "중심"
+      }
+    ],
+    "note": "Related location words. 가운데 = middle; 중앙 = central area; 중심 can mean a focal or essential centre.",
+    "near": true
+  },
+  {
+    "id": "synonyms-6",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "무료로",
+        "meaning": "for free",
+        "cardId": "무료로"
+      },
+      {
+        "korean": "공짜",
+        "meaning": "free / freebie",
+        "cardId": "공짜"
+      }
+    ],
+    "note": "Related meanings with different grammar: 무료로 is an adverb; 공짜 is a noun or colloquial description. 공짜로 = for free.",
+    "near": true
+  },
+  {
+    "id": "synonyms-7",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "멈추다",
+        "meaning": "stop moving / stop an activity",
+        "cardId": "멈추다"
+      },
+      {
+        "korean": "그치다",
+        "meaning": "stop / cease",
+        "cardId": "그치다"
+      }
+    ],
+    "note": "Context matters: cars usually 멈추다; rain usually 그치다. They are not interchangeable in every sentence.",
+    "near": true
+  },
+  {
+    "id": "synonyms-8",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "기쁘다",
+        "meaning": "glad / joyful",
+        "cardId": "기쁘다"
+      },
+      {
+        "korean": "즐겁다",
+        "meaning": "enjoyable / pleasant",
+        "cardId": "즐겁다"
+      },
+      {
+        "korean": "신나다",
+        "meaning": "excited / having a great time",
+        "cardId": "신나다"
+      }
+    ],
+    "note": "All positive feelings, with different emphasis: gladness, enjoyment, excitement.",
+    "near": true
+  },
+  {
+    "id": "synonyms-9",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "모양",
+        "meaning": "shape / form",
+        "cardId": "모양"
+      },
+      {
+        "korean": "모습",
+        "meaning": "appearance / how something looks",
+        "cardId": "모습"
+      }
+    ],
+    "note": "Overlapping appearance words. 모양 often highlights shape; 모습 often describes a person or overall appearance.",
+    "near": true
+  },
+  {
+    "id": "synonyms-10",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "마르다",
+        "meaning": "dry / become dry",
+        "cardId": "마르다"
+      },
+      {
+        "korean": "건조하다",
+        "meaning": "dry / dry something",
+        "cardId": "건조하다"
+      }
+    ],
+    "note": "Compare only the dry sense. 마르다 also means skinny. 건조하다 can describe dry air or deliberate drying.",
+    "near": true
+  },
+  {
+    "id": "synonyms-11",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "무척",
+        "meaning": "very / extremely",
+        "cardId": "무척"
+      },
+      {
+        "korean": "매우",
+        "meaning": "very",
+        "cardId": null
+      },
+      {
+        "korean": "아주",
+        "meaning": "very",
+        "cardId": null
+      }
+    ],
+    "note": "Intensity words. 매우 and 아주 are extra comparison words; 무척 is in your personal deck.",
+    "near": false
+  },
+  {
+    "id": "synonyms-12",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "신선하다",
+        "meaning": "fresh",
+        "cardId": "신선하다"
+      },
+      {
+        "korean": "싱싱하다",
+        "meaning": "fresh / lively",
+        "cardId": null
+      }
+    ],
+    "note": "Both can describe fresh food. 신선하다 can also mean novel or refreshing; 싱싱하다 often stresses vitality.",
+    "near": true
+  },
+  {
+    "id": "synonyms-13",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "조용하다",
+        "meaning": "quiet",
+        "cardId": "조용하다"
+      },
+      {
+        "korean": "고요하다",
+        "meaning": "still / tranquil",
+        "cardId": null
+      }
+    ],
+    "note": "Both can describe quiet surroundings; 고요하다 adds a sense of stillness or peace.",
+    "near": true
+  },
+  {
+    "id": "synonyms-14",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "서점",
+        "meaning": "bookshop",
+        "cardId": "서점"
+      },
+      {
+        "korean": "책방",
+        "meaning": "bookshop",
+        "cardId": null
+      }
+    ],
+    "note": "Same basic place. 책방 is a native-style compound (책 + 방); 서점 is Sino-Korean.",
+    "near": false
+  },
+  {
+    "id": "synonyms-15",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "마음에 들다",
+        "meaning": "be to one's liking",
+        "cardId": "마음에 들다"
+      },
+      {
+        "korean": "좋아하다",
+        "meaning": "like",
+        "cardId": null
+      }
+    ],
+    "note": "마음에 들다 often describes a pleasing impression or choice; 좋아하다 expresses liking more generally.",
+    "near": true
+  },
+  {
+    "id": "synonyms-16",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "가깝다",
+        "meaning": "close (including relationships)",
+        "cardId": "가깝다"
+      },
+      {
+        "korean": "친하다",
+        "meaning": "close / friendly (relationships)",
+        "cardId": "친하다"
+      }
+    ],
+    "note": "Compare in relationships only. 가깝다 also means physically near; 친하다 is social closeness.",
+    "near": true
+  },
+  {
+    "id": "synonyms-17",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "나아지다",
+        "meaning": "get better",
+        "cardId": "나아지다"
+      },
+      {
+        "korean": "늘다",
+        "meaning": "improve (ability)",
+        "cardId": "늘다"
+      }
+    ],
+    "note": "For improvement: 한국어가 늘다 = improve at Korean; 상태가 나아지다 = a condition gets better. 늘다 also means increase.",
+    "near": true
+  },
+  {
+    "id": "synonyms-18",
+    "type": "Synonyms",
+    "terms": [
+      {
+        "korean": "계획",
+        "meaning": "plan",
+        "cardId": "계획"
+      },
+      {
+        "korean": "예정",
+        "meaning": "planned future event / intention",
+        "cardId": "예정"
+      }
+    ],
+    "note": "Related future planning nouns. 계획 highlights the plan; 예정 often marks something scheduled or intended.",
+    "near": true
+  },
+  {
+    "id": "antonyms-19",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "가깝다",
+        "meaning": "near",
+        "cardId": "가깝다"
+      },
+      {
+        "korean": "멀다",
+        "meaning": "far",
+        "cardId": "멀다"
+      }
+    ],
+    "note": "Physical distance.",
+    "near": false
+  },
+  {
+    "id": "antonyms-20",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "넓다",
+        "meaning": "wide / spacious",
+        "cardId": "넓다"
+      },
+      {
+        "korean": "좁다",
+        "meaning": "narrow / cramped",
+        "cardId": "좁다"
+      }
+    ],
+    "note": "",
+    "near": false
+  },
+  {
+    "id": "antonyms-21",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "길다",
+        "meaning": "long",
+        "cardId": "길다"
+      },
+      {
+        "korean": "짧다",
+        "meaning": "short",
+        "cardId": "짧다"
+      }
+    ],
+    "note": "Length or duration, not a person's height.",
+    "near": false
+  },
+  {
+    "id": "antonyms-22",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "무겁다",
+        "meaning": "heavy",
+        "cardId": "무겁다"
+      },
+      {
+        "korean": "가볍다",
+        "meaning": "light (weight)",
+        "cardId": "가볍다"
+      }
+    ],
+    "note": "",
+    "near": false
+  },
+  {
+    "id": "antonyms-23",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "느리다",
+        "meaning": "slow",
+        "cardId": "느리다"
+      },
+      {
+        "korean": "빠르다",
+        "meaning": "fast",
+        "cardId": "빠르다"
+      }
+    ],
+    "note": "",
+    "near": false
+  },
+  {
+    "id": "antonyms-24",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "가늘다",
+        "meaning": "thin / slender",
+        "cardId": "가늘다"
+      },
+      {
+        "korean": "굵다",
+        "meaning": "thick",
+        "cardId": "굵다"
+      }
+    ],
+    "note": "Thickness of a rope, line, stem, etc.",
+    "near": false
+  },
+  {
+    "id": "antonyms-25",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "어둡다",
+        "meaning": "dark",
+        "cardId": "어둡다"
+      },
+      {
+        "korean": "밝다",
+        "meaning": "bright",
+        "cardId": "밝다"
+      }
+    ],
+    "note": "",
+    "near": false
+  },
+  {
+    "id": "antonyms-26",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "잘생기다",
+        "meaning": "good-looking",
+        "cardId": "잘생기다"
+      },
+      {
+        "korean": "못생기다",
+        "meaning": "unattractive / ugly-looking",
+        "cardId": "못생기다"
+      }
+    ],
+    "note": "",
+    "near": false
+  },
+  {
+    "id": "antonyms-27",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "열다",
+        "meaning": "open",
+        "cardId": "열다"
+      },
+      {
+        "korean": "닫다",
+        "meaning": "close",
+        "cardId": "닫다"
+      }
+    ],
+    "note": "Actions: open/close a door, shop, etc.",
+    "near": false
+  },
+  {
+    "id": "antonyms-28",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "당기다",
+        "meaning": "pull",
+        "cardId": "당기다"
+      },
+      {
+        "korean": "밀다",
+        "meaning": "push",
+        "cardId": "밀다"
+      }
+    ],
+    "note": "",
+    "near": false
+  },
+  {
+    "id": "antonyms-29",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "안전하다",
+        "meaning": "safe",
+        "cardId": "안전하다"
+      },
+      {
+        "korean": "위험하다",
+        "meaning": "dangerous",
+        "cardId": "위험"
+      }
+    ],
+    "note": "",
+    "near": false
+  },
+  {
+    "id": "antonyms-30",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "출근하다",
+        "meaning": "go to work",
+        "cardId": "출근하다"
+      },
+      {
+        "korean": "퇴근하다",
+        "meaning": "leave work",
+        "cardId": "퇴근"
+      }
+    ],
+    "note": "",
+    "near": false
+  },
+  {
+    "id": "antonyms-31",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "출발하다",
+        "meaning": "depart",
+        "cardId": "출발하다"
+      },
+      {
+        "korean": "도착하다",
+        "meaning": "arrive",
+        "cardId": "도착하다"
+      }
+    ],
+    "note": "",
+    "near": false
+  },
+  {
+    "id": "antonyms-32",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "처음",
+        "meaning": "first / beginning",
+        "cardId": "처음"
+      },
+      {
+        "korean": "마지막",
+        "meaning": "last / end",
+        "cardId": "마지막"
+      }
+    ],
+    "note": "",
+    "near": false
+  },
+  {
+    "id": "antonyms-33",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "약하다",
+        "meaning": "weak",
+        "cardId": "약하다"
+      },
+      {
+        "korean": "강하다",
+        "meaning": "strong",
+        "cardId": "강하게"
+      }
+    ],
+    "note": "",
+    "near": false
+  },
+  {
+    "id": "antonyms-34",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "젖다",
+        "meaning": "get wet",
+        "cardId": "젖다"
+      },
+      {
+        "korean": "마르다",
+        "meaning": "dry / become dry",
+        "cardId": "마르다"
+      }
+    ],
+    "note": "Compare the dry sense of 마르다, not its skinny sense.",
+    "near": false
+  },
+  {
+    "id": "antonyms-35",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "짜다",
+        "meaning": "salty",
+        "cardId": "짜다"
+      },
+      {
+        "korean": "싱겁다",
+        "meaning": "bland / not salty enough",
+        "cardId": "싱겁다"
+      }
+    ],
+    "note": "Opposite descriptions of seasoning strength.",
+    "near": false
+  },
+  {
+    "id": "antonyms-36",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "낮다",
+        "meaning": "low",
+        "cardId": "낮다"
+      },
+      {
+        "korean": "높다",
+        "meaning": "high",
+        "cardId": null
+      }
+    ],
+    "note": "높다 is an extra comparison word.",
+    "near": false
+  },
+  {
+    "id": "antonyms-37",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "늘다",
+        "meaning": "increase",
+        "cardId": "늘다"
+      },
+      {
+        "korean": "줄다",
+        "meaning": "decrease",
+        "cardId": null
+      }
+    ],
+    "note": "Both intransitive. Contrast 늘리다 / 줄이다 = increase / reduce something. 줄다 is an extra comparison word.",
+    "near": false
+  },
+  {
+    "id": "antonyms-38",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "본 적이 있다",
+        "meaning": "have seen before",
+        "cardId": "-(으)ㄴ 적이 있다"
+      },
+      {
+        "korean": "본 적이 없다",
+        "meaning": "have never seen",
+        "cardId": "본 적이 없다"
+      }
+    ],
+    "note": "Positive and negative experience patterns; 본 적이 있다 is an example of -(으)ㄴ 적이 있다.",
+    "near": false
+  },
+  {
+    "id": "antonyms-39",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "친절하다",
+        "meaning": "kind",
+        "cardId": "친절하다"
+      },
+      {
+        "korean": "불친절하다",
+        "meaning": "unkind / unfriendly",
+        "cardId": null
+      }
+    ],
+    "note": "불친절하다 is an extra comparison word.",
+    "near": false
+  },
+  {
+    "id": "antonyms-40",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "편리하다",
+        "meaning": "convenient",
+        "cardId": "편리하다"
+      },
+      {
+        "korean": "불편하다",
+        "meaning": "inconvenient",
+        "cardId": null
+      }
+    ],
+    "note": "불편하다 is an extra comparison word.",
+    "near": false
+  },
+  {
+    "id": "antonyms-41",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "익숙하다",
+        "meaning": "familiar / used to",
+        "cardId": "익숙하다"
+      },
+      {
+        "korean": "낯설다",
+        "meaning": "unfamiliar / strange",
+        "cardId": null
+      }
+    ],
+    "note": "낯설다 is an extra comparison word.",
+    "near": false
+  },
+  {
+    "id": "antonyms-42",
+    "type": "Antonyms",
+    "terms": [
+      {
+        "korean": "기쁘다",
+        "meaning": "glad / happy",
+        "cardId": "기쁘다"
+      },
+      {
+        "korean": "슬프다",
+        "meaning": "sad",
+        "cardId": null
+      }
+    ],
+    "note": "슬프다 is an extra comparison word.",
+    "near": false
+  }
+]

@@ -1,0 +1,237 @@
+{
+  "title": "Korean Made Easy · chapter study notes",
+  "lessons": [
+    {
+      "id": "kme-2026-10-22-ch1-grammar1",
+      "date": "2026-10-22",
+      "chapter": 1,
+      "part": "grammar-1",
+      "title": "Chapter 1 · Grammar 1 · elapsed time and new vocabulary",
+      "reportedCompletion": true,
+      "source": "Your daily study message, checked against Chapter 1 of your uploaded textbook. No audio file was attached to this message.",
+      "corrections": [
+        "인지 → -(으)ㄴ 지 for elapsed time since an action.",
+        "돈으로 (with money) → 동료 for coworker.",
+        "한잔 (a drink) → 한참 for a long time.",
+        "교회 (church) → 교외 for suburb.",
+        "출신 means origin / being from; 고향 is hometown."
+      ],
+      "entries": [
+        {
+          "key": "since",
+          "kind": "grammar",
+          "korean": "-(으)ㄴ 지",
+          "meaning": "it has been [length of time] since …",
+          "pronunciation": "은 지",
+          "note": "Attach -(으)ㄴ to a verb stem and write a space before 지. Use a duration + 되다 / 지나다. This is different from -는지 / -인지 (whether / an embedded question). Example: 한국어를 공부한 지 한 달 됐어요. = It has been one month since I started studying Korean."
+        },
+        {
+          "key": "word-1",
+          "kind": "vocabulary",
+          "korean": "넘게",
+          "meaning": "over; more than",
+          "note": "After an amount or duration: 한 시간 넘게 = over an hour."
+        },
+        {
+          "key": "word-2",
+          "kind": "vocabulary",
+          "korean": "동료",
+          "meaning": "coworker; colleague",
+          "note": "Corrected from dictated 돈으로. 돈으로 means with money / in money."
+        },
+        {
+          "key": "word-3",
+          "kind": "vocabulary",
+          "korean": "전기",
+          "meaning": "electricity",
+          "note": "This is the 電氣 meaning; 전기 can have other meanings in other contexts."
+        },
+        {
+          "key": "word-4",
+          "kind": "vocabulary",
+          "korean": "다니다",
+          "meaning": "to go regularly; to attend; to commute",
+          "note": "학교에 다니다 = attend school; 회사에 다니다 = work at / go regularly to a company."
+        },
+        {
+          "key": "word-5",
+          "kind": "vocabulary",
+          "korean": "한참",
+          "meaning": "a long time; a good while",
+          "note": "Corrected from dictated 한잔. 한잔 means a drink, not a long time."
+        },
+        {
+          "key": "word-6",
+          "kind": "vocabulary",
+          "korean": "동양인",
+          "meaning": "Asian person; East Asian person",
+          "note": "Traditionally a person from the East; East Asian in many contexts."
+        },
+        {
+          "key": "word-7",
+          "kind": "vocabulary",
+          "korean": "서양인",
+          "meaning": "Westerner",
+          "note": ""
+        },
+        {
+          "key": "word-8",
+          "kind": "vocabulary",
+          "korean": "호주인",
+          "meaning": "Australian person",
+          "note": ""
+        },
+        {
+          "key": "word-9",
+          "kind": "vocabulary",
+          "korean": "태어나다",
+          "meaning": "to be born",
+          "note": ""
+        },
+        {
+          "key": "word-10",
+          "kind": "vocabulary",
+          "korean": "자라다",
+          "meaning": "to grow up; to grow",
+          "note": ""
+        },
+        {
+          "key": "word-11",
+          "kind": "vocabulary",
+          "korean": "이민 가다",
+          "meaning": "to emigrate; to move abroad permanently",
+          "note": "From the country being left, English uses emigrate; immigrate describes entering the destination country."
+        },
+        {
+          "key": "word-12",
+          "kind": "vocabulary",
+          "korean": "교포",
+          "meaning": "overseas Korean; a Korean living abroad",
+          "note": ""
+        },
+        {
+          "key": "word-13",
+          "kind": "vocabulary",
+          "korean": "혼혈",
+          "meaning": "mixed ancestry; a person of mixed ancestry",
+          "note": "혼혈인 explicitly refers to a person of mixed ancestry."
+        },
+        {
+          "key": "word-14",
+          "kind": "vocabulary",
+          "korean": "입양되다",
+          "meaning": "to be adopted",
+          "note": "Written as one word."
+        },
+        {
+          "key": "word-15",
+          "kind": "vocabulary",
+          "korean": "동유럽",
+          "meaning": "Eastern Europe",
+          "note": ""
+        },
+        {
+          "key": "word-16",
+          "kind": "vocabulary",
+          "korean": "서유럽",
+          "meaning": "Western Europe",
+          "note": ""
+        },
+        {
+          "key": "word-17",
+          "kind": "vocabulary",
+          "korean": "남미",
+          "meaning": "South America",
+          "note": ""
+        },
+        {
+          "key": "word-18",
+          "kind": "vocabulary",
+          "korean": "북극",
+          "meaning": "North Pole; the Arctic",
+          "note": ""
+        },
+        {
+          "key": "word-19",
+          "kind": "vocabulary",
+          "korean": "동북아시아",
+          "meaning": "Northeast Asia",
+          "note": "Also written 동북 아시아; 동북아시아 is common in geographical names."
+        },
+        {
+          "key": "word-20",
+          "kind": "vocabulary",
+          "korean": "동남아시아",
+          "meaning": "Southeast Asia",
+          "note": "Also written 동남 아시아."
+        },
+        {
+          "key": "word-21",
+          "kind": "vocabulary",
+          "korean": "중동",
+          "meaning": "Middle East",
+          "note": ""
+        },
+        {
+          "key": "word-22",
+          "kind": "vocabulary",
+          "korean": "교외",
+          "meaning": "suburbs; outskirts",
+          "note": "Corrected from dictated 교회. 교회 means church."
+        },
+        {
+          "key": "word-23",
+          "kind": "vocabulary",
+          "korean": "국경",
+          "meaning": "national border",
+          "note": ""
+        },
+        {
+          "key": "word-24",
+          "kind": "vocabulary",
+          "korean": "경계선",
+          "meaning": "boundary line; dividing line",
+          "note": ""
+        },
+        {
+          "key": "word-25",
+          "kind": "vocabulary",
+          "korean": "출신",
+          "meaning": "origin; being from a place, school or background",
+          "note": "서울 출신 = from Seoul. 고향 is the direct word for hometown."
+        },
+        {
+          "key": "word-26",
+          "kind": "vocabulary",
+          "korean": "돈으로",
+          "meaning": "with money; in money",
+          "note": "Original dictated spelling retained. For coworker, learn 동료."
+        },
+        {
+          "key": "word-27",
+          "kind": "vocabulary",
+          "korean": "한잔",
+          "meaning": "a drink; a glass of alcohol",
+          "note": "Original dictated spelling retained. For one cup / glass as a count, use 한 잔. For a long time, learn 한참."
+        },
+        {
+          "key": "word-28",
+          "kind": "vocabulary",
+          "korean": "교회",
+          "meaning": "church",
+          "note": "Original dictated spelling retained. For suburb / outskirts, learn 교외."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "National Institute of Korean Language: 동료",
+      "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=14802&nation=eng&nationCode=6"
+    },
+    {
+      "title": "National Institute of Korean Language: 한잔",
+      "url": "https://krdict.korean.go.kr/jpn/dicSearch/SearchView?ParaWordNo=72462"
+    }
+  ]
+}

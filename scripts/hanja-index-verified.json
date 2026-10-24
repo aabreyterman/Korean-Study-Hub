@@ -1,0 +1,5083 @@
+[
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 0,
+    "hanja": "價",
+    "reading": "가",
+    "koreanMeaning": "값",
+    "pages": [
+      105,
+      110
+    ],
+    "y": 0.13796428371424868,
+    "raw": "값가"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 1,
+    "hanja": "假",
+    "reading": "가",
+    "koreanMeaning": "거짓",
+    "pages": [
+      147
+    ],
+    "y": 0.16249056601823453,
+    "raw": "거짓가"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 2,
+    "hanja": "歌",
+    "reading": "가",
+    "koreanMeaning": "노래",
+    "pages": [
+      128
+    ],
+    "y": 0.18675000015686005,
+    "raw": "노래 가"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 3,
+    "hanja": "加",
+    "reading": "가",
+    "koreanMeaning": "더하다",
+    "pages": [
+      110
+    ],
+    "y": 0.21049999982869388,
+    "raw": "더하다 가"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 4,
+    "hanja": "家",
+    "reading": "가",
+    "koreanMeaning": "집",
+    "pages": [
+      72
+    ],
+    "y": 0.2324150944177276,
+    "raw": "집가"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 5,
+    "hanja": "各",
+    "reading": "각",
+    "koreanMeaning": "각각",
+    "pages": [
+      140
+    ],
+    "y": 0.2587169809282209,
+    "raw": "각각 각"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 6,
+    "hanja": "間",
+    "reading": "간",
+    "koreanMeaning": "사이",
+    "pages": [
+      42
+    ],
+    "y": 0.28299999980409307,
+    "raw": "사이 간"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 7,
+    "hanja": "感",
+    "reading": "감",
+    "koreanMeaning": "느끼다",
+    "pages": [
+      104
+    ],
+    "y": 0.3067499997802562,
+    "raw": "느끼다 감"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 8,
+    "hanja": "減",
+    "reading": "감",
+    "koreanMeaning": "줄다",
+    "pages": [
+      110
+    ],
+    "y": 0.3303725329650962,
+    "raw": "줄다 감"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 9,
+    "hanja": "江",
+    "reading": "강",
+    "koreanMeaning": "강",
+    "pages": [
+      42
+    ],
+    "y": 0.35366037724231425,
+    "raw": "강강"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 10,
+    "hanja": "個",
+    "reading": "개",
+    "koreanMeaning": "낱, 개",
+    "pages": [
+      105
+    ],
+    "y": 0.3767500001860681,
+    "raw": "낱, 개 개"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 11,
+    "hanja": "開",
+    "reading": "개",
+    "koreanMeaning": "열다",
+    "pages": [
+      98
+    ],
+    "y": 0.4024150943665161,
+    "raw": "열다 개"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 12,
+    "hanja": "客",
+    "reading": "객",
+    "koreanMeaning": "손님",
+    "pages": [
+      125
+    ],
+    "y": 0.42615094354656813,
+    "raw": "손님 객"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 13,
+    "hanja": "去",
+    "reading": "거",
+    "koreanMeaning": "가다",
+    "pages": [
+      84
+    ],
+    "y": 0.45050000019542946,
+    "raw": "가다 거"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 14,
+    "hanja": "件",
+    "reading": "건",
+    "koreanMeaning": "사건",
+    "pages": [
+      111
+    ],
+    "y": 0.47490566022769354,
+    "raw": "사건 건"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 15,
+    "hanja": "憩",
+    "reading": "게",
+    "koreanMeaning": "쉬다",
+    "pages": [
+      124
+    ],
+    "y": 0.49864150964778664,
+    "raw": "쉬다 게"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 16,
+    "hanja": "格",
+    "reading": "격",
+    "koreanMeaning": "격식",
+    "pages": [
+      104
+    ],
+    "y": 0.5204528302667842,
+    "raw": "격식 격"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 17,
+    "hanja": "見",
+    "reading": "견",
+    "koreanMeaning": "보다",
+    "pages": [
+      148,
+      158
+    ],
+    "y": 0.5458775687796776,
+    "raw": "보다 견"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 18,
+    "hanja": "結",
+    "reading": "결",
+    "koreanMeaning": "맺다",
+    "pages": [
+      92
+    ],
+    "y": 0.5692075472853377,
+    "raw": "맺다 결"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 19,
+    "hanja": "競",
+    "reading": "경",
+    "koreanMeaning": "겨루다",
+    "pages": [
+      159
+    ],
+    "y": 0.5934999997866871,
+    "raw": "겨루다 경"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 20,
+    "hanja": "經",
+    "reading": "경",
+    "koreanMeaning": "다스리다",
+    "pages": [
+      110
+    ],
+    "y": 0.616679245155387,
+    "raw": "다스리다 경"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 21,
+    "hanja": "界",
+    "reading": "계",
+    "koreanMeaning": "경계",
+    "pages": [
+      140
+    ],
+    "y": 0.641698113244282,
+    "raw": "경계"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 22,
+    "hanja": "系",
+    "reading": "계",
+    "koreanMeaning": "잇다",
+    "pages": [
+      135
+    ],
+    "y": 0.664150943464976,
+    "raw": "잇다 계"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 23,
+    "hanja": "高",
+    "reading": "고",
+    "koreanMeaning": "높다",
+    "pages": [
+      30
+    ],
+    "y": 0.6891698114316034,
+    "raw": "높다 고"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 24,
+    "hanja": "考",
+    "reading": "고",
+    "koreanMeaning": "생각하다",
+    "pages": [
+      147
+    ],
+    "y": 0.7141886792721767,
+    "raw": "생각하다 고"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 25,
+    "hanja": "告",
+    "reading": "고",
+    "koreanMeaning": "알리다",
+    "pages": [
+      101
+    ],
+    "y": 0.7372499999669195,
+    "raw": "알리다 고"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 26,
+    "hanja": "古",
+    "reading": "고",
+    "koreanMeaning": "옛",
+    "pages": [
+      134
+    ],
+    "y": 0.7622499997960048,
+    "raw": "옛고"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 27,
+    "hanja": "骨",
+    "reading": "골",
+    "koreanMeaning": "뼈",
+    "pages": [
+      48
+    ],
+    "y": 0.7860000001700305,
+    "raw": "뼈골"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 28,
+    "hanja": "功",
+    "reading": "공",
+    "koreanMeaning": "공로",
+    "pages": [
+      119
+    ],
+    "y": 0.8104150941909456,
+    "raw": "공로 공"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 29,
+    "hanja": "公",
+    "reading": "공",
+    "koreanMeaning": "여러",
+    "pages": [
+      129
+    ],
+    "y": 0.833499999950374,
+    "raw": "여러 공"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 30,
+    "hanja": "工",
+    "reading": "공",
+    "koreanMeaning": "장인",
+    "pages": [
+      117
+    ],
+    "y": 0.856499999914921,
+    "raw": "장인 공"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 31,
+    "hanja": "科",
+    "reading": "과",
+    "koreanMeaning": "과목",
+    "pages": [
+      99,
+      118,
+      158
+    ],
+    "y": 0.8813658232600858,
+    "raw": "과목 과"
+  },
+  {
+    "indexPage": 181,
+    "col": 0,
+    "row": 32,
+    "hanja": "果",
+    "reading": "과",
+    "koreanMeaning": "열매",
+    "pages": [
+      66
+    ],
+    "y": 0.904716981058352,
+    "raw": "열매 과"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 0,
+    "hanja": "過",
+    "reading": "과",
+    "koreanMeaning": "지나다",
+    "pages": [
+      84
+    ],
+    "y": 0.11245283002637001,
+    "raw": "지나다 과"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 1,
+    "hanja": "慣",
+    "reading": "관",
+    "koreanMeaning": "버릇",
+    "pages": [
+      99
+    ],
+    "y": 0.13549999986294414,
+    "raw": "버릇 관"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 2,
+    "hanja": "官",
+    "reading": "관",
+    "koreanMeaning": "벼슬",
+    "pages": [
+      153
+    ],
+    "y": 0.1592500000305418,
+    "raw": "벼슬 관"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 3,
+    "hanja": "觀",
+    "reading": "관",
+    "koreanMeaning": "보다",
+    "pages": [
+      112
+    ],
+    "y": 0.18366037733898927,
+    "raw": "보다 관"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 4,
+    "hanja": "館",
+    "reading": "관",
+    "koreanMeaning": "집, 관청",
+    "pages": [
+      141,
+      152
+    ],
+    "y": 0.20817884633779493,
+    "raw": "집, 관청 관"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 5,
+    "hanja": "教",
+    "reading": "교",
+    "koreanMeaning": "가르치다",
+    "pages": [
+      78
+    ],
+    "y": 0.23241509418995773,
+    "raw": "가르치다 교"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 6,
+    "hanja": "交",
+    "reading": "교",
+    "koreanMeaning": "사귀다, 오고 가다",
+    "pages": [
+      112,
+      122
+    ],
+    "y": 0.2558526852312435,
+    "raw": "사귀다, 오고 가다 교"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 7,
+    "hanja": "校",
+    "reading": "교",
+    "koreanMeaning": "학교",
+    "pages": [
+      78
+    ],
+    "y": 0.27924528323493286,
+    "raw": "학교 교"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 8,
+    "hanja": "究",
+    "reading": "구",
+    "koreanMeaning": "연구하다",
+    "pages": [
+      124
+    ],
+    "y": 0.3042500001638522,
+    "raw": "연구하다"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 9,
+    "hanja": "九",
+    "reading": "구",
+    "koreanMeaning": "아홉",
+    "pages": [
+      18
+    ],
+    "y": 0.32671698102480895,
+    "raw": "아홉 구"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 10,
+    "hanja": "舊",
+    "reading": "구",
+    "koreanMeaning": "오래, 옛날",
+    "pages": [
+      95
+    ],
+    "y": 0.35045283027426855,
+    "raw": "오래, 옛날"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 11,
+    "hanja": "口",
+    "reading": "구",
+    "koreanMeaning": "입",
+    "pages": [
+      48
+    ],
+    "y": 0.3760000000488969,
+    "raw": "입구"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 12,
+    "hanja": "國",
+    "reading": "국",
+    "koreanMeaning": "나라",
+    "pages": [
+      134
+    ],
+    "y": 0.39920754739915365,
+    "raw": "나라 국"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 13,
+    "hanja": "券",
+    "reading": "권",
+    "koreanMeaning": "문서",
+    "pages": [
+      141
+    ],
+    "y": 0.4235000000027398,
+    "raw": "문서 권"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 14,
+    "hanja": "金",
+    "reading": "금",
+    "koreanMeaning": "쇠",
+    "pages": [
+      24
+    ],
+    "y": 0.4479622641497709,
+    "raw": "쇠금"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 15,
+    "hanja": "急",
+    "reading": "급",
+    "koreanMeaning": "급하다",
+    "pages": [
+      105
+    ],
+    "y": 0.4716981132474314,
+    "raw": "급하다 급"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 16,
+    "hanja": "給",
+    "reading": "급",
+    "koreanMeaning": "더하다",
+    "pages": [
+      112
+    ],
+    "y": 0.49543396241449267,
+    "raw": "더하다 급"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 17,
+    "hanja": "器",
+    "reading": "기",
+    "koreanMeaning": "그릇",
+    "pages": [
+      135
+    ],
+    "y": 0.5197499998268565,
+    "raw": "그릇 기"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 18,
+    "hanja": "記",
+    "reading": "기",
+    "koreanMeaning": "기록하다",
+    "pages": [
+      152
+    ],
+    "y": 0.5435000001638329,
+    "raw": "기록하다 기"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 19,
+    "hanja": "氣",
+    "reading": "기",
+    "koreanMeaning": "기운",
+    "pages": [
+      107
+    ],
+    "y": 0.5666415096452473,
+    "raw": "기운 기"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 20,
+    "hanja": "期",
+    "reading": "기",
+    "koreanMeaning": "때",
+    "pages": [
+      147
+    ],
+    "y": 0.5909999999859183,
+    "raw": "때 기"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 21,
+    "hanja": "己",
+    "reading": "기",
+    "koreanMeaning": "자기",
+    "pages": [
+      105
+    ],
+    "y": 0.6144408526738668,
+    "raw": "자기 기"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 22,
+    "hanja": "技",
+    "reading": "기",
+    "koreanMeaning": "재주",
+    "pages": [
+      118,
+      158
+    ],
+    "y": 0.6388797715269697,
+    "raw": "재주 기"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 23,
+    "hanja": "紀",
+    "reading": "기",
+    "koreanMeaning": "해",
+    "pages": [
+      141
+    ],
+    "y": 0.6635000000672492,
+    "raw": "해기"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 24,
+    "hanja": "南",
+    "reading": "남",
+    "koreanMeaning": "남쪽",
+    "pages": [
+      36
+    ],
+    "y": 0.7237499999999027,
+    "raw": "남쪽 남"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 25,
+    "hanja": "男",
+    "reading": "남",
+    "koreanMeaning": "사내",
+    "pages": [
+      72
+    ],
+    "y": 0.7481886790872506,
+    "raw": "사내 남"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 26,
+    "hanja": "內",
+    "reading": "내",
+    "koreanMeaning": "안",
+    "pages": [
+      30
+    ],
+    "y": 0.7719245285179517,
+    "raw": "안 내"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 27,
+    "hanja": "冷",
+    "reading": "랭/냉",
+    "koreanMeaning": "차다",
+    "pages": [
+      60
+    ],
+    "y": 0.7943773586060925,
+    "raw": "차다 랭/냉"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 28,
+    "hanja": "女",
+    "reading": "녀/여",
+    "koreanMeaning": "여자",
+    "pages": [
+      72
+    ],
+    "y": 0.818749999847191,
+    "raw": "여자 녀/여"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 29,
+    "hanja": "年",
+    "reading": "년/연",
+    "koreanMeaning": "해",
+    "pages": [
+      24
+    ],
+    "y": 0.8437500000898721,
+    "raw": "해 년/연"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 30,
+    "hanja": "綠",
+    "reading": "록/녹",
+    "koreanMeaning": "초록",
+    "pages": [
+      54
+    ],
+    "y": 0.8681509432381939,
+    "raw": "초록 록/녹"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 31,
+    "hanja": "弄",
+    "reading": "롱/농",
+    "koreanMeaning": "놀리다",
+    "pages": [
+      155
+    ],
+    "y": 0.891886792304153,
+    "raw": "놀리다 롱/농"
+  },
+  {
+    "indexPage": 181,
+    "col": 1,
+    "row": 32,
+    "hanja": "能",
+    "reading": "능",
+    "koreanMeaning": "잘하다",
+    "pages": [
+      148
+    ],
+    "y": 0.9154999997859813,
+    "raw": "잘하다 능"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 0,
+    "hanja": "多",
+    "reading": "다",
+    "koreanMeaning": "많다",
+    "pages": [
+      30
+    ],
+    "y": 0.13799999989494416,
+    "raw": "많다 다"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 1,
+    "hanja": "短",
+    "reading": "단",
+    "koreanMeaning": "짧다",
+    "pages": [
+      30
+    ],
+    "y": 0.16174999980931642,
+    "raw": "짧다 단"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 2,
+    "hanja": "單",
+    "reading": "단",
+    "koreanMeaning": "혼자",
+    "pages": [
+      153
+    ],
+    "y": 0.18674999986494892,
+    "raw": "혼자 단"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 3,
+    "hanja": "達",
+    "reading": "달",
+    "koreanMeaning": "통하다",
+    "pages": [
+      135
+    ],
+    "y": 0.21049999997150176,
+    "raw": "통하다 달"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 4,
+    "hanja": "談",
+    "reading": "담",
+    "koreanMeaning": "말하다",
+    "pages": [
+      152
+    ],
+    "y": 0.23369811337239915,
+    "raw": "말하다 담"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 5,
+    "hanja": "答",
+    "reading": "답",
+    "koreanMeaning": "대답",
+    "pages": [
+      78
+    ],
+    "y": 0.25871698109882757,
+    "raw": "대답 답"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 6,
+    "hanja": "堂",
+    "reading": "당",
+    "koreanMeaning": "집",
+    "pages": [
+      143
+    ],
+    "y": 0.28299999981496093,
+    "raw": "집당"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 7,
+    "hanja": "對",
+    "reading": "대",
+    "koreanMeaning": "대답하다",
+    "pages": [
+      154
+    ],
+    "y": 0.30674999977934747,
+    "raw": "대답하다 대"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 8,
+    "hanja": "代",
+    "reading": "대",
+    "koreanMeaning": "시대",
+    "pages": [
+      134
+    ],
+    "y": 0.3305000001054603,
+    "raw": "시대 대"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 9,
+    "hanja": "大",
+    "reading": "대",
+    "koreanMeaning": "크다",
+    "pages": [
+      30
+    ],
+    "y": 0.35424999996836803,
+    "raw": "크다 대"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 10,
+    "hanja": "圖",
+    "reading": "도",
+    "koreanMeaning": "그림",
+    "pages": [
+      154
+    ],
+    "y": 0.3792499998526593,
+    "raw": "그림 도"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 11,
+    "hanja": "道",
+    "reading": "도",
+    "koreanMeaning": "길",
+    "pages": [
+      122
+    ],
+    "y": 0.4024150945509076,
+    "raw": "길 도"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 12,
+    "hanja": "都",
+    "reading": "도",
+    "koreanMeaning": "도시",
+    "pages": [
+      137
+    ],
+    "y": 0.42615094342312,
+    "raw": "도시 도"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 13,
+    "hanja": "度",
+    "reading": "도",
+    "koreanMeaning": "정도",
+    "pages": [
+      125
+    ],
+    "y": 0.44988679266411524,
+    "raw": "정도 도"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 14,
+    "hanja": "刀",
+    "reading": "도",
+    "koreanMeaning": "칼",
+    "pages": [
+      54
+    ],
+    "y": 0.4749056602173213,
+    "raw": "칼도"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 15,
+    "hanja": "讀",
+    "reading": "독",
+    "koreanMeaning": "읽다",
+    "pages": [
+      98
+    ],
+    "y": 0.4967169811887968,
+    "raw": "읽다 독"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 16,
+    "hanja": "同",
+    "reading": "동",
+    "koreanMeaning": "같다",
+    "pages": [
+      117
+    ],
+    "y": 0.5210000001446474,
+    "raw": "같다 동"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 17,
+    "hanja": "冬",
+    "reading": "동",
+    "koreanMeaning": "겨울",
+    "pages": [
+      60
+    ],
+    "y": 0.545999999946157,
+    "raw": "겨울 동"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 18,
+    "hanja": "東",
+    "reading": "동",
+    "koreanMeaning": "동쪽",
+    "pages": [
+      36
+    ],
+    "y": 0.5697500000478919,
+    "raw": "동쪽 동"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 19,
+    "hanja": "動",
+    "reading": "동",
+    "koreanMeaning": "움직이다",
+    "pages": [
+      66
+    ],
+    "y": 0.5929433963419414,
+    "raw": "움직이다 동"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 20,
+    "hanja": "覽",
+    "reading": "람",
+    "koreanMeaning": "보다",
+    "pages": [
+      112
+    ],
+    "y": 0.6545000001978352,
+    "raw": "보다 람"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 21,
+    "hanja": "來",
+    "reading": "래/내",
+    "koreanMeaning": "오다",
+    "pages": [
+      84
+    ],
+    "y": 0.6782500000651086,
+    "raw": "오다 래/내"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 22,
+    "hanja": "量",
+    "reading": "량/양",
+    "koreanMeaning": "양",
+    "pages": [
+      113
+    ],
+    "y": 0.7012500000228841,
+    "raw": "양 량/양"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 23,
+    "hanja": "旅",
+    "reading": "려/여",
+    "koreanMeaning": "나그네",
+    "pages": [
+      140
+    ],
+    "y": 0.7257358492214556,
+    "raw": "나그네 려/여"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 24,
+    "hanja": "力",
+    "reading": "력/역",
+    "koreanMeaning": "힘",
+    "pages": [
+      107,
+      146
+    ],
+    "y": 0.7503150786574613,
+    "raw": "힘 력/역"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 25,
+    "hanja": "連",
+    "reading": "련/연",
+    "koreanMeaning": "이어지다",
+    "pages": [
+      143
+    ],
+    "y": 0.7732075470536349,
+    "raw": "이어지다 련/연"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 26,
+    "hanja": "練",
+    "reading": "련/연",
+    "koreanMeaning": "익히다",
+    "pages": [
+      99
+    ],
+    "y": 0.7969433962509029,
+    "raw": "익히다 련/연"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 27,
+    "hanja": "禮",
+    "reading": "례/예",
+    "koreanMeaning": "예절",
+    "pages": [
+      95
+    ],
+    "y": 0.8225000000200193,
+    "raw": "예절 레/예"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 28,
+    "hanja": "路",
+    "reading": "로/노",
+    "koreanMeaning": "길",
+    "pages": [
+      122
+    ],
+    "y": 0.8456981131458989,
+    "raw": "길로/노"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 29,
+    "hanja": "老",
+    "reading": "로/노",
+    "koreanMeaning": "늙다",
+    "pages": [
+      92
+    ],
+    "y": 0.8699999999849134,
+    "raw": "늙다 로/노"
+  },
+  {
+    "indexPage": 181,
+    "col": 2,
+    "row": 30,
+    "hanja": "露",
+    "reading": "로/노",
+    "koreanMeaning": "이슬",
+    "pages": [
+      154
+    ],
+    "y": 0.8944528302265552,
+    "raw": "이슬 로/노"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 0,
+    "hanja": "勞",
+    "reading": "로/노",
+    "koreanMeaning": "일하다",
+    "pages": [
+      116
+    ],
+    "y": 0.11245283003064681,
+    "raw": "일하다 로/노"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 1,
+    "hanja": "努",
+    "reading": "로/노",
+    "koreanMeaning": "힘쓰다",
+    "pages": [
+      148
+    ],
+    "y": 0.13618867909751467,
+    "raw": "힘쓰다 로/노"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 2,
+    "hanja": "錄",
+    "reading": "록/녹",
+    "koreanMeaning": "기록하다, 문서",
+    "pages": [
+      155
+    ],
+    "y": 0.15992452828238554,
+    "raw": "기독하나, 문서 독/녹"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 3,
+    "hanja": "論",
+    "reading": "론/논",
+    "koreanMeaning": "말하다",
+    "pages": [
+      146
+    ],
+    "y": 0.18366037733898927,
+    "raw": "말하다 론/논"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 4,
+    "hanja": "料",
+    "reading": "료/요",
+    "koreanMeaning": "세다",
+    "pages": [
+      110
+    ],
+    "y": 0.20799999993904697,
+    "raw": "세다 료/요"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 5,
+    "hanja": "律",
+    "reading": "률/율",
+    "koreanMeaning": "법",
+    "pages": [
+      153
+    ],
+    "y": 0.2324150941926932,
+    "raw": "법률/율"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 6,
+    "hanja": "率",
+    "reading": "률/율",
+    "koreanMeaning": "비율",
+    "pages": [
+      160
+    ],
+    "y": 0.2555000002067349,
+    "raw": "비율 률/율"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 7,
+    "hanja": "利",
+    "reading": "리/이",
+    "koreanMeaning": "이롭다",
+    "pages": [
+      158
+    ],
+    "y": 0.27988679247731807,
+    "raw": "이롭다 리/이"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 8,
+    "hanja": "理",
+    "reading": "리/이",
+    "koreanMeaning": "이치, 다스리다",
+    "pages": [
+      118,
+      146
+    ],
+    "y": 0.304153736289188,
+    "raw": "이치, 다스리다 리/이"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 9,
+    "hanja": "林",
+    "reading": "림/임",
+    "koreanMeaning": "숲",
+    "pages": [
+      42
+    ],
+    "y": 0.32800000002448804,
+    "raw": "숲 림/임"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 10,
+    "hanja": "馬",
+    "reading": "마",
+    "koreanMeaning": "말",
+    "pages": [
+      66
+    ],
+    "y": 0.38699999983883904,
+    "raw": "말 마"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 11,
+    "hanja": "滿",
+    "reading": "만",
+    "koreanMeaning": "가득하다",
+    "pages": [
+      160
+    ],
+    "y": 0.4120000001238552,
+    "raw": "가득하다 만"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 12,
+    "hanja": "萬",
+    "reading": "만",
+    "koreanMeaning": "일만",
+    "pages": [
+      18
+    ],
+    "y": 0.43641509417958546,
+    "raw": "일만 만"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 13,
+    "hanja": "末",
+    "reading": "말",
+    "koreanMeaning": "끝",
+    "pages": [
+      94
+    ],
+    "y": 0.4619999999030294,
+    "raw": "끝 말"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 14,
+    "hanja": "亡",
+    "reading": "망",
+    "koreanMeaning": "죽다",
+    "pages": [
+      93
+    ],
+    "y": 0.4838867924797239,
+    "raw": "죽다 망"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 15,
+    "hanja": "賣",
+    "reading": "매",
+    "koreanMeaning": "팔다",
+    "pages": [
+      118
+    ],
+    "y": 0.5082500001761212,
+    "raw": "팔다 매"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 16,
+    "hanja": "面",
+    "reading": "면",
+    "koreanMeaning": "얼굴",
+    "pages": [
+      130
+    ],
+    "y": 0.5307169812476018,
+    "raw": "얼굴 면"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 17,
+    "hanja": "明",
+    "reading": "명",
+    "koreanMeaning": "밝다",
+    "pages": [
+      101
+    ],
+    "y": 0.5557358492678888,
+    "raw": "밝다 명"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 18,
+    "hanja": "名",
+    "reading": "명",
+    "koreanMeaning": "이름",
+    "pages": [
+      136,
+      140
+    ],
+    "y": 0.5792745774765271,
+    "raw": "이름 명"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 19,
+    "hanja": "母",
+    "reading": "모",
+    "koreanMeaning": "어머니",
+    "pages": [
+      72
+    ],
+    "y": 0.6032075473201529,
+    "raw": "어머니 모"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 20,
+    "hanja": "木",
+    "reading": "목",
+    "koreanMeaning": "나무",
+    "pages": [
+      24
+    ],
+    "y": 0.6282264151233559,
+    "raw": "나무 목"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 21,
+    "hanja": "目",
+    "reading": "목",
+    "koreanMeaning": "눈",
+    "pages": [
+      48
+    ],
+    "y": 0.6524999998329706,
+    "raw": "눈목"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 22,
+    "hanja": "無",
+    "reading": "무",
+    "koreanMeaning": "없다",
+    "pages": [
+      134
+    ],
+    "y": 0.6756981132344407,
+    "raw": "없다 무"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 23,
+    "hanja": "文",
+    "reading": "문",
+    "koreanMeaning": "글월",
+    "pages": [
+      78
+    ],
+    "y": 0.6994339624144925,
+    "raw": "글월 문"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 24,
+    "hanja": "聞",
+    "reading": "문",
+    "koreanMeaning": "듣다",
+    "pages": [
+      117
+    ],
+    "y": 0.7237499999999027,
+    "raw": "듣다 문"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 25,
+    "hanja": "門",
+    "reading": "문",
+    "koreanMeaning": "문",
+    "pages": [
+      142
+    ],
+    "y": 0.7475000001476955,
+    "raw": "문 문"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 26,
+    "hanja": "問",
+    "reading": "문",
+    "koreanMeaning": "묻다",
+    "pages": [
+      78
+    ],
+    "y": 0.7719245283263746,
+    "raw": "묻다 문"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 27,
+    "hanja": "物",
+    "reading": "물",
+    "koreanMeaning": "물건",
+    "pages": [
+      54
+    ],
+    "y": 0.7956603775723149,
+    "raw": "물건 물"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 28,
+    "hanja": "味",
+    "reading": "미",
+    "koreanMeaning": "맛",
+    "pages": [
+      148
+    ],
+    "y": 0.8191680274364215,
+    "raw": "맛미"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 29,
+    "hanja": "未",
+    "reading": "미",
+    "koreanMeaning": "아니다",
+    "pages": [
+      84,
+      146
+    ],
+    "y": 0.8437499999133232,
+    "raw": "아니다 미"
+  },
+  {
+    "indexPage": 182,
+    "col": 0,
+    "row": 30,
+    "hanja": "民",
+    "reading": "민",
+    "koreanMeaning": "백성",
+    "pages": [
+      111,
+      134
+    ],
+    "y": 0.8673577673567626,
+    "raw": "백성 민"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 0,
+    "hanja": "博",
+    "reading": "박",
+    "koreanMeaning": "넓다",
+    "pages": [
+      154
+    ],
+    "y": 0.13874999985764688,
+    "raw": "넓다 박"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 1,
+    "hanja": "泊",
+    "reading": "박",
+    "koreanMeaning": "머무르다",
+    "pages": [
+      100
+    ],
+    "y": 0.1617500001095608,
+    "raw": "머무르다 박"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 2,
+    "hanja": "反",
+    "reading": "반",
+    "koreanMeaning": "되돌리다",
+    "pages": [
+      130
+    ],
+    "y": 0.1854999999083558,
+    "raw": "되돌리다 반"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 3,
+    "hanja": "發",
+    "reading": "발",
+    "koreanMeaning": "피다",
+    "pages": [
+      158
+    ],
+    "y": 0.21050000002992492,
+    "raw": "피다 발"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 4,
+    "hanja": "放",
+    "reading": "방",
+    "koreanMeaning": "놓다",
+    "pages": [
+      98
+    ],
+    "y": 0.23369811341883226,
+    "raw": "놓다 방"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 5,
+    "hanja": "百",
+    "reading": "백",
+    "koreanMeaning": "일백",
+    "pages": [
+      18
+    ],
+    "y": 0.2580000000338858,
+    "raw": "일백 백"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 6,
+    "hanja": "白",
+    "reading": "백",
+    "koreanMeaning": "희다",
+    "pages": [
+      54
+    ],
+    "y": 0.2824528302176955,
+    "raw": "희다 백"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 7,
+    "hanja": "法",
+    "reading": "법",
+    "koreanMeaning": "법",
+    "pages": [
+      78,
+      152
+    ],
+    "y": 0.3067499997783693,
+    "raw": "법법"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 8,
+    "hanja": "變",
+    "reading": "변",
+    "koreanMeaning": "변하다",
+    "pages": [
+      129
+    ],
+    "y": 0.3299245282258047,
+    "raw": "변하다 변"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 9,
+    "hanja": "別",
+    "reading": "별",
+    "koreanMeaning": "다르다, 나누다",
+    "pages": [
+      105
+    ],
+    "y": 0.3542500002144189,
+    "raw": "다르다, 나누다 별"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 10,
+    "hanja": "病",
+    "reading": "병",
+    "koreanMeaning": "병들다",
+    "pages": [
+      92
+    ],
+    "y": 0.377396226298918,
+    "raw": "병들다 병"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 11,
+    "hanja": "步",
+    "reading": "보",
+    "koreanMeaning": "걷다",
+    "pages": [
+      160
+    ],
+    "y": 0.40174999981461557,
+    "raw": "걷다 보"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 12,
+    "hanja": "報",
+    "reading": "보",
+    "koreanMeaning": "알리다",
+    "pages": [
+      94
+    ],
+    "y": 0.42615094342712945,
+    "raw": "알리다 보"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 13,
+    "hanja": "保",
+    "reading": "보",
+    "koreanMeaning": "지키다",
+    "pages": [
+      112
+    ],
+    "y": 0.4498867924195823,
+    "raw": "지키다 보"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 14,
+    "hanja": "本",
+    "reading": "본",
+    "koreanMeaning": "근본",
+    "pages": [
+      154
+    ],
+    "y": 0.47490566022959024,
+    "raw": "근본 본"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 15,
+    "hanja": "部",
+    "reading": "부",
+    "koreanMeaning": "나누다",
+    "pages": [
+      142
+    ],
+    "y": 0.49799999993933886,
+    "raw": "나누다 부"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 16,
+    "hanja": "復",
+    "reading": "복",
+    "koreanMeaning": "다시",
+    "pages": [
+      98
+    ],
+    "y": 0.5210000001242822,
+    "raw": "다시 복"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 17,
+    "hanja": "不",
+    "reading": "불/부",
+    "koreanMeaning": "아니다",
+    "pages": [
+      105,
+      158
+    ],
+    "y": 0.5461572459966357,
+    "raw": "아니다 불/부"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 18,
+    "hanja": "父",
+    "reading": "부",
+    "koreanMeaning": "아버지",
+    "pages": [
+      72
+    ],
+    "y": 0.5697500001010964,
+    "raw": "아버지 부"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 19,
+    "hanja": "北",
+    "reading": "북",
+    "koreanMeaning": "북쪽",
+    "pages": [
+      36
+    ],
+    "y": 0.5929433963120043,
+    "raw": "북쪽 북"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 20,
+    "hanja": "分",
+    "reading": "분",
+    "koreanMeaning": "나누다",
+    "pages": [
+      24
+    ],
+    "y": 0.617250000072759,
+    "raw": "나누다 분"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 21,
+    "hanja": "費",
+    "reading": "비",
+    "koreanMeaning": "쓰다",
+    "pages": [
+      110
+    ],
+    "y": 0.6416981132474313,
+    "raw": "쓰다 비"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 22,
+    "hanja": "非",
+    "reading": "비",
+    "koreanMeaning": "아니다",
+    "pages": [
+      158
+    ],
+    "y": 0.6654339624916875,
+    "raw": "아니다 비"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 23,
+    "hanja": "鼻",
+    "reading": "비",
+    "koreanMeaning": "코",
+    "pages": [
+      48
+    ],
+    "y": 0.689750000189074,
+    "raw": "코비"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 24,
+    "hanja": "四",
+    "reading": "사",
+    "koreanMeaning": "넷",
+    "pages": [
+      18
+    ],
+    "y": 0.7507499999499307,
+    "raw": "넷사"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 25,
+    "hanja": "社",
+    "reading": "사",
+    "koreanMeaning": "모이다",
+    "pages": [
+      116
+    ],
+    "y": 0.7744905658880709,
+    "raw": "모이다 사"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 26,
+    "hanja": "思",
+    "reading": "사",
+    "koreanMeaning": "생각하다",
+    "pages": [
+      146
+    ],
+    "y": 0.7987500001662153,
+    "raw": "생각하다 사"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 27,
+    "hanja": "師",
+    "reading": "사",
+    "koreanMeaning": "스승",
+    "pages": [
+      99,
+      116
+    ],
+    "y": 0.8214400092524129,
+    "raw": "스승 사"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 28,
+    "hanja": "使",
+    "reading": "사",
+    "koreanMeaning": "시키다",
+    "pages": [
+      119
+    ],
+    "y": 0.8462499999952737,
+    "raw": "시키다 사"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 29,
+    "hanja": "事",
+    "reading": "사",
+    "koreanMeaning": "일",
+    "pages": [
+      78
+    ],
+    "y": 0.8699999998509644,
+    "raw": "일사"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 30,
+    "hanja": "死",
+    "reading": "사",
+    "koreanMeaning": "죽다",
+    "pages": [
+      92
+    ],
+    "y": 0.8937499999013822,
+    "raw": "죽다 사"
+  },
+  {
+    "indexPage": 182,
+    "col": 1,
+    "row": 31,
+    "hanja": "產",
+    "reading": "산",
+    "koreanMeaning": "낳다",
+    "pages": [
+      110
+    ],
+    "y": 0.9169056602611819,
+    "raw": "낳다 산"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 0,
+    "hanja": "山",
+    "reading": "산",
+    "koreanMeaning": "산",
+    "pages": [
+      42
+    ],
+    "y": 0.11175000000202548,
+    "raw": "산산"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 1,
+    "hanja": "三",
+    "reading": "삼",
+    "koreanMeaning": "셋",
+    "pages": [
+      18
+    ],
+    "y": 0.13550000009270904,
+    "raw": "셋삼"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 2,
+    "hanja": "像",
+    "reading": "상",
+    "koreanMeaning": "모양",
+    "pages": [
+      130
+    ],
+    "y": 0.15925000002012413,
+    "raw": "모양"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 3,
+    "hanja": "想",
+    "reading": "상",
+    "koreanMeaning": "생각하다",
+    "pages": [
+      146
+    ],
+    "y": 0.1842500000758877,
+    "raw": "생각하다 상"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 4,
+    "hanja": "相",
+    "reading": "상",
+    "koreanMeaning": "서로",
+    "pages": [
+      155
+    ],
+    "y": 0.20799999993451868,
+    "raw": "서로 상"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 5,
+    "hanja": "上",
+    "reading": "상",
+    "koreanMeaning": "위",
+    "pages": [
+      36
+    ],
+    "y": 0.23174999980597985,
+    "raw": "위상"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 6,
+    "hanja": "常",
+    "reading": "상",
+    "koreanMeaning": "항상",
+    "pages": [
+      148
+    ],
+    "y": 0.256150943238194,
+    "raw": "항상 상"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 7,
+    "hanja": "色",
+    "reading": "색",
+    "koreanMeaning": "색",
+    "pages": [
+      54
+    ],
+    "y": 0.2804999998258605,
+    "raw": "색색"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 8,
+    "hanja": "生",
+    "reading": "생",
+    "koreanMeaning": "나다",
+    "pages": [
+      78,
+      92
+    ],
+    "y": 0.30421361082094567,
+    "raw": "나다 생"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 9,
+    "hanja": "西",
+    "reading": "서",
+    "koreanMeaning": "서쪽",
+    "pages": [
+      36
+    ],
+    "y": 0.3280000000217387,
+    "raw": "서쪽 서"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 10,
+    "hanja": "書",
+    "reading": "서",
+    "koreanMeaning": "쓰다",
+    "pages": [
+      98
+    ],
+    "y": 0.3504528300610473,
+    "raw": "쓰다 서"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 11,
+    "hanja": "石",
+    "reading": "석",
+    "koreanMeaning": "돌",
+    "pages": [
+      42
+    ],
+    "y": 0.3760000000506789,
+    "raw": "돌석"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 12,
+    "hanja": "夕",
+    "reading": "석",
+    "koreanMeaning": "저녁",
+    "pages": [
+      84
+    ],
+    "y": 0.40049056616949197,
+    "raw": "저녁 1석"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 13,
+    "hanja": "先",
+    "reading": "선",
+    "koreanMeaning": "먼저",
+    "pages": [
+      78
+    ],
+    "y": 0.4242264152260956,
+    "raw": "먼저 선"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 14,
+    "hanja": "線",
+    "reading": "선",
+    "koreanMeaning": "줄",
+    "pages": [
+      122
+    ],
+    "y": 0.447962264177837,
+    "raw": "줄선"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 15,
+    "hanja": "善",
+    "reading": "선",
+    "koreanMeaning": "착하다, 좋다",
+    "pages": [
+      130
+    ],
+    "y": 0.4710000000153878,
+    "raw": "착하다, 좋다 선"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 16,
+    "hanja": "雪",
+    "reading": "설",
+    "koreanMeaning": "눈",
+    "pages": [
+      60
+    ],
+    "y": 0.49543396223090297,
+    "raw": "눈설"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 17,
+    "hanja": "說",
+    "reading": "설",
+    "koreanMeaning": "말하다",
+    "pages": [
+      101
+    ],
+    "y": 0.5197499998243321,
+    "raw": "말하다 설"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 18,
+    "hanja": "星",
+    "reading": "성",
+    "koreanMeaning": "별",
+    "pages": [
+      42
+    ],
+    "y": 0.5441886790852458,
+    "raw": "별성"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 19,
+    "hanja": "省",
+    "reading": "성",
+    "koreanMeaning": "살피다",
+    "pages": [
+      106
+    ],
+    "y": 0.5672500000620673,
+    "raw": "살피다 성"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 20,
+    "hanja": "性",
+    "reading": "성",
+    "koreanMeaning": "성품",
+    "pages": [
+      104
+    ],
+    "y": 0.592250000187684,
+    "raw": "성품"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 21,
+    "hanja": "成",
+    "reading": "성",
+    "koreanMeaning": "이루다",
+    "pages": [
+      116
+    ],
+    "y": 0.6147499997959779,
+    "raw": "이루다 성"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 22,
+    "hanja": "誠",
+    "reading": "성",
+    "koreanMeaning": "정성",
+    "pages": [
+      149
+    ],
+    "y": 0.6397499999152102,
+    "raw": "정성 성"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 23,
+    "hanja": "世",
+    "reading": "세",
+    "koreanMeaning": "세상",
+    "pages": [
+      111,
+      140
+    ],
+    "y": 0.6634517675135247,
+    "raw": "세상 세"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 24,
+    "hanja": "所",
+    "reading": "소",
+    "koreanMeaning": "자리",
+    "pages": [
+      122
+    ],
+    "y": 0.6872452828701908,
+    "raw": "자리 소"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 25,
+    "hanja": "小",
+    "reading": "소",
+    "koreanMeaning": "작다",
+    "pages": [
+      30
+    ],
+    "y": 0.7102500000163189,
+    "raw": "작다 소"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 26,
+    "hanja": "少",
+    "reading": "소",
+    "koreanMeaning": "적다",
+    "pages": [
+      30
+    ],
+    "y": 0.7347169810604482,
+    "raw": "적다 소"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 27,
+    "hanja": "疏",
+    "reading": "소",
+    "koreanMeaning": "통하다",
+    "pages": [
+      148
+    ],
+    "y": 0.759000000218666,
+    "raw": "통하다 소"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 28,
+    "hanja": "速",
+    "reading": "속",
+    "koreanMeaning": "빠르다",
+    "pages": [
+      122
+    ],
+    "y": 0.7834716979654393,
+    "raw": "빠르다 속"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 29,
+    "hanja": "孫",
+    "reading": "손",
+    "koreanMeaning": "손자",
+    "pages": [
+      72
+    ],
+    "y": 0.8059245281857104,
+    "raw": "손자 손"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 30,
+    "hanja": "送",
+    "reading": "송",
+    "koreanMeaning": "보내다",
+    "pages": [
+      100,
+      128
+    ],
+    "y": 0.8307814914536956,
+    "raw": "보내다 송"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 31,
+    "hanja": "水",
+    "reading": "수",
+    "koreanMeaning": "물",
+    "pages": [
+      24
+    ],
+    "y": 0.855250000215829,
+    "raw": "물 수"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 32,
+    "hanja": "手",
+    "reading": "수",
+    "koreanMeaning": "손",
+    "pages": [
+      48
+    ],
+    "y": 0.8784150945044745,
+    "raw": "손수"
+  },
+  {
+    "indexPage": 182,
+    "col": 2,
+    "row": 33,
+    "hanja": "授",
+    "reading": "수",
+    "koreanMeaning": "주다",
+    "pages": [
+      112
+    ],
+    "y": 0.9027500000424816,
+    "raw": "주다"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 0,
+    "hanja": "宿",
+    "reading": "숙",
+    "koreanMeaning": "자다",
+    "pages": [
+      98
+    ],
+    "y": 0.1117500001842943,
+    "raw": "자다 숙"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 1,
+    "hanja": "術",
+    "reading": "술",
+    "koreanMeaning": "방법",
+    "pages": [
+      118,
+      158
+    ],
+    "y": 0.13470601746953426,
+    "raw": "방법 술"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 2,
+    "hanja": "習",
+    "reading": "습",
+    "koreanMeaning": "익히다",
+    "pages": [
+      98
+    ],
+    "y": 0.1579999997768385,
+    "raw": "익히다 습"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 3,
+    "hanja": "乘",
+    "reading": "승",
+    "koreanMeaning": "타다",
+    "pages": [
+      122
+    ],
+    "y": 0.18299999987626037,
+    "raw": "타다"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 4,
+    "hanja": "時",
+    "reading": "시",
+    "koreanMeaning": "때",
+    "pages": [
+      24
+    ],
+    "y": 0.20799999993451868,
+    "raw": "때시"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 5,
+    "hanja": "視",
+    "reading": "시",
+    "koreanMeaning": "보다",
+    "pages": [
+      128
+    ],
+    "y": 0.2311320753979746,
+    "raw": "보다 시"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 6,
+    "hanja": "市",
+    "reading": "시",
+    "koreanMeaning": "시장",
+    "pages": [
+      136
+    ],
+    "y": 0.2542264150182575,
+    "raw": "시장 시"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 7,
+    "hanja": "食",
+    "reading": "식",
+    "koreanMeaning": "먹다, 밥",
+    "pages": [
+      112,
+      140
+    ],
+    "y": 0.27913874762322544,
+    "raw": "먹다, 밥 식"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 8,
+    "hanja": "式",
+    "reading": "식",
+    "koreanMeaning": "법",
+    "pages": [
+      92
+    ],
+    "y": 0.30298113200174814,
+    "raw": "법식"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 9,
+    "hanja": "息",
+    "reading": "식",
+    "koreanMeaning": "쉬다",
+    "pages": [
+      143
+    ],
+    "y": 0.3267169810704273,
+    "raw": "쉬다 식"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 10,
+    "hanja": "識",
+    "reading": "식",
+    "koreanMeaning": "알다",
+    "pages": [
+      136,
+      146
+    ],
+    "y": 0.35152587748169906,
+    "raw": "알다 식"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 11,
+    "hanja": "身",
+    "reading": "신",
+    "koreanMeaning": "몸",
+    "pages": [
+      48
+    ],
+    "y": 0.3760000002378324,
+    "raw": "몸 신"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 12,
+    "hanja": "信",
+    "reading": "신",
+    "koreanMeaning": "믿다",
+    "pages": [
+      104
+    ],
+    "y": 0.39920754733466335,
+    "raw": "믿다 신"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 13,
+    "hanja": "新",
+    "reading": "신",
+    "koreanMeaning": "새롭다",
+    "pages": [
+      94,
+      128
+    ],
+    "y": 0.423826114231058,
+    "raw": "새롭다 신"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 14,
+    "hanja": "室",
+    "reading": "실",
+    "koreanMeaning": "방",
+    "pages": [
+      78
+    ],
+    "y": 0.4479622641754313,
+    "raw": "방 실"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 15,
+    "hanja": "實",
+    "reading": "실",
+    "koreanMeaning": "열매",
+    "pages": [
+      129,
+      136,
+      146
+    ],
+    "y": 0.4716271368064895,
+    "raw": "열매 실"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 16,
+    "hanja": "失",
+    "reading": "실",
+    "koreanMeaning": "잃다",
+    "pages": [
+      136
+    ],
+    "y": 0.4954339624895677,
+    "raw": "잃다 실"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 17,
+    "hanja": "心",
+    "reading": "심",
+    "koreanMeaning": "마음",
+    "pages": [
+      48
+    ],
+    "y": 0.5197500000039121,
+    "raw": "마음 심"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 18,
+    "hanja": "十",
+    "reading": "십",
+    "koreanMeaning": "열",
+    "pages": [
+      18
+    ],
+    "y": 0.5434999999636477,
+    "raw": "열 십"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 19,
+    "hanja": "兒",
+    "reading": "아",
+    "koreanMeaning": "아이",
+    "pages": [
+      99
+    ],
+    "y": 0.6032075473878679,
+    "raw": "아이 아"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 20,
+    "hanja": "樂",
+    "reading": "악/락",
+    "koreanMeaning": "음악, 즐기다",
+    "pages": [
+      118,
+      134
+    ],
+    "y": 0.627496831459692,
+    "raw": "음악, 즐기다 악/락"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 21,
+    "hanja": "案",
+    "reading": "안",
+    "koreanMeaning": "생각",
+    "pages": [
+      124
+    ],
+    "y": 0.6524999998432347,
+    "raw": "생각 안"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 22,
+    "hanja": "安",
+    "reading": "안",
+    "koreanMeaning": "편안하다",
+    "pages": [
+      160
+    ],
+    "y": 0.6749999998033979,
+    "raw": "편안하다 안"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 23,
+    "hanja": "愛",
+    "reading": "애",
+    "koreanMeaning": "사랑",
+    "pages": [
+      92
+    ],
+    "y": 0.6994339624754359,
+    "raw": "사랑 애"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 24,
+    "hanja": "夜",
+    "reading": "야",
+    "koreanMeaning": "밤",
+    "pages": [
+      84
+    ],
+    "y": 0.7231698115320397,
+    "raw": "밤야"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 25,
+    "hanja": "約",
+    "reading": "약",
+    "koreanMeaning": "약속하다",
+    "pages": [
+      94
+    ],
+    "y": 0.7494716981865528,
+    "raw": "약속하다 약"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 26,
+    "hanja": "養",
+    "reading": "양",
+    "koreanMeaning": "기르다",
+    "pages": [
+      93
+    ],
+    "y": 0.7712500001512728,
+    "raw": "기르다 양"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 27,
+    "hanja": "語",
+    "reading": "어",
+    "koreanMeaning": "말씀",
+    "pages": [
+      152
+    ],
+    "y": 0.7950000001633983,
+    "raw": "말씀 어"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 28,
+    "hanja": "魚",
+    "reading": "어",
+    "koreanMeaning": "물고기",
+    "pages": [
+      66
+    ],
+    "y": 0.8193962264441105,
+    "raw": "물고기 어"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 29,
+    "hanja": "言",
+    "reading": "언",
+    "koreanMeaning": "말씀",
+    "pages": [
+      136,
+      152
+    ],
+    "y": 0.8435214723703384,
+    "raw": "말씀 언"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 30,
+    "hanja": "業",
+    "reading": "업",
+    "koreanMeaning": "일",
+    "pages": [
+      95,
+      116
+    ],
+    "y": 0.867499999777701,
+    "raw": "일 업"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 31,
+    "hanja": "旅",
+    "reading": "려/여",
+    "koreanMeaning": "여행하다",
+    "pages": [
+      94
+    ],
+    "y": 0.8918867924580729,
+    "raw": "여행하다 려/여"
+  },
+  {
+    "indexPage": 183,
+    "col": 0,
+    "row": 32,
+    "hanja": "研",
+    "reading": "연",
+    "koreanMeaning": "갈다",
+    "pages": [
+      124
+    ],
+    "y": 0.9154999999849402,
+    "raw": "갈다 연"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 0,
+    "hanja": "然",
+    "reading": "연",
+    "koreanMeaning": "그러하다",
+    "pages": [
+      105
+    ],
+    "y": 0.1111698112446727,
+    "raw": "그러하다 연"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 1,
+    "hanja": "戀",
+    "reading": "련/연",
+    "koreanMeaning": "사모하다",
+    "pages": [
+      94
+    ],
+    "y": 0.1349056602611821,
+    "raw": "사모하다 련/연"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 2,
+    "hanja": "演",
+    "reading": "연",
+    "koreanMeaning": "연극",
+    "pages": [
+      124
+    ],
+    "y": 0.15925000002960416,
+    "raw": "연극 연"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 3,
+    "hanja": "映",
+    "reading": "영",
+    "koreanMeaning": "비치다",
+    "pages": [
+      128
+    ],
+    "y": 0.1830000001710803,
+    "raw": "비치다 영"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 4,
+    "hanja": "豫",
+    "reading": "예",
+    "koreanMeaning": "미리",
+    "pages": [
+      98
+    ],
+    "y": 0.20674999999178678,
+    "raw": "미리 예"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 5,
+    "hanja": "藝",
+    "reading": "예",
+    "koreanMeaning": "예술",
+    "pages": [
+      101
+    ],
+    "y": 0.2324150941926932,
+    "raw": "예술 예"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 6,
+    "hanja": "五",
+    "reading": "오",
+    "koreanMeaning": "다섯",
+    "pages": [
+      18
+    ],
+    "y": 0.2542264151724446,
+    "raw": "다섯 오"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 7,
+    "hanja": "娛",
+    "reading": "오",
+    "koreanMeaning": "즐거워하다",
+    "pages": [
+      135
+    ],
+    "y": 0.2785000001043282,
+    "raw": "즐거워하다 오"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 8,
+    "hanja": "溫",
+    "reading": "온",
+    "koreanMeaning": "따뜻하다",
+    "pages": [
+      60
+    ],
+    "y": 0.30298113200384463,
+    "raw": "따뜻하다 온"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 9,
+    "hanja": "完",
+    "reading": "완",
+    "koreanMeaning": "끝내다",
+    "pages": [
+      148
+    ],
+    "y": 0.3272499998506032,
+    "raw": "끝내다 완"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 10,
+    "hanja": "玩",
+    "reading": "완",
+    "koreanMeaning": "놀다",
+    "pages": [
+      94
+    ],
+    "y": 0.3504528300610473,
+    "raw": "놀다 완"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 11,
+    "hanja": "往",
+    "reading": "왕",
+    "koreanMeaning": "가다",
+    "pages": [
+      100
+    ],
+    "y": 0.3754716980799596,
+    "raw": "가다 왕"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 12,
+    "hanja": "外",
+    "reading": "외",
+    "koreanMeaning": "바깥",
+    "pages": [
+      30
+    ],
+    "y": 0.3984999999737059,
+    "raw": "바깥 외"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 13,
+    "hanja": "謠",
+    "reading": "요",
+    "koreanMeaning": "노래",
+    "pages": [
+      131
+    ],
+    "y": 0.42294339645395174,
+    "raw": "노래 요"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 14,
+    "hanja": "用",
+    "reading": "용",
+    "koreanMeaning": "사용하다",
+    "pages": [
+      105,
+      152
+    ],
+    "y": 0.44777055038045166,
+    "raw": "사용하다 용"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 15,
+    "hanja": "雨",
+    "reading": "우",
+    "koreanMeaning": "비",
+    "pages": [
+      60
+    ],
+    "y": 0.4704150942119908,
+    "raw": "비우"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 16,
+    "hanja": "右",
+    "reading": "우",
+    "koreanMeaning": "오른",
+    "pages": [
+      36
+    ],
+    "y": 0.5185000000993145,
+    "raw": "오른 우"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 17,
+    "hanja": "友",
+    "reading": "우",
+    "koreanMeaning": "친구",
+    "pages": [
+      94
+    ],
+    "y": 0.5441886790829739,
+    "raw": "친구 우"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 18,
+    "hanja": "雲",
+    "reading": "운",
+    "koreanMeaning": "구름",
+    "pages": [
+      60
+    ],
+    "y": 0.5679245281438543,
+    "raw": "구름 운"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 19,
+    "hanja": "運",
+    "reading": "운",
+    "koreanMeaning": "돌다",
+    "pages": [
+      124
+    ],
+    "y": 0.5916603771643733,
+    "raw": "돌다 운"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 20,
+    "hanja": "員",
+    "reading": "원",
+    "koreanMeaning": "사람",
+    "pages": [
+      116
+    ],
+    "y": 0.6153962264540161,
+    "raw": "사람 원"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 21,
+    "hanja": "院",
+    "reading": "원",
+    "koreanMeaning": "집",
+    "pages": [
+      93
+    ],
+    "y": 0.6397500000898722,
+    "raw": "집원"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 22,
+    "hanja": "月",
+    "reading": "월",
+    "koreanMeaning": "달",
+    "pages": [
+      24
+    ],
+    "y": 0.6634999997716802,
+    "raw": "달 월"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 23,
+    "hanja": "由",
+    "reading": "유",
+    "koreanMeaning": "이유",
+    "pages": [
+      105
+    ],
+    "y": 0.685962264034767,
+    "raw": "이유 유"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 24,
+    "hanja": "遺",
+    "reading": "유",
+    "koreanMeaning": "남기다",
+    "pages": [
+      134
+    ],
+    "y": 0.7099902275004967,
+    "raw": "남기다 유"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 25,
+    "hanja": "有",
+    "reading": "유",
+    "koreanMeaning": "있다",
+    "pages": [
+      134
+    ],
+    "y": 0.7347169813481403,
+    "raw": "있다 유"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 26,
+    "hanja": "愉",
+    "reading": "유",
+    "koreanMeaning": "즐겁다",
+    "pages": [
+      107
+    ],
+    "y": 0.7577499998568328,
+    "raw": "즐겁다 유"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 27,
+    "hanja": "肉",
+    "reading": "육",
+    "koreanMeaning": "고기",
+    "pages": [
+      48
+    ],
+    "y": 0.7821886793020043,
+    "raw": "고기 육"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 28,
+    "hanja": "育",
+    "reading": "육",
+    "koreanMeaning": "기르다",
+    "pages": [
+      98
+    ],
+    "y": 0.8059245282281632,
+    "raw": "기르다 육"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 29,
+    "hanja": "六",
+    "reading": "륙/육",
+    "koreanMeaning": "여섯",
+    "pages": [
+      18
+    ],
+    "y": 0.8302499999328177,
+    "raw": "여섯 륙/육"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 30,
+    "hanja": "飮",
+    "reading": "음",
+    "koreanMeaning": "마시다",
+    "pages": [
+      143
+    ],
+    "y": 0.8546792452223577,
+    "raw": "마시다 음"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 31,
+    "hanja": "音",
+    "reading": "음",
+    "koreanMeaning": "소리",
+    "pages": [
+      118
+    ],
+    "y": 0.8796981130597789,
+    "raw": "소리 음"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 32,
+    "hanja": "意",
+    "reading": "의",
+    "koreanMeaning": "뜻",
+    "pages": [
+      146
+    ],
+    "y": 0.9021509436227473,
+    "raw": "뜻의"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 0,
+    "hanja": "衣",
+    "reading": "의",
+    "koreanMeaning": "옷",
+    "pages": [
+      54
+    ],
+    "y": 0.11245283000819398,
+    "raw": "옷의"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 1,
+    "hanja": "醫",
+    "reading": "의",
+    "koreanMeaning": "치료하다",
+    "pages": [
+      118
+    ],
+    "y": 0.1361886790966059,
+    "raw": "치료하다 의"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 2,
+    "hanja": "耳",
+    "reading": "이",
+    "koreanMeaning": "귀",
+    "pages": [
+      48
+    ],
+    "y": 0.16049999992293987,
+    "raw": "귀이"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 3,
+    "hanja": "二",
+    "reading": "이",
+    "koreanMeaning": "둘",
+    "pages": [
+      18
+    ],
+    "y": 0.1829999998121094,
+    "raw": "둘이"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 4,
+    "hanja": "益",
+    "reading": "익",
+    "koreanMeaning": "더하다",
+    "pages": [
+      161
+    ],
+    "y": 0.20799999994895257,
+    "raw": "더하다 익"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 5,
+    "hanja": "人",
+    "reading": "인",
+    "koreanMeaning": "사람",
+    "pages": [
+      42
+    ],
+    "y": 0.2317499999200725,
+    "raw": "사람 인"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 6,
+    "hanja": "認",
+    "reading": "인",
+    "koreanMeaning": "알다",
+    "pages": [
+      148
+    ],
+    "y": 0.25615094324754933,
+    "raw": "알다 인"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 7,
+    "hanja": "日",
+    "reading": "일",
+    "koreanMeaning": "날",
+    "pages": [
+      24
+    ],
+    "y": 0.2805000000129091,
+    "raw": "날 일"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 8,
+    "hanja": "一",
+    "reading": "일",
+    "koreanMeaning": "하나",
+    "pages": [
+      18
+    ],
+    "y": 0.304249999974783,
+    "raw": "하나 일"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 9,
+    "hanja": "入",
+    "reading": "입",
+    "koreanMeaning": "들어가다",
+    "pages": [
+      30
+    ],
+    "y": 0.327249999838194,
+    "raw": "들어가다 입"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 10,
+    "hanja": "者",
+    "reading": "자",
+    "koreanMeaning": "사람",
+    "pages": [
+      101,
+      116
+    ],
+    "y": 0.3882500000845649,
+    "raw": "사람 자"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 11,
+    "hanja": "自",
+    "reading": "자",
+    "koreanMeaning": "스스로",
+    "pages": [
+      104
+    ],
+    "y": 0.41267924513525067,
+    "raw": "스스로 자"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 12,
+    "hanja": "子",
+    "reading": "자",
+    "koreanMeaning": "아들",
+    "pages": [
+      72
+    ],
+    "y": 0.4357499998041978,
+    "raw": "아들 자"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 13,
+    "hanja": "資",
+    "reading": "자",
+    "koreanMeaning": "재물",
+    "pages": [
+      105
+    ],
+    "y": 0.4601509434351483,
+    "raw": "재물 자"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 14,
+    "hanja": "作",
+    "reading": "작",
+    "koreanMeaning": "짓다",
+    "pages": [
+      152
+    ],
+    "y": 0.48388679244363886,
+    "raw": "짓다 작"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 15,
+    "hanja": "長",
+    "reading": "장",
+    "koreanMeaning": "길다",
+    "pages": [
+      30
+    ],
+    "y": 0.5069811321610609,
+    "raw": "길다"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 16,
+    "hanja": "臟",
+    "reading": "장",
+    "koreanMeaning": "내장",
+    "pages": [
+      93
+    ],
+    "y": 0.5312500000252427,
+    "raw": "내창 짱"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 17,
+    "hanja": "場",
+    "reading": "장",
+    "koreanMeaning": "마당",
+    "pages": [
+      112
+    ],
+    "y": 0.5557358492841404,
+    "raw": "마당 장"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 18,
+    "hanja": "葬",
+    "reading": "장",
+    "koreanMeaning": "장사 지내다",
+    "pages": [
+      95
+    ],
+    "y": 0.5787499998563975,
+    "raw": "장사 지내다 짱"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 19,
+    "hanja": "場",
+    "reading": "장",
+    "koreanMeaning": "장소",
+    "pages": [
+      122
+    ],
+    "y": 0.6032075473982855,
+    "raw": "장소 장"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 20,
+    "hanja": "在",
+    "reading": "재",
+    "koreanMeaning": "있다",
+    "pages": [
+      84
+    ],
+    "y": 0.6274999997772069,
+    "raw": "있다 재"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 21,
+    "hanja": "財",
+    "reading": "재",
+    "koreanMeaning": "재물",
+    "pages": [
+      110
+    ],
+    "y": 0.6499999999787803,
+    "raw": "재물 재"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 22,
+    "hanja": "爭",
+    "reading": "쟁",
+    "koreanMeaning": "싸우다",
+    "pages": [
+      153
+    ],
+    "y": 0.6750000000811109,
+    "raw": "싸우다 쟁"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 23,
+    "hanja": "低",
+    "reading": "저",
+    "koreanMeaning": "낮다",
+    "pages": [
+      30
+    ],
+    "y": 0.6987499999419117,
+    "raw": "낮다 저"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 24,
+    "hanja": "的",
+    "reading": "적",
+    "koreanMeaning": "과녁",
+    "pages": [
+      104
+    ],
+    "y": 0.7228446124387223,
+    "raw": "과녁 적"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 25,
+    "hanja": "赤",
+    "reading": "적",
+    "koreanMeaning": "붉다",
+    "pages": [
+      54
+    ],
+    "y": 0.7494716981388517,
+    "raw": "붉다 적"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 26,
+    "hanja": "全",
+    "reading": "전",
+    "koreanMeaning": "모두",
+    "pages": [
+      140
+    ],
+    "y": 0.771924528330903,
+    "raw": "모두 전"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 27,
+    "hanja": "典",
+    "reading": "전",
+    "koreanMeaning": "법, 책",
+    "pages": [
+      137
+    ],
+    "y": 0.7943773584168424,
+    "raw": "법, 책 전"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 28,
+    "hanja": "前",
+    "reading": "전",
+    "koreanMeaning": "앞",
+    "pages": [
+      36
+    ],
+    "y": 0.8179999998409407,
+    "raw": "앞전"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 29,
+    "hanja": "傳",
+    "reading": "전",
+    "koreanMeaning": "전하다",
+    "pages": [
+      134
+    ],
+    "y": 0.8437500001019005,
+    "raw": "전하다 전"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 30,
+    "hanja": "展",
+    "reading": "전",
+    "koreanMeaning": "펴다",
+    "pages": [
+      159
+    ],
+    "y": 0.8667500000655919,
+    "raw": "펴다 전"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 31,
+    "hanja": "切",
+    "reading": "절",
+    "koreanMeaning": "정성스럽다",
+    "pages": [
+      95
+    ],
+    "y": 0.889962264261792,
+    "raw": "정성스럽다 절"
+  },
+  {
+    "indexPage": 183,
+    "col": 2,
+    "row": 32,
+    "hanja": "店",
+    "reading": "점",
+    "koreanMeaning": "가게",
+    "pages": [
+      101,
+      152
+    ],
+    "y": 0.9154999997963632,
+    "raw": "가게 점"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 0,
+    "hanja": "點",
+    "reading": "점",
+    "koreanMeaning": "점",
+    "pages": [
+      104
+    ],
+    "y": 0.11245283004000217,
+    "raw": "점 점"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 1,
+    "hanja": "情",
+    "reading": "정",
+    "koreanMeaning": "뜻",
+    "pages": [
+      92
+    ],
+    "y": 0.13618867927429926,
+    "raw": "뜻정"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 2,
+    "hanja": "政",
+    "reading": "정",
+    "koreanMeaning": "정사",
+    "pages": [
+      141
+    ],
+    "y": 0.1605000002223887,
+    "raw": "정사정"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 3,
+    "hanja": "濟",
+    "reading": "제",
+    "koreanMeaning": "구하다",
+    "pages": [
+      110
+    ],
+    "y": 0.18366037733898927,
+    "raw": "구하다 제"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 4,
+    "hanja": "際",
+    "reading": "제",
+    "koreanMeaning": "사이",
+    "pages": [
+      153
+    ],
+    "y": 0.20799999989052942,
+    "raw": "사이 제"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 5,
+    "hanja": "弟",
+    "reading": "제",
+    "koreanMeaning": "아우",
+    "pages": [
+      72
+    ],
+    "y": 0.23174999999644263,
+    "raw": "아우 제"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 6,
+    "hanja": "題",
+    "reading": "제",
+    "koreanMeaning": "제목",
+    "pages": [
+      98
+    ],
+    "y": 0.2542264151724446,
+    "raw": "제목 제"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 7,
+    "hanja": "鳥",
+    "reading": "조",
+    "koreanMeaning": "새",
+    "pages": [
+      66
+    ],
+    "y": 0.27796226392778195,
+    "raw": "사"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 8,
+    "hanja": "朝",
+    "reading": "조",
+    "koreanMeaning": "아침",
+    "pages": [
+      84
+    ],
+    "y": 0.3022499999648931,
+    "raw": "아침 조"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 9,
+    "hanja": "祖",
+    "reading": "조",
+    "koreanMeaning": "할아버지",
+    "pages": [
+      72
+    ],
+    "y": 0.3267169810559934,
+    "raw": "할아버지 조"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 10,
+    "hanja": "族",
+    "reading": "족",
+    "koreanMeaning": "겨레",
+    "pages": [
+      72
+    ],
+    "y": 0.3510000001802869,
+    "raw": "겨레 족"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 11,
+    "hanja": "足",
+    "reading": "족",
+    "koreanMeaning": "발, 만족하다",
+    "pages": [
+      48,
+      160
+    ],
+    "y": 0.3760660968406341,
+    "raw": "발, 만족하다 족"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 12,
+    "hanja": "卒",
+    "reading": "졸",
+    "koreanMeaning": "마치다",
+    "pages": [
+      95
+    ],
+    "y": 0.3985000000072487,
+    "raw": "마치다 졸"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 13,
+    "hanja": "從",
+    "reading": "종",
+    "koreanMeaning": "따르다",
+    "pages": [
+      118
+    ],
+    "y": 0.423500000065004,
+    "raw": "따르다 종"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 14,
+    "hanja": "左",
+    "reading": "좌",
+    "koreanMeaning": "왼",
+    "pages": [
+      36
+    ],
+    "y": 0.4460000000233558,
+    "raw": "왼 좌"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 15,
+    "hanja": "晝",
+    "reading": "주",
+    "koreanMeaning": "낮",
+    "pages": [
+      84
+    ],
+    "y": 0.47169811323444066,
+    "raw": "낮주"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 16,
+    "hanja": "竹",
+    "reading": "죽",
+    "koreanMeaning": "대나무",
+    "pages": [
+      66
+    ],
+    "y": 0.4941509435095516,
+    "raw": "대나무 죽"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 17,
+    "hanja": "中",
+    "reading": "중",
+    "koreanMeaning": "가운데",
+    "pages": [
+      36
+    ],
+    "y": 0.5178867922296687,
+    "raw": "가운데 중"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 18,
+    "hanja": "重",
+    "reading": "중",
+    "koreanMeaning": "무겁다",
+    "pages": [
+      106
+    ],
+    "y": 0.5434999998629441,
+    "raw": "무겁다 중"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 19,
+    "hanja": "衆",
+    "reading": "중",
+    "koreanMeaning": "무리",
+    "pages": [
+      128
+    ],
+    "y": 0.567250000015892,
+    "raw": "무리 중"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 20,
+    "hanja": "增",
+    "reading": "증",
+    "koreanMeaning": "늘다",
+    "pages": [
+      113
+    ],
+    "y": 0.5909999999355139,
+    "raw": "늘다 증"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 21,
+    "hanja": "地",
+    "reading": "지",
+    "koreanMeaning": "땅",
+    "pages": [
+      42
+    ],
+    "y": 0.6153962264395823,
+    "raw": "땅지"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 22,
+    "hanja": "知",
+    "reading": "지",
+    "koreanMeaning": "알다",
+    "pages": [
+      146
+    ],
+    "y": 0.6397499999029412,
+    "raw": "알다 지"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 23,
+    "hanja": "職",
+    "reading": "직",
+    "koreanMeaning": "맡다",
+    "pages": [
+      116
+    ],
+    "y": 0.6635000000697735,
+    "raw": "맡다 직"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 24,
+    "hanja": "進",
+    "reading": "진",
+    "koreanMeaning": "나아가다",
+    "pages": [
+      123,
+      158
+    ],
+    "y": 0.6871580674478702,
+    "raw": "나아가다 진"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 25,
+    "hanja": "叉",
+    "reading": "차",
+    "koreanMeaning": "엇갈리다",
+    "pages": [
+      123
+    ],
+    "y": 0.7469056605934233,
+    "raw": "엇갈리다 차"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 26,
+    "hanja": "車",
+    "reading": "차",
+    "koreanMeaning": "차",
+    "pages": [
+      54
+    ],
+    "y": 0.7712500000201241,
+    "raw": "차차"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 27,
+    "hanja": "參",
+    "reading": "참",
+    "koreanMeaning": "참여하다",
+    "pages": [
+      113
+    ],
+    "y": 0.794999999935514,
+    "raw": "참여하다 참"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 28,
+    "hanja": "窓",
+    "reading": "창",
+    "koreanMeaning": "창",
+    "pages": [
+      117
+    ],
+    "y": 0.819396226220977,
+    "raw": "창 창"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 29,
+    "hanja": "川",
+    "reading": "천",
+    "koreanMeaning": "내",
+    "pages": [
+      42
+    ],
+    "y": 0.8437500000874663,
+    "raw": "내 천"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 30,
+    "hanja": "踐",
+    "reading": "천",
+    "koreanMeaning": "밟다, 실천하다",
+    "pages": [
+      149
+    ],
+    "y": 0.8681509432484581,
+    "raw": "밟다, 실천하다 천"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 31,
+    "hanja": "千",
+    "reading": "천",
+    "koreanMeaning": "일천",
+    "pages": [
+      18
+    ],
+    "y": 0.891886792292793,
+    "raw": "일천 천"
+  },
+  {
+    "indexPage": 184,
+    "col": 0,
+    "row": 32,
+    "hanja": "天",
+    "reading": "천",
+    "koreanMeaning": "하늘",
+    "pages": [
+      42
+    ],
+    "y": 0.9154999999705062,
+    "raw": "하늘 천"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 0,
+    "hanja": "聽",
+    "reading": "청",
+    "koreanMeaning": "듣다",
+    "pages": [
+      128
+    ],
+    "y": 0.1111698116007347,
+    "raw": "듣다 청"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 1,
+    "hanja": "靑",
+    "reading": "청",
+    "koreanMeaning": "푸르다",
+    "pages": [
+      54
+    ],
+    "y": 0.13618867940448792,
+    "raw": "푸르다 청"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 2,
+    "hanja": "體",
+    "reading": "체",
+    "koreanMeaning": "몸",
+    "pages": [
+      154
+    ],
+    "y": 0.15992452828238554,
+    "raw": "몸 체"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 3,
+    "hanja": "草",
+    "reading": "초",
+    "koreanMeaning": "풀",
+    "pages": [
+      66
+    ],
+    "y": 0.18299999989051613,
+    "raw": "풀초"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 4,
+    "hanja": "最",
+    "reading": "최",
+    "koreanMeaning": "가장",
+    "pages": [
+      128
+    ],
+    "y": 0.20800000010982203,
+    "raw": "가장 최"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 5,
+    "hanja": "秋",
+    "reading": "추",
+    "koreanMeaning": "가을",
+    "pages": [
+      60
+    ],
+    "y": 0.23113207549986137,
+    "raw": "가을 추"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 6,
+    "hanja": "春",
+    "reading": "춘",
+    "koreanMeaning": "봄",
+    "pages": [
+      60
+    ],
+    "y": 0.2542264151510609,
+    "raw": "봄 춘"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 7,
+    "hanja": "出",
+    "reading": "출",
+    "koreanMeaning": "나가다",
+    "pages": [
+      30
+    ],
+    "y": 0.2785000001078659,
+    "raw": "나가다 출"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 8,
+    "hanja": "就",
+    "reading": "취",
+    "koreanMeaning": "이루다",
+    "pages": [
+      117
+    ],
+    "y": 0.3042499997989928,
+    "raw": "이루다 취"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 9,
+    "hanja": "取",
+    "reading": "취",
+    "koreanMeaning": "가지다",
+    "pages": [
+      131
+    ],
+    "y": 0.32671698118773185,
+    "raw": "가지다 취"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 10,
+    "hanja": "治",
+    "reading": "치",
+    "koreanMeaning": "다스리다",
+    "pages": [
+      141
+    ],
+    "y": 0.351735849202062,
+    "raw": "다스리다 치"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 11,
+    "hanja": "齒",
+    "reading": "치",
+    "koreanMeaning": "이",
+    "pages": [
+      48
+    ],
+    "y": 0.37600000003464107,
+    "raw": "이치"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 12,
+    "hanja": "親",
+    "reading": "친",
+    "koreanMeaning": "친하다",
+    "pages": [
+      92
+    ],
+    "y": 0.3997500000422449,
+    "raw": "친하다 친"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 13,
+    "hanja": "七",
+    "reading": "칠",
+    "koreanMeaning": "일곱",
+    "pages": [
+      18
+    ],
+    "y": 0.42350000001648647,
+    "raw": "일곱 칠"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 14,
+    "hanja": "快",
+    "reading": "쾌",
+    "koreanMeaning": "즐겁다",
+    "pages": [
+      104
+    ],
+    "y": 0.4845000000717141,
+    "raw": "즐겁다 쾌"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 15,
+    "hanja": "討",
+    "reading": "토",
+    "koreanMeaning": "치다",
+    "pages": [
+      147
+    ],
+    "y": 0.544750000237665,
+    "raw": "치다 토"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 16,
+    "hanja": "土",
+    "reading": "토",
+    "koreanMeaning": "흙",
+    "pages": [
+      24
+    ],
+    "y": 0.5685000000477244,
+    "raw": "흙 토"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 17,
+    "hanja": "統",
+    "reading": "통",
+    "koreanMeaning": "거느리다",
+    "pages": [
+      134
+    ],
+    "y": 0.5922499997772942,
+    "raw": "거느리다 통"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 18,
+    "hanja": "通",
+    "reading": "통",
+    "koreanMeaning": "통하다",
+    "pages": [
+      112,
+      122
+    ],
+    "y": 0.6165786242088496,
+    "raw": "통하다 통"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 19,
+    "hanja": "特",
+    "reading": "특",
+    "koreanMeaning": "특별하다",
+    "pages": [
+      159
+    ],
+    "y": 0.6397499998642988,
+    "raw": "특별하다 특"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 20,
+    "hanja": "販",
+    "reading": "판",
+    "koreanMeaning": "팔다",
+    "pages": [
+      118
+    ],
+    "y": 0.7000000001807223,
+    "raw": "팔다 판"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 21,
+    "hanja": "八",
+    "reading": "팔",
+    "koreanMeaning": "여덟",
+    "pages": [
+      18
+    ],
+    "y": 0.7250000001553594,
+    "raw": "여덟 팔"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 22,
+    "hanja": "貝",
+    "reading": "패",
+    "koreanMeaning": "조개",
+    "pages": [
+      66
+    ],
+    "y": 0.7474999998862656,
+    "raw": "조개 패"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 23,
+    "hanja": "偏",
+    "reading": "편",
+    "koreanMeaning": "치우치다",
+    "pages": [
+      159
+    ],
+    "y": 0.7719245285818668,
+    "raw": "치우치다 편"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 24,
+    "hanja": "便",
+    "reading": "편",
+    "koreanMeaning": "편하다",
+    "pages": [
+      161
+    ],
+    "y": 0.7969433961378795,
+    "raw": "편하다 편"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 25,
+    "hanja": "評",
+    "reading": "평",
+    "koreanMeaning": "평하다",
+    "pages": [
+      111
+    ],
+    "y": 0.8206792451089486,
+    "raw": "평하다 평"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 26,
+    "hanja": "品",
+    "reading": "품",
+    "koreanMeaning": "물건",
+    "pages": [
+      142
+    ],
+    "y": 0.8450000001718224,
+    "raw": "물건 품"
+  },
+  {
+    "indexPage": 184,
+    "col": 1,
+    "row": 27,
+    "hanja": "風",
+    "reading": "풍",
+    "koreanMeaning": "바람",
+    "pages": [
+      60
+    ],
+    "y": 0.867500000142517,
+    "raw": "바람 풍"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 0,
+    "hanja": "下",
+    "reading": "하",
+    "koreanMeaning": "아래",
+    "pages": [
+      36
+    ],
+    "y": 0.13939622654685033,
+    "raw": "아래 하"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 1,
+    "hanja": "夏",
+    "reading": "하",
+    "koreanMeaning": "여름",
+    "pages": [
+      60
+    ],
+    "y": 0.1631320753093889,
+    "raw": "여름 하"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 2,
+    "hanja": "學",
+    "reading": "학",
+    "koreanMeaning": "배우다",
+    "pages": [
+      78
+    ],
+    "y": 0.18675000015485527,
+    "raw": "배우다 학"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 3,
+    "hanja": "限",
+    "reading": "한",
+    "koreanMeaning": "한정하다",
+    "pages": [
+      141
+    ],
+    "y": 0.21124528315849922,
+    "raw": "한정하다 한"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 4,
+    "hanja": "合",
+    "reading": "합",
+    "koreanMeaning": "합하다",
+    "pages": [
+      94
+    ],
+    "y": 0.23498113191543443,
+    "raw": "합하다 합"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 5,
+    "hanja": "海",
+    "reading": "해",
+    "koreanMeaning": "바다",
+    "pages": [
+      42
+    ],
+    "y": 0.2580000002181436,
+    "raw": "바다 해"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 6,
+    "hanja": "解",
+    "reading": "해",
+    "koreanMeaning": "풀다",
+    "pages": [
+      147
+    ],
+    "y": 0.2830000000938815,
+    "raw": "풀다 해"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 7,
+    "hanja": "行",
+    "reading": "행",
+    "koreanMeaning": "다니다",
+    "pages": [
+      94,
+      140
+    ],
+    "y": 0.3066536042861434,
+    "raw": "다니다 행"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 8,
+    "hanja": "鄉",
+    "reading": "향",
+    "koreanMeaning": "시골",
+    "pages": [
+      136
+    ],
+    "y": 0.33050000010786595,
+    "raw": "시골 향"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 9,
+    "hanja": "向",
+    "reading": "향",
+    "koreanMeaning": "향하다",
+    "pages": [
+      106
+    ],
+    "y": 0.3536603775342253,
+    "raw": "향하다 향"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 10,
+    "hanja": "險",
+    "reading": "험",
+    "koreanMeaning": "험하다",
+    "pages": [
+      112
+    ],
+    "y": 0.37867924506618134,
+    "raw": "험하다 험"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 11,
+    "hanja": "現",
+    "reading": "현",
+    "koreanMeaning": "지금",
+    "pages": [
+      84
+    ],
+    "y": 0.40300000018385085,
+    "raw": "지금 현"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 12,
+    "hanja": "血",
+    "reading": "혈",
+    "koreanMeaning": "피",
+    "pages": [
+      48
+    ],
+    "y": 0.4267499998579566,
+    "raw": "피혈"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 13,
+    "hanja": "刑",
+    "reading": "형",
+    "koreanMeaning": "형벌",
+    "pages": [
+      93
+    ],
+    "y": 0.44988679266665454,
+    "raw": "형벌 형"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 14,
+    "hanja": "兄",
+    "reading": "형",
+    "koreanMeaning": "형",
+    "pages": [
+      72
+    ],
+    "y": 0.474905660219326,
+    "raw": "형형"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 15,
+    "hanja": "號",
+    "reading": "호",
+    "koreanMeaning": "번호",
+    "pages": [
+      124
+    ],
+    "y": 0.4992500001311364,
+    "raw": "번호 호"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 16,
+    "hanja": "好",
+    "reading": "호",
+    "koreanMeaning": "좋다",
+    "pages": [
+      72
+    ],
+    "y": 0.5209999999508115,
+    "raw": "좋다 호"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 17,
+    "hanja": "婚",
+    "reading": "혼",
+    "koreanMeaning": "결혼하다",
+    "pages": [
+      92
+    ],
+    "y": 0.5454716979970311,
+    "raw": "결혼하다 혼"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 18,
+    "hanja": "畫",
+    "reading": "화",
+    "koreanMeaning": "그림",
+    "pages": [
+      128
+    ],
+    "y": 0.5704905658776988,
+    "raw": "그림 화"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 19,
+    "hanja": "貨",
+    "reading": "화",
+    "koreanMeaning": "돈, 물품",
+    "pages": [
+      154
+    ],
+    "y": 0.5947499999794716,
+    "raw": "돈, 물품 화"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 20,
+    "hanja": "化",
+    "reading": "화",
+    "koreanMeaning": "되다",
+    "pages": [
+      112,
+      128
+    ],
+    "y": 0.61789869571015,
+    "raw": "되다 화"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 21,
+    "hanja": "話",
+    "reading": "화",
+    "koreanMeaning": "말씀, 말하다",
+    "pages": [
+      100,
+      152
+    ],
+    "y": 0.6421695866532982,
+    "raw": "말씀, 말하다 화"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 22,
+    "hanja": "火",
+    "reading": "화",
+    "koreanMeaning": "불",
+    "pages": [
+      24
+    ],
+    "y": 0.6667169812638315,
+    "raw": "불화"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 23,
+    "hanja": "花",
+    "reading": "화",
+    "koreanMeaning": "꽃",
+    "pages": [
+      66
+    ],
+    "y": 0.689750000189074,
+    "raw": "꽃 화"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 24,
+    "hanja": "確",
+    "reading": "확",
+    "koreanMeaning": "강하다",
+    "pages": [
+      105
+    ],
+    "y": 0.7147499997802562,
+    "raw": "강하다 확"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 25,
+    "hanja": "換",
+    "reading": "환",
+    "koreanMeaning": "바꾸다",
+    "pages": [
+      123
+    ],
+    "y": 0.737924528136981,
+    "raw": "바꾸다 환"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 26,
+    "hanja": "活",
+    "reading": "활",
+    "koreanMeaning": "살다",
+    "pages": [
+      104
+    ],
+    "y": 0.7622500000170825,
+    "raw": "살다 활"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 27,
+    "hanja": "黃",
+    "reading": "황",
+    "koreanMeaning": "누렇다",
+    "pages": [
+      54
+    ],
+    "y": 0.786679245416452,
+    "raw": "누렇다 황"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 28,
+    "hanja": "會",
+    "reading": "회",
+    "koreanMeaning": "모이다",
+    "pages": [
+      116
+    ],
+    "y": 0.8097500000537873,
+    "raw": "모이다 회"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 29,
+    "hanja": "效",
+    "reading": "효",
+    "koreanMeaning": "본받다",
+    "pages": [
+      160
+    ],
+    "y": 0.8327500000518795,
+    "raw": "본받다 효"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 30,
+    "hanja": "後",
+    "reading": "후",
+    "koreanMeaning": "뒤",
+    "pages": [
+      36
+    ],
+    "y": 0.8564999998748267,
+    "raw": "뒤 후"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 31,
+    "hanja": "休",
+    "reading": "휴",
+    "koreanMeaning": "쉬다",
+    "pages": [
+      124,
+      140
+    ],
+    "y": 0.8816881983387802,
+    "raw": "쉬다 휴"
+  },
+  {
+    "indexPage": 184,
+    "col": 2,
+    "row": 32,
+    "hanja": "黑",
+    "reading": "흑",
+    "koreanMeaning": "검다",
+    "pages": [
+      54
+    ],
+    "y": 0.905249999838194,
+    "raw": "검다 흑"
+  },
+  {
+    "indexPage": 183,
+    "col": 1,
+    "row": 15.5,
+    "hanja": "牛",
+    "reading": "우",
+    "koreanMeaning": "소",
+    "pages": [
+      66
+    ],
+    "y": 0.495,
+    "raw": "牛 소 우"
+  }
+]

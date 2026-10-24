@@ -1,0 +1,5133 @@
+[
+  {
+    "page": 21,
+    "korean": "만수무강",
+    "hanja": "萬壽無疆",
+    "meaning": "long-lived life",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 21,
+    "korean": "만 원",
+    "hanja": "萬 원",
+    "meaning": "ten thousand won",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 21,
+    "korean": "백과사전",
+    "hanja": "百科事典",
+    "meaning": "encyclopedia",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 21,
+    "korean": "백 원",
+    "hanja": "百 원",
+    "meaning": "one hundred won",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 21,
+    "korean": "천리안",
+    "hanja": "千里眼",
+    "meaning": "clairvoyance",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 21,
+    "korean": "천 원",
+    "hanja": "千 원",
+    "meaning": "one thousand won",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "생수",
+    "hanja": "生水",
+    "meaning": "spring water",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "생일",
+    "hanja": "生日",
+    "meaning": "birthday",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "수도",
+    "hanja": "水道",
+    "meaning": "water service",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "수영",
+    "hanja": "水泳",
+    "meaning": "swimming",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "월급",
+    "hanja": "月給",
+    "meaning": "monthly salary",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "월요일",
+    "hanja": "月曜日",
+    "meaning": "Monday",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "월출",
+    "hanja": "月出",
+    "meaning": "moonrise",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "일기",
+    "hanja": "日記",
+    "meaning": "diary",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "일출",
+    "hanja": "日出",
+    "meaning": "sunrise",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "화산",
+    "hanja": "火山",
+    "meaning": "volcano",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "화상",
+    "hanja": "火傷",
+    "meaning": "burn",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 25,
+    "korean": "화재",
+    "hanja": "火災",
+    "meaning": "fire",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 26,
+    "korean": "국토",
+    "hanja": "國土",
+    "meaning": "national territory; country’s land",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 26,
+    "korean": "금색",
+    "hanja": "金色",
+    "meaning": "golden color",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 26,
+    "korean": "등록금",
+    "hanja": "登錄金",
+    "meaning": "registration fee",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 26,
+    "korean": "목마",
+    "hanja": "木馬",
+    "meaning": "wooden horse",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 26,
+    "korean": "목수",
+    "hanja": "木手",
+    "meaning": "carpenter",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 26,
+    "korean": "식목일",
+    "hanja": "植木日",
+    "meaning": "Arbor Day",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 26,
+    "korean": "요금",
+    "hanja": "料金",
+    "meaning": "fee, a charge",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 26,
+    "korean": "토요일",
+    "hanja": "土曜日",
+    "meaning": "Saturday",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 26,
+    "korean": "토지",
+    "hanja": "土地",
+    "meaning": "land",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 27,
+    "korean": "매년",
+    "hanja": "每年",
+    "meaning": "every year",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 27,
+    "korean": "분수",
+    "hanja": "分數",
+    "meaning": "fraction",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 27,
+    "korean": "분야",
+    "hanja": "分野",
+    "meaning": "a sphere (of study)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 27,
+    "korean": "시간",
+    "hanja": "時間",
+    "meaning": "time",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 27,
+    "korean": "시계",
+    "hanja": "時計",
+    "meaning": "clock. a watch",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 27,
+    "korean": "연말",
+    "hanja": "年末",
+    "meaning": "the yearend",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 27,
+    "korean": "연세",
+    "hanja": "年歲",
+    "meaning": "age (honorific)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 27,
+    "korean": "일시",
+    "hanja": "日時",
+    "meaning": "day and time",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 31,
+    "korean": "다량",
+    "hanja": "多量",
+    "meaning": "large amount; large quantity",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 31,
+    "korean": "대기업",
+    "hanja": "大企業",
+    "meaning": "large enterprise",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 31,
+    "korean": "대다수",
+    "hanja": "大多數",
+    "meaning": "a large majority",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 31,
+    "korean": "대학교",
+    "hanja": "大學校",
+    "meaning": "university",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 31,
+    "korean": "대형",
+    "hanja": "大型",
+    "meaning": "large (full) size",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 31,
+    "korean": "삼다도",
+    "hanja": "三多島",
+    "meaning": "another name for Jeju Island",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 31,
+    "korean": "소년",
+    "hanja": "少年",
+    "meaning": "boy",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 31,
+    "korean": "소량",
+    "hanja": "少量",
+    "meaning": "small quantity",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 31,
+    "korean": "소형",
+    "hanja": "小型",
+    "meaning": "small size",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 31,
+    "korean": "중소기업",
+    "hanja": "中小企業",
+    "meaning": "small or medium-sized enterprise",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "고급",
+    "hanja": "高級",
+    "meaning": "high class (grade)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "고등학교",
+    "hanja": "高等學校",
+    "meaning": "high school",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "고층",
+    "hanja": "高層",
+    "meaning": "upper floors",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "단거리",
+    "hanja": "短距離",
+    "meaning": "short distance",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "단신",
+    "hanja": "短身",
+    "meaning": "short stature",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "단점",
+    "hanja": "短點",
+    "meaning": "weak point",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "사장",
+    "hanja": "社長",
+    "meaning": "the president of a company",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "장거리",
+    "hanja": "長距離",
+    "meaning": "long distance",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "장신",
+    "hanja": "長身",
+    "meaning": "tall stature",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "장점",
+    "hanja": "長點",
+    "meaning": "merit, strong point",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "저급",
+    "hanja": "低級",
+    "meaning": "low class (grade)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "저층",
+    "hanja": "低層",
+    "meaning": "low-rise",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 32,
+    "korean": "저혈압",
+    "hanja": "低血壓",
+    "meaning": "low blood pressure",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "국내",
+    "hanja": "國內",
+    "meaning": "domestic",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "내과",
+    "hanja": "內科",
+    "meaning": "internal medicine department",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "수입",
+    "hanja": "收入",
+    "meaning": "an income",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "실내",
+    "hanja": "室內",
+    "meaning": "indoor",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "실외",
+    "hanja": "室外",
+    "meaning": "outdoor",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "외과",
+    "hanja": "外科",
+    "meaning": "Surgery",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "외국",
+    "hanja": "外國",
+    "meaning": "foreign country",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "외출",
+    "hanja": "外出",
+    "meaning": "going out",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "입구",
+    "hanja": "入口",
+    "meaning": "an entrance",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "입학",
+    "hanja": "入學",
+    "meaning": "entering a school",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "출구",
+    "hanja": "出口",
+    "meaning": "an exit",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 33,
+    "korean": "출발",
+    "hanja": "出發",
+    "meaning": "departure",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 37,
+    "korean": "상의",
+    "hanja": "上衣",
+    "meaning": "a top",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 37,
+    "korean": "영하",
+    "hanja": "零下",
+    "meaning": "Sub-zero",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 37,
+    "korean": "인상",
+    "hanja": "引上",
+    "meaning": "raise; increase",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 37,
+    "korean": "중간",
+    "hanja": "中間",
+    "meaning": "middle, midterm",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 37,
+    "korean": "중고",
+    "hanja": "中古",
+    "meaning": "secondhand",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 37,
+    "korean": "중국",
+    "hanja": "中國",
+    "meaning": "China",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 37,
+    "korean": "지하",
+    "hanja": "地下",
+    "meaning": "underground, basement",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 37,
+    "korean": "지하철",
+    "hanja": "地下鐵",
+    "meaning": "Subway",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 37,
+    "korean": "향상",
+    "hanja": "向上",
+    "meaning": "improvement, betterment",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 38,
+    "korean": "오전",
+    "hanja": "午前",
+    "meaning": "the morning, a.m.",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 38,
+    "korean": "오후",
+    "hanja": "午後",
+    "meaning": "afternoon",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 38,
+    "korean": "우회전",
+    "hanja": "右回轉",
+    "meaning": "turning right",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 38,
+    "korean": "이후",
+    "hanja": "以後",
+    "meaning": "after this",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 38,
+    "korean": "전반",
+    "hanja": "前半",
+    "meaning": "the first half",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 38,
+    "korean": "전생",
+    "hanja": "前生",
+    "meaning": "one's former life",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 38,
+    "korean": "좌뇌",
+    "hanja": "左腦",
+    "meaning": "left brain",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 38,
+    "korean": "좌우",
+    "hanja": "左右",
+    "meaning": "left and right",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 38,
+    "korean": "좌측",
+    "hanja": "左側",
+    "meaning": "left side",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 38,
+    "korean": "좌회전",
+    "hanja": "左回轉",
+    "meaning": "turning left",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 38,
+    "korean": "최후",
+    "hanja": "最後",
+    "meaning": "the last",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 39,
+    "korean": "남대문",
+    "hanja": "南大門",
+    "meaning": "Namdaemun (the South Gate of Seoul)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 39,
+    "korean": "남한",
+    "hanja": "南韓",
+    "meaning": "South Korea",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 39,
+    "korean": "동남아",
+    "hanja": "東南亞",
+    "meaning": "Southeast Asia",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 39,
+    "korean": "동대문",
+    "hanja": "東大門",
+    "meaning": "Dongdaemun (the East Gate of Seoul)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 39,
+    "korean": "동해",
+    "hanja": "東海",
+    "meaning": "the East Sea",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 39,
+    "korean": "북두칠성",
+    "hanja": "北斗七星",
+    "meaning": "the Big Dipper",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 39,
+    "korean": "북한",
+    "hanja": "北韓",
+    "meaning": "North Korea",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 39,
+    "korean": "서양",
+    "hanja": "西洋",
+    "meaning": "the West",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 39,
+    "korean": "서해",
+    "hanja": "西海",
+    "meaning": "the west sea, the Yellow Sea",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 39,
+    "korean": "중동",
+    "hanja": "中東",
+    "meaning": "the Middle East",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 43,
+    "korean": "강남",
+    "hanja": "江南",
+    "meaning": "the south of a river",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 43,
+    "korean": "등산",
+    "hanja": "登山",
+    "meaning": "mountain climbing",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 43,
+    "korean": "설악산",
+    "hanja": "雪嶽山",
+    "meaning": "Seoraksan Mountain",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 43,
+    "korean": "지도",
+    "hanja": "地圖",
+    "meaning": "a map",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 43,
+    "korean": "지진",
+    "hanja": "地震",
+    "meaning": "an earthquake",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 43,
+    "korean": "지하철",
+    "hanja": "地下鐵",
+    "meaning": "Subway",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 43,
+    "korean": "천사",
+    "hanja": "天使",
+    "meaning": "an angel",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 43,
+    "korean": "천재",
+    "hanja": "天才",
+    "meaning": "genius",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 43,
+    "korean": "한강",
+    "hanja": "漢江",
+    "meaning": "Hangang River",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 44,
+    "korean": "동해",
+    "hanja": "東海",
+    "meaning": "the East Sea",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 44,
+    "korean": "산림",
+    "hanja": "山林",
+    "meaning": "a forest",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 44,
+    "korean": "산천",
+    "hanja": "山川",
+    "meaning": "mountains and streams, nature",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 44,
+    "korean": "인천",
+    "hanja": "仁川",
+    "meaning": "Incheon",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 44,
+    "korean": "임업",
+    "hanja": "林業",
+    "meaning": "forestry",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 44,
+    "korean": "청계천",
+    "hanja": "清溪川",
+    "meaning": "Cheonggyecheon Stream",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 44,
+    "korean": "해군",
+    "hanja": "海軍",
+    "meaning": "the navy",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 44,
+    "korean": "해물",
+    "hanja": "海物",
+    "meaning": "seafood",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "간식",
+    "hanja": "間食",
+    "meaning": "snack, eating between meals",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "개인",
+    "hanja": "個人",
+    "meaning": "an individual",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "공간",
+    "hanja": "空間",
+    "meaning": "space",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "보석",
+    "hanja": "寶石",
+    "meaning": "a jewel",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "북극성",
+    "hanja": "北極星",
+    "meaning": "Polaris",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "석탑",
+    "hanja": "石塔",
+    "meaning": "stone tower",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "시간",
+    "hanja": "時間",
+    "meaning": "time, an hour",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "외국인",
+    "hanja": "外國人",
+    "meaning": "foreigner",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "위성",
+    "hanja": "衛星",
+    "meaning": "satellite",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "인생",
+    "hanja": "人生",
+    "meaning": "life",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "자석",
+    "hanja": "磁石",
+    "meaning": "magnet",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 45,
+    "korean": "화성",
+    "hanja": "火星",
+    "meaning": "Mars",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 49,
+    "korean": "내이",
+    "hanja": "內耳",
+    "meaning": "an inner ear",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 49,
+    "korean": "목격자",
+    "hanja": "目擊者",
+    "meaning": "an eyewitness",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 49,
+    "korean": "식구",
+    "hanja": "食口",
+    "meaning": "family members",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 49,
+    "korean": "안목",
+    "hanja": "眼目",
+    "meaning": "discerning eye",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 49,
+    "korean": "외이",
+    "hanja": "外耳",
+    "meaning": "an external ear",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 49,
+    "korean": "이목",
+    "hanja": "耳目",
+    "meaning": "the ear and eye, public attention",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 49,
+    "korean": "이목구비",
+    "hanja": "耳目口鼻",
+    "meaning": "ear, eye, mouth and nose / face",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 49,
+    "korean": "이비인후과",
+    "hanja": "耳鼻咽喉科",
+    "meaning": "an ear, nose and throat clinic",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 49,
+    "korean": "인구",
+    "hanja": "人口",
+    "meaning": "population",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 49,
+    "korean": "중이염",
+    "hanja": "中耳炎",
+    "meaning": "ear infection, tympanitis",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 49,
+    "korean": "출구",
+    "hanja": "出口",
+    "meaning": "an exit, gate to go out",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 50,
+    "korean": "세수",
+    "hanja": "洗手",
+    "meaning": "face washing",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 50,
+    "korean": "수건",
+    "hanja": "手巾",
+    "meaning": "a towel",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 50,
+    "korean": "악수",
+    "hanja": "握手",
+    "meaning": "handshake",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 50,
+    "korean": "족구",
+    "hanja": "足球",
+    "meaning": "Korean foot volleyball (jokgu)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 50,
+    "korean": "족적",
+    "hanja": "足跡",
+    "meaning": "footprint, traces",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 50,
+    "korean": "충치",
+    "hanja": "蟲齒",
+    "meaning": "decayed tooth, cavity",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 50,
+    "korean": "치과",
+    "hanja": "齒科",
+    "meaning": "dental clinic",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 50,
+    "korean": "치통",
+    "hanja": "齒痛",
+    "meaning": "toothache",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 50,
+    "korean": "헌혈",
+    "hanja": "獻血",
+    "meaning": "blood donation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 50,
+    "korean": "혈액",
+    "hanja": "血液",
+    "meaning": "blood",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 50,
+    "korean": "혈액형",
+    "hanja": "血液型",
+    "meaning": "blood type",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 51,
+    "korean": "골격",
+    "hanja": "骨格",
+    "meaning": "frame, bone structure",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 51,
+    "korean": "골절",
+    "hanja": "骨折",
+    "meaning": "skeletal fracture",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 51,
+    "korean": "신장",
+    "hanja": "身長",
+    "meaning": "height; stature",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 51,
+    "korean": "신체",
+    "hanja": "身體",
+    "meaning": "the (human) body",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 51,
+    "korean": "심리",
+    "hanja": "心理",
+    "meaning": "psychology",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 51,
+    "korean": "욕심",
+    "hanja": "慾心",
+    "meaning": "greed",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 51,
+    "korean": "육식",
+    "hanja": "肉食",
+    "meaning": "meat diet",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 51,
+    "korean": "육체",
+    "hanja": "肉體",
+    "meaning": "the flesh, the body",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 51,
+    "korean": "해골",
+    "hanja": "骸骨",
+    "meaning": "skeleton, bones",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 55,
+    "korean": "염색",
+    "hanja": "染色",
+    "meaning": "dyeing",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 55,
+    "korean": "적십자",
+    "hanja": "赤十字",
+    "meaning": "red cross",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 55,
+    "korean": "적외선",
+    "hanja": "赤外線",
+    "meaning": "infrared rays",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 55,
+    "korean": "적자",
+    "hanja": "赤字",
+    "meaning": "red figures, a loss",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 55,
+    "korean": "황금",
+    "hanja": "黃金",
+    "meaning": "gold",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 55,
+    "korean": "황사",
+    "hanja": "黃砂",
+    "meaning": "yellow dust",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 55,
+    "korean": "황색",
+    "hanja": "黃色",
+    "meaning": "the color yellow",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 55,
+    "korean": "황혼",
+    "hanja": "黃昏",
+    "meaning": "dusk",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 56,
+    "korean": "녹차",
+    "hanja": "綠茶",
+    "meaning": "green tea",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 56,
+    "korean": "백조",
+    "hanja": "白鳥",
+    "meaning": "a swan",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 56,
+    "korean": "백포도주",
+    "hanja": "白葡萄酒",
+    "meaning": "white wine",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 56,
+    "korean": "청소년",
+    "hanja": "青少年",
+    "meaning": "young boys and girls",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 56,
+    "korean": "청와대",
+    "hanja": "青瓦臺",
+    "meaning": "Cheongwadae(the Blue House)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 56,
+    "korean": "초록색",
+    "hanja": "草綠色",
+    "meaning": "the color green",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 56,
+    "korean": "흑백",
+    "hanja": "黑白",
+    "meaning": "black and white",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 56,
+    "korean": "흑심",
+    "hanja": "黑心",
+    "meaning": "black heart, evil intentions",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 57,
+    "korean": "과도",
+    "hanja": "果刀",
+    "meaning": "fruit knife",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 57,
+    "korean": "물건",
+    "hanja": "物件",
+    "meaning": "thing, goods",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 57,
+    "korean": "박물관",
+    "hanja": "博物館",
+    "meaning": "museum",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 57,
+    "korean": "상의",
+    "hanja": "上衣",
+    "meaning": "a top",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 57,
+    "korean": "식물",
+    "hanja": "植物",
+    "meaning": "plant",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 57,
+    "korean": "의류",
+    "hanja": "衣類",
+    "meaning": "clothing",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 57,
+    "korean": "자동차",
+    "hanja": "自動車",
+    "meaning": "a car",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 57,
+    "korean": "주차장",
+    "hanja": "駐車場",
+    "meaning": "parking lot",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 57,
+    "korean": "죽도",
+    "hanja": "竹刀",
+    "meaning": "bamboo sword",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 57,
+    "korean": "탈의실",
+    "hanja": "脫衣室",
+    "meaning": "dressing (changing) room",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 61,
+    "korean": "동면",
+    "hanja": "冬眠",
+    "meaning": "hibernation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 61,
+    "korean": "동지",
+    "hanja": "冬至",
+    "meaning": "the winter solstice",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 61,
+    "korean": "청춘",
+    "hanja": "青春",
+    "meaning": "youth, the springtime of life",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 61,
+    "korean": "추석",
+    "hanja": "秋夕",
+    "meaning": "the harvest festival",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 61,
+    "korean": "춘곤증",
+    "hanja": "春困症",
+    "meaning": "Spring fatigue",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 61,
+    "korean": "춘몽",
+    "hanja": "春夢",
+    "meaning": "spring dreams",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 61,
+    "korean": "춘추",
+    "hanja": "春秋",
+    "meaning": "spring and autumn, age(honorific)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 61,
+    "korean": "춘추복",
+    "hanja": "春秋服",
+    "meaning": "spring and autumn wear",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 61,
+    "korean": "하계",
+    "hanja": "夏季",
+    "meaning": "the summer season",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 61,
+    "korean": "하복",
+    "hanja": "夏服",
+    "meaning": "Summer clothes",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 61,
+    "korean": "하지",
+    "hanja": "夏至",
+    "meaning": "the summer solstice",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 62,
+    "korean": "대설",
+    "hanja": "大雪",
+    "meaning": "a heavy snow",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 62,
+    "korean": "백설",
+    "hanja": "白雪",
+    "meaning": "white snow",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 62,
+    "korean": "백운",
+    "hanja": "白雲",
+    "meaning": "white clouds",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 62,
+    "korean": "선풍기",
+    "hanja": "扇風機",
+    "meaning": "an electric fan",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 62,
+    "korean": "설악산",
+    "hanja": "雪嶽山",
+    "meaning": "Seoraksan Mountain",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 62,
+    "korean": "우기",
+    "hanja": "雨期",
+    "meaning": "the rainy season",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 62,
+    "korean": "우산",
+    "hanja": "雨傘",
+    "meaning": "an umbrella",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 62,
+    "korean": "운해",
+    "hanja": "雲海",
+    "meaning": "a sea of clouds",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 62,
+    "korean": "태풍",
+    "hanja": "颱風",
+    "meaning": "typhoon",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 62,
+    "korean": "폭우",
+    "hanja": "暴雨",
+    "meaning": "heavy rain",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 62,
+    "korean": "풍차",
+    "hanja": "風車",
+    "meaning": "windmill",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 63,
+    "korean": "냉동실",
+    "hanja": "冷凍室",
+    "meaning": "a freezing compartment",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 63,
+    "korean": "냉수",
+    "hanja": "冷水",
+    "meaning": "cold water",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 63,
+    "korean": "냉장고",
+    "hanja": "冷藏庫",
+    "meaning": "refrigerator",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 63,
+    "korean": "온도계",
+    "hanja": "溫度計",
+    "meaning": "thermometer",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 63,
+    "korean": "온수",
+    "hanja": "溫水",
+    "meaning": "hot water",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 63,
+    "korean": "체온",
+    "hanja": "體溫",
+    "meaning": "body temperature",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 67,
+    "korean": "경마",
+    "hanja": "競馬",
+    "meaning": "a horse race",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 67,
+    "korean": "동물",
+    "hanja": "動物",
+    "meaning": "an animal, a (living) creature",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 67,
+    "korean": "동사",
+    "hanja": "動詞",
+    "meaning": "verb",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 67,
+    "korean": "마차",
+    "hanja": "馬車",
+    "meaning": "a carriage",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 67,
+    "korean": "백조",
+    "hanja": "白鳥",
+    "meaning": "swan",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 67,
+    "korean": "우유",
+    "hanja": "牛乳",
+    "meaning": "milk",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 67,
+    "korean": "조류",
+    "hanja": "鳥類",
+    "meaning": "birds",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 67,
+    "korean": "한우",
+    "hanja": "韓牛",
+    "meaning": "Korean beef cattle",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 67,
+    "korean": "행동",
+    "hanja": "行動",
+    "meaning": "an action",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 68,
+    "korean": "국화",
+    "hanja": "國花",
+    "meaning": "national flower",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 68,
+    "korean": "어패류",
+    "hanja": "魚貝類",
+    "meaning": "fish and shellfish",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 68,
+    "korean": "연어",
+    "hanja": "鰱魚",
+    "meaning": "salmon",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 68,
+    "korean": "인어",
+    "hanja": "人魚",
+    "meaning": "mermaid/merman",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 68,
+    "korean": "조화",
+    "hanja": "造花",
+    "meaning": "an artificial flower",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 68,
+    "korean": "초가",
+    "hanja": "草家",
+    "meaning": "straw roofed house",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 68,
+    "korean": "초록",
+    "hanja": "草綠",
+    "meaning": "green",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 68,
+    "korean": "패물",
+    "hanja": "貝物",
+    "meaning": "jewelry",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 68,
+    "korean": "화분",
+    "hanja": "花盆",
+    "meaning": "flowerpot",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 68,
+    "korean": "화초",
+    "hanja": "花草",
+    "meaning": "flowering plants",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 69,
+    "korean": "결과",
+    "hanja": "結果",
+    "meaning": "result",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 69,
+    "korean": "과도",
+    "hanja": "果刀",
+    "meaning": "fruit knife",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 69,
+    "korean": "과수원",
+    "hanja": "果樹園",
+    "meaning": "fruit farm; orchard",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 69,
+    "korean": "죽도",
+    "hanja": "竹刀",
+    "meaning": "bamboo sword",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 69,
+    "korean": "죽림",
+    "hanja": "竹林",
+    "meaning": "bamboo grove",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 69,
+    "korean": "죽부인",
+    "hanja": "竹夫人",
+    "meaning": "bamboo bolster (literally: Dutch wife)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 73,
+    "korean": "가구",
+    "hanja": "家具",
+    "meaning": "furniture",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 73,
+    "korean": "가부장적",
+    "hanja": "家父長的",
+    "meaning": "patriarchal; paternalistic (adjective)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 73,
+    "korean": "가정",
+    "hanja": "家庭",
+    "meaning": "home, a family",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 73,
+    "korean": "가족",
+    "hanja": "家族",
+    "meaning": "family",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 73,
+    "korean": "국가",
+    "hanja": "國家",
+    "meaning": "state, a nation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 73,
+    "korean": "모성애",
+    "hanja": "母性愛",
+    "meaning": "maternal love",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 73,
+    "korean": "민족",
+    "hanja": "民族",
+    "meaning": "race, a nation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 73,
+    "korean": "부모",
+    "hanja": "父母",
+    "meaning": "parents",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 73,
+    "korean": "부자",
+    "hanja": "父子",
+    "meaning": "father and son",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 73,
+    "korean": "이모",
+    "hanja": "姨母",
+    "meaning": "maternal aunt",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 74,
+    "korean": "모자",
+    "hanja": "母子",
+    "meaning": "mother and son",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 74,
+    "korean": "손녀",
+    "hanja": "孫女",
+    "meaning": "granddaughter",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 74,
+    "korean": "손자",
+    "hanja": "孫子",
+    "meaning": "grandson",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 74,
+    "korean": "여자",
+    "hanja": "女子",
+    "meaning": "woman",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 74,
+    "korean": "자녀",
+    "hanja": "子女",
+    "meaning": "one's children, son and daughter",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 74,
+    "korean": "자손",
+    "hanja": "子孫",
+    "meaning": "posterity",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 74,
+    "korean": "자식",
+    "hanja": "子息",
+    "meaning": "one’s children, offspring",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 74,
+    "korean": "조부모",
+    "hanja": "祖父母",
+    "meaning": "grandparents",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 74,
+    "korean": "조상",
+    "hanja": "祖上",
+    "meaning": "an ancestor",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 75,
+    "korean": "기호",
+    "hanja": "嗜好",
+    "meaning": "taste; preference",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 75,
+    "korean": "남성적",
+    "hanja": "男性的",
+    "meaning": "masculine",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 75,
+    "korean": "남자",
+    "hanja": "男子",
+    "meaning": "a man",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 75,
+    "korean": "남편",
+    "hanja": "男便",
+    "meaning": "husband",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 75,
+    "korean": "처제",
+    "hanja": "妻弟",
+    "meaning": "wife’s younger sister; sister-in-law",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 75,
+    "korean": "형",
+    "hanja": "兄",
+    "meaning": "elder brother",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 75,
+    "korean": "형부",
+    "hanja": "兄夫",
+    "meaning": "husband of one’s elder sister; brother-in-law",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 75,
+    "korean": "형수",
+    "hanja": "兄嫂",
+    "meaning": "wife of one’s elder brother; sister-in-law",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 75,
+    "korean": "형제",
+    "hanja": "兄弟",
+    "meaning": "brothers",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 75,
+    "korean": "호감",
+    "hanja": "好感",
+    "meaning": "good feeling",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 75,
+    "korean": "호기심",
+    "hanja": "好奇心",
+    "meaning": "curiosity",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "견학",
+    "hanja": "見學",
+    "meaning": "field trip",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "교과서",
+    "hanja": "教科書",
+    "meaning": "textbook",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "교문",
+    "hanja": "校門",
+    "meaning": "school gate",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "교사",
+    "hanja": "教師",
+    "meaning": "teacher",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "교육",
+    "hanja": "教育",
+    "meaning": "education",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "대학교",
+    "hanja": "大學校",
+    "meaning": "university",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "등교",
+    "hanja": "登校",
+    "meaning": "attending school",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "방학",
+    "hanja": "放學",
+    "meaning": "vacation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "실내",
+    "hanja": "室內",
+    "meaning": "the inside of a room",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "침실",
+    "hanja": "寢室",
+    "meaning": "bedroom",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "학년",
+    "hanja": "學年",
+    "meaning": "grade",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 79,
+    "korean": "화장실",
+    "hanja": "化粧室",
+    "meaning": "restroom",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 80,
+    "korean": "답장",
+    "hanja": "答狀",
+    "meaning": "reply letter",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 80,
+    "korean": "문답",
+    "hanja": "問答",
+    "meaning": "question and answer",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 80,
+    "korean": "문제",
+    "hanja": "問題",
+    "meaning": "question, a problem",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 80,
+    "korean": "생사",
+    "hanja": "生死",
+    "meaning": "life and death",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 80,
+    "korean": "생일",
+    "hanja": "生日",
+    "meaning": "birthday",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 80,
+    "korean": "선배",
+    "hanja": "先輩",
+    "meaning": "senior",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 80,
+    "korean": "선불",
+    "hanja": "先拂",
+    "meaning": "payment in advance",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 80,
+    "korean": "선생",
+    "hanja": "先生",
+    "meaning": "teacher",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 80,
+    "korean": "정답",
+    "hanja": "正答",
+    "meaning": "correct answer",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 80,
+    "korean": "질문",
+    "hanja": "質問",
+    "meaning": "question",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 80,
+    "korean": "학생",
+    "hanja": "學生",
+    "meaning": "student",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 81,
+    "korean": "교통사고",
+    "hanja": "交通事故",
+    "meaning": "traffic accident",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 81,
+    "korean": "문법",
+    "hanja": "文法",
+    "meaning": "grammar",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 81,
+    "korean": "문장",
+    "hanja": "文章",
+    "meaning": "sentence",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 81,
+    "korean": "문화",
+    "hanja": "文化",
+    "meaning": "culture",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 81,
+    "korean": "법대",
+    "hanja": "法大",
+    "meaning": "college of law",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 81,
+    "korean": "법원",
+    "hanja": "法院",
+    "meaning": "court of law",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 81,
+    "korean": "사무실",
+    "hanja": "事務室",
+    "meaning": "office",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 81,
+    "korean": "작문",
+    "hanja": "作文",
+    "meaning": "composition, writings",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 85,
+    "korean": "과거",
+    "hanja": "過去",
+    "meaning": "the past, time past",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 85,
+    "korean": "과식",
+    "hanja": "過食",
+    "meaning": "overeating",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 85,
+    "korean": "과음",
+    "hanja": "過飲",
+    "meaning": "excessive drinking",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 85,
+    "korean": "수거",
+    "hanja": "收去",
+    "meaning": "removal",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 85,
+    "korean": "재실",
+    "hanja": "在室",
+    "meaning": "to be in one's room",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 85,
+    "korean": "통과",
+    "hanja": "通過",
+    "meaning": "passing",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 85,
+    "korean": "현금",
+    "hanja": "現金",
+    "meaning": "cash",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 85,
+    "korean": "현대",
+    "hanja": "現代",
+    "meaning": "the present day, modern",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 85,
+    "korean": "현실",
+    "hanja": "現實",
+    "meaning": "reality, actuality",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 85,
+    "korean": "현재",
+    "hanja": "現在",
+    "meaning": "now, the present",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 86,
+    "korean": "거래",
+    "hanja": "去來",
+    "meaning": "a deal, trade",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 86,
+    "korean": "내일",
+    "hanja": "來日",
+    "meaning": "tomorrow",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 86,
+    "korean": "미래",
+    "hanja": "未來",
+    "meaning": "future",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 86,
+    "korean": "미혼",
+    "hanja": "未婚",
+    "meaning": "single, unmarried",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 86,
+    "korean": "석식",
+    "hanja": "夕食",
+    "meaning": "supper",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 86,
+    "korean": "석양",
+    "hanja": "夕陽",
+    "meaning": "evening sun",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 86,
+    "korean": "조선",
+    "hanja": "朝鮮",
+    "meaning": "Joseon, Korea",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 86,
+    "korean": "조식",
+    "hanja": "朝食",
+    "meaning": "breakfast",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 86,
+    "korean": "추석",
+    "hanja": "秋夕",
+    "meaning": "Chuseok, harvest moon festival",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 87,
+    "korean": "야간",
+    "hanja": "夜間",
+    "meaning": "night, night time",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 87,
+    "korean": "야경",
+    "hanja": "夜景",
+    "meaning": "night view",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 87,
+    "korean": "야식",
+    "hanja": "夜食",
+    "meaning": "late snack, a midnight meal",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 87,
+    "korean": "주간",
+    "hanja": "晝間",
+    "meaning": "the day time",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 87,
+    "korean": "주야",
+    "hanja": "晝夜",
+    "meaning": "day and night",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 93,
+    "korean": "노인",
+    "hanja": "老人",
+    "meaning": "an old person",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 93,
+    "korean": "병원",
+    "hanja": "病院",
+    "meaning": "hospital",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 93,
+    "korean": "사망",
+    "hanja": "死亡",
+    "meaning": "death, decease",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 93,
+    "korean": "사형",
+    "hanja": "死刑",
+    "meaning": "death penalty",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 93,
+    "korean": "생로병사",
+    "hanja": "生老病死",
+    "meaning": "birth, aging, illness and death",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 93,
+    "korean": "생일",
+    "hanja": "生日",
+    "meaning": "birthday",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 93,
+    "korean": "심장병",
+    "hanja": "心臟病",
+    "meaning": "heart disease",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 93,
+    "korean": "양로원",
+    "hanja": "養老院",
+    "meaning": "home for senior citizens",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 93,
+    "korean": "인생",
+    "hanja": "人生",
+    "meaning": "life",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "결과",
+    "hanja": "結果",
+    "meaning": "result",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "결말",
+    "hanja": "結末",
+    "meaning": "an end, conclusion",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "결합",
+    "hanja": "結合",
+    "meaning": "union, bond",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "결혼",
+    "hanja": "結婚",
+    "meaning": "wedding, marriage",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 94,
+    "korean": "미혼",
+    "hanja": "未婚",
+    "meaning": "single, unmarried",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "신혼여행",
+    "hanja": "新婚旅行",
+    "meaning": "honeymoon",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "애완동물",
+    "hanja": "愛玩動物",
+    "meaning": "pet",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "애인",
+    "hanja": "愛人",
+    "meaning": "lover, boyfriend or girlfriend",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "애정",
+    "hanja": "愛情",
+    "meaning": "affection, love",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 94,
+    "korean": "약혼",
+    "hanja": "約婚",
+    "meaning": "engagement",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "연애",
+    "hanja": "戀愛",
+    "meaning": "to be in love, romance",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "우정",
+    "hanja": "友情",
+    "meaning": "friendship",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "인정",
+    "hanja": "人情",
+    "meaning": "sympathy, compassion",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 94,
+    "korean": "정보",
+    "hanja": "情報",
+    "meaning": "information",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 95,
+    "korean": "결혼식",
+    "hanja": "結婚式",
+    "meaning": "wedding ceremony",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 95,
+    "korean": "입학식",
+    "hanja": "入學式",
+    "meaning": "an entrance ceremony",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 95,
+    "korean": "장례식",
+    "hanja": "葬禮式",
+    "meaning": "funeral service (ceremony)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 95,
+    "korean": "졸업식",
+    "hanja": "卒業式",
+    "meaning": "graduation ceremony",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 95,
+    "korean": "친구",
+    "hanja": "親舊",
+    "meaning": "friend",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 95,
+    "korean": "친절",
+    "hanja": "親切",
+    "meaning": "Kindness",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 99,
+    "korean": "관습",
+    "hanja": "慣習",
+    "meaning": "custom",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 99,
+    "korean": "교과서",
+    "hanja": "教科書",
+    "meaning": "textbook",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 99,
+    "korean": "교사",
+    "hanja": "教師",
+    "meaning": "teacher",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 99,
+    "korean": "교실",
+    "hanja": "教室",
+    "meaning": "a classroom",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 99,
+    "korean": "교육",
+    "hanja": "教育",
+    "meaning": "education",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 99,
+    "korean": "습관",
+    "hanja": "習慣",
+    "meaning": "habit",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 99,
+    "korean": "연습",
+    "hanja": "練習",
+    "meaning": "practice",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 99,
+    "korean": "육아",
+    "hanja": "育兒",
+    "meaning": "upbringing of a child",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 99,
+    "korean": "체육",
+    "hanja": "體育",
+    "meaning": "physical education",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 99,
+    "korean": "학교",
+    "hanja": "學校",
+    "meaning": "school",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 99,
+    "korean": "학생",
+    "hanja": "學生",
+    "meaning": "student",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 99,
+    "korean": "학습",
+    "hanja": "學習",
+    "meaning": "learning",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 100,
+    "korean": "개방",
+    "hanja": "開放",
+    "meaning": "opening",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 100,
+    "korean": "개학",
+    "hanja": "開學",
+    "meaning": "starting school",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 100,
+    "korean": "방송",
+    "hanja": "放送",
+    "meaning": "broadcasting",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 100,
+    "korean": "방학",
+    "hanja": "放學",
+    "meaning": "vacation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 100,
+    "korean": "복습",
+    "hanja": "復習",
+    "meaning": "review",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 100,
+    "korean": "숙박",
+    "hanja": "宿泊",
+    "meaning": "lodging",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 100,
+    "korean": "숙식",
+    "hanja": "宿食",
+    "meaning": "board and lodging",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 100,
+    "korean": "숙제",
+    "hanja": "宿題",
+    "meaning": "homework",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 100,
+    "korean": "예습",
+    "hanja": "豫習",
+    "meaning": "preparation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 100,
+    "korean": "예약",
+    "hanja": "豫約",
+    "meaning": "reservation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 100,
+    "korean": "왕복",
+    "hanja": "往復",
+    "meaning": "coming and going",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 100,
+    "korean": "제목",
+    "hanja": "題目",
+    "meaning": "title",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 100,
+    "korean": "화제",
+    "hanja": "話題",
+    "meaning": "topic",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 101,
+    "korean": "독서",
+    "hanja": "讀書",
+    "meaning": "reading",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 101,
+    "korean": "독자",
+    "hanja": "讀者",
+    "meaning": "reader",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 101,
+    "korean": "보고서",
+    "hanja": "報告書",
+    "meaning": "report",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 101,
+    "korean": "서예",
+    "hanja": "書藝",
+    "meaning": "calligraphy",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 101,
+    "korean": "서점",
+    "hanja": "書店",
+    "meaning": "bookstore",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 101,
+    "korean": "설명서",
+    "hanja": "說明書",
+    "meaning": "instruction manual",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "가격",
+    "hanja": "價格",
+    "meaning": "price, cost",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "개성",
+    "hanja": "個性",
+    "meaning": "individuality",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "불신",
+    "hanja": "不信",
+    "meaning": "distrust",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "성격",
+    "hanja": "性格",
+    "meaning": "personality, character",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 105,
+    "korean": "성급",
+    "hanja": "性急",
+    "meaning": "hasty, impatient",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "성별",
+    "hanja": "性別",
+    "meaning": "gender",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "신용",
+    "hanja": "信用",
+    "meaning": "credit, confidence",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "인격",
+    "hanja": "人格",
+    "meaning": "personality",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "자격",
+    "hanja": "資格",
+    "meaning": "qualification",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "자기",
+    "hanja": "自己",
+    "meaning": "self, oneself",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "자신",
+    "hanja": "自信",
+    "meaning": "self-confidence",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 105,
+    "korean": "자연",
+    "hanja": "自然",
+    "meaning": "nature",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "자유",
+    "hanja": "自由",
+    "meaning": "freedom",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 105,
+    "korean": "확신",
+    "hanja": "確信",
+    "meaning": "firm belief, confidence",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 106,
+    "korean": "감동",
+    "hanja": "感動",
+    "meaning": "being moved, touched",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 106,
+    "korean": "감정",
+    "hanja": "感情",
+    "meaning": "feelings, emotion",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 106,
+    "korean": "내성적",
+    "hanja": "內省的",
+    "meaning": "introverted",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 106,
+    "korean": "문제점",
+    "hanja": "問題點",
+    "meaning": "problem",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 106,
+    "korean": "여성적",
+    "hanja": "女性的",
+    "meaning": "feminine, womanly",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 106,
+    "korean": "외향적",
+    "hanja": "外向的",
+    "meaning": "outgoing",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 106,
+    "korean": "자신감",
+    "hanja": "自信感",
+    "meaning": "confidence",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 106,
+    "korean": "장점",
+    "hanja": "長點",
+    "meaning": "merit, good point",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 106,
+    "korean": "적극적",
+    "hanja": "積極的",
+    "meaning": "active; enthusiastic; proactive",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 106,
+    "korean": "중점",
+    "hanja": "重點",
+    "meaning": "emphasis, stress",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 107,
+    "korean": "유쾌",
+    "hanja": "愉快",
+    "meaning": "happy, delightful",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 107,
+    "korean": "쾌감",
+    "hanja": "快感",
+    "meaning": "a pleasant sensation",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 107,
+    "korean": "쾌활",
+    "hanja": "快活",
+    "meaning": "cheerful, merry",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 107,
+    "korean": "활기",
+    "hanja": "活氣",
+    "meaning": "liveliness",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 107,
+    "korean": "활동",
+    "hanja": "活動",
+    "meaning": "activity, action",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 107,
+    "korean": "활력",
+    "hanja": "活力",
+    "meaning": "vitality",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 111,
+    "korean": "가격",
+    "hanja": "價格",
+    "meaning": "price, cost",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 111,
+    "korean": "경제",
+    "hanja": "經濟",
+    "meaning": "economy",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 111,
+    "korean": "경제력",
+    "hanja": "經濟力",
+    "meaning": "economic power",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 111,
+    "korean": "경제적",
+    "hanja": "經濟的",
+    "meaning": "economic, economically",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 111,
+    "korean": "경제학",
+    "hanja": "經濟學",
+    "meaning": "economics",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 111,
+    "korean": "물가",
+    "hanja": "物價",
+    "meaning": "prices (of commodities)",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 111,
+    "korean": "물건",
+    "hanja": "物件",
+    "meaning": "thing, goods",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 111,
+    "korean": "생물",
+    "hanja": "生物",
+    "meaning": "creature",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 111,
+    "korean": "평가",
+    "hanja": "評價",
+    "meaning": "evaluation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "관람료",
+    "hanja": "觀覽料",
+    "meaning": "an admission fee",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "교통비",
+    "hanja": "交通費",
+    "meaning": "transportation expenses",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "급료",
+    "hanja": "給料",
+    "meaning": "Salary, wages",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "문화재",
+    "hanja": "文化財",
+    "meaning": "cultural assets",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "보험료",
+    "hanja": "保險料",
+    "meaning": "an insurance fee",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "산업",
+    "hanja": "產業",
+    "meaning": "industry",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "생산",
+    "hanja": "生產",
+    "meaning": "production",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "생활비",
+    "hanja": "生活費",
+    "meaning": "living expenses",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "수업료",
+    "hanja": "授業料",
+    "meaning": "tuition fee",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "식비",
+    "hanja": "食費",
+    "meaning": "food expenses",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "입장료",
+    "hanja": "入場料",
+    "meaning": "an admission fee (charge)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "재물",
+    "hanja": "財物",
+    "meaning": "fortune, property",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "재산",
+    "hanja": "財產",
+    "meaning": "property, fortune",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 112,
+    "korean": "차비",
+    "hanja": "車費",
+    "meaning": "transport fare (e.g. train or bus)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 112,
+    "korean": "학비",
+    "hanja": "學費",
+    "meaning": "school expenses",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 113,
+    "korean": "가감",
+    "hanja": "加減",
+    "meaning": "addition and subtraction; increase and decrease",
+    "sourceKind": "tip-example"
+  },
+  {
+    "page": 113,
+    "korean": "감량",
+    "hanja": "減量",
+    "meaning": "loss in quantity (weight)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 113,
+    "korean": "감소",
+    "hanja": "減少",
+    "meaning": "decrease, reduction",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 113,
+    "korean": "증가",
+    "hanja": "增加",
+    "meaning": "to increase",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 113,
+    "korean": "참가",
+    "hanja": "參加",
+    "meaning": "to participate",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "공업",
+    "hanja": "工業",
+    "meaning": "industry",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "동창회",
+    "hanja": "同窓會",
+    "meaning": "class reunion",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "사업",
+    "hanja": "事業",
+    "meaning": "business",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "사원",
+    "hanja": "社員",
+    "meaning": "an employee, personnel",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "사장",
+    "hanja": "社長",
+    "meaning": "president of a company",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "수업",
+    "hanja": "授業",
+    "meaning": "lesson, a class",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "신문사",
+    "hanja": "新聞社",
+    "meaning": "newspaper company",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "직업",
+    "hanja": "職業",
+    "meaning": "a job, an occupation",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 117,
+    "korean": "직원",
+    "hanja": "職員",
+    "meaning": "an employee",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "직장",
+    "hanja": "職場",
+    "meaning": "workplace",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "취직",
+    "hanja": "就職",
+    "meaning": "employment",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "회사",
+    "hanja": "會社",
+    "meaning": "a company",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 117,
+    "korean": "회원",
+    "hanja": "會員",
+    "meaning": "member",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 117,
+    "korean": "회장",
+    "hanja": "會長",
+    "meaning": "president, a chairman",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "과학자",
+    "hanja": "科學者",
+    "meaning": "scientist",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "교사",
+    "hanja": "教師",
+    "meaning": "teacher",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "기술자",
+    "hanja": "技術者",
+    "meaning": "an engineer",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "노동자",
+    "hanja": "勞動者",
+    "meaning": "laborer",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "소설가",
+    "hanja": "小說家",
+    "meaning": "novelist, writer",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "예술가",
+    "hanja": "藝術家",
+    "meaning": "an artist",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "요리사",
+    "hanja": "料理師",
+    "meaning": "cook",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "음악가",
+    "hanja": "音樂家",
+    "meaning": "musician",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "의사",
+    "hanja": "醫師",
+    "meaning": "doctor",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "종업원",
+    "hanja": "從業員",
+    "meaning": "an employee",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "판매원",
+    "hanja": "販賣員",
+    "meaning": "salesperson",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 118,
+    "korean": "회사원",
+    "hanja": "會社員",
+    "meaning": "office worker",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 119,
+    "korean": "근로",
+    "hanja": "勤勞",
+    "meaning": "work, labor",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 119,
+    "korean": "노동",
+    "hanja": "勞動",
+    "meaning": "labor, work",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 119,
+    "korean": "노사",
+    "hanja": "勞使",
+    "meaning": "labor and management",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 119,
+    "korean": "성공",
+    "hanja": "成功",
+    "meaning": "success",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 119,
+    "korean": "성과",
+    "hanja": "成果",
+    "meaning": "result",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 119,
+    "korean": "성장",
+    "hanja": "成長",
+    "meaning": "growth",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "교차로",
+    "hanja": "交叉路",
+    "meaning": "an intersection",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "교통",
+    "hanja": "交通",
+    "meaning": "transportation",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 123,
+    "korean": "교환",
+    "hanja": "交換",
+    "meaning": "an exchange",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "대로",
+    "hanja": "大路",
+    "meaning": "broad road, main street",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "대학로",
+    "hanja": "大學路",
+    "meaning": "Daehangno",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "도로",
+    "hanja": "道路",
+    "meaning": "a road",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 123,
+    "korean": "도리",
+    "hanja": "道理",
+    "meaning": "reason, propriety",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "외교",
+    "hanja": "外交",
+    "meaning": "diplomacy",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "인도",
+    "hanja": "人道",
+    "meaning": "pavement, sidewalk",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "진입로",
+    "hanja": "進入路",
+    "meaning": "ramp",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "차도",
+    "hanja": "車道",
+    "meaning": "roadway",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "통과",
+    "hanja": "通過",
+    "meaning": "passing, going through",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "통로",
+    "hanja": "通路",
+    "meaning": "passage",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 123,
+    "korean": "통행",
+    "hanja": "通行",
+    "meaning": "passing, transit",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 124,
+    "korean": "2호선",
+    "hanja": "二號線",
+    "meaning": "line number (e.g. subway line No. 2)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 124,
+    "korean": "공연장",
+    "hanja": "公演場",
+    "meaning": "performance venue; auditorium",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 124,
+    "korean": "노선",
+    "hanja": "路線",
+    "meaning": "route, line",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 124,
+    "korean": "시장",
+    "hanja": "市場",
+    "meaning": "market",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 124,
+    "korean": "안내소",
+    "hanja": "案內所",
+    "meaning": "an information desk",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 124,
+    "korean": "연구소",
+    "hanja": "研究所",
+    "meaning": "research institute (laboratory)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 124,
+    "korean": "운동장",
+    "hanja": "運動場",
+    "meaning": "playground, a play yard",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 124,
+    "korean": "차선",
+    "hanja": "車線",
+    "meaning": "traffic lane",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 124,
+    "korean": "휴게소",
+    "hanja": "休憩所",
+    "meaning": "resting place or stop",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 125,
+    "korean": "고속",
+    "hanja": "高速",
+    "meaning": "high-speed",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 125,
+    "korean": "과속",
+    "hanja": "過速",
+    "meaning": "to exceed the speed limit",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 125,
+    "korean": "속도",
+    "hanja": "速度",
+    "meaning": "speed",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 125,
+    "korean": "승객",
+    "hanja": "乘客",
+    "meaning": "passenger",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 125,
+    "korean": "승차",
+    "hanja": "乘車",
+    "meaning": "to get in a car",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 129,
+    "korean": "공중",
+    "hanja": "公衆",
+    "meaning": "the public",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 129,
+    "korean": "관중",
+    "hanja": "觀衆",
+    "meaning": "an audience",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 129,
+    "korean": "노화",
+    "hanja": "老化",
+    "meaning": "growing old",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 129,
+    "korean": "대중문화",
+    "hanja": "大衆文化",
+    "meaning": "popular culture",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 129,
+    "korean": "민중",
+    "hanja": "民衆",
+    "meaning": "the people",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 129,
+    "korean": "방송",
+    "hanja": "放送",
+    "meaning": "broadcasting",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 129,
+    "korean": "방심",
+    "hanja": "放心",
+    "meaning": "absent-mindedness; letting one’s guard down",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 129,
+    "korean": "방학",
+    "hanja": "放學",
+    "meaning": "vacation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 129,
+    "korean": "변화",
+    "hanja": "變化",
+    "meaning": "change, an alteration",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 129,
+    "korean": "송금",
+    "hanja": "送金",
+    "meaning": "remittance",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 129,
+    "korean": "송별회",
+    "hanja": "送別會",
+    "meaning": "farewell party",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 129,
+    "korean": "실용화",
+    "hanja": "實用化",
+    "meaning": "to be put to practical use",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "반영",
+    "hanja": "反映",
+    "meaning": "reflection",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "상영",
+    "hanja": "上映",
+    "meaning": "screening, projecting",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "서양화",
+    "hanja": "西洋畫",
+    "meaning": "western painting",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "신세대",
+    "hanja": "新世代",
+    "meaning": "the new generation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "신식",
+    "hanja": "新式",
+    "meaning": "new style, modern",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "신인",
+    "hanja": "新人",
+    "meaning": "newcomer; new face",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "영상",
+    "hanja": "映像",
+    "meaning": "an image, a picture",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "영화",
+    "hanja": "映畫",
+    "meaning": "a film, movie",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 130,
+    "korean": "최고",
+    "hanja": "最高",
+    "meaning": "the best, maximum",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "최선",
+    "hanja": "最善",
+    "meaning": "the best, one's best",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "최저",
+    "hanja": "最低",
+    "meaning": "the lowest, minimum",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "화가",
+    "hanja": "畫家",
+    "meaning": "painter",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 130,
+    "korean": "화면",
+    "hanja": "畫面",
+    "meaning": "screen, a picture",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 131,
+    "korean": "가수",
+    "hanja": "歌手",
+    "meaning": "singer",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 131,
+    "korean": "가요",
+    "hanja": "歌謠",
+    "meaning": "popular song",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 131,
+    "korean": "시력",
+    "hanja": "視力",
+    "meaning": "eyesight",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 131,
+    "korean": "시선",
+    "hanja": "視線",
+    "meaning": "one's sight, gaze",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 131,
+    "korean": "청중",
+    "hanja": "聽衆",
+    "meaning": "an audience",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 131,
+    "korean": "청취",
+    "hanja": "聽取",
+    "meaning": "hearing, listening",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "국가",
+    "hanja": "國家",
+    "meaning": "nation, a country",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "국민",
+    "hanja": "國民",
+    "meaning": "people, a citizen",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "국악",
+    "hanja": "國樂",
+    "meaning": "Korean classical music",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 135,
+    "korean": "악기",
+    "hanja": "樂器",
+    "meaning": "musical instrument",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "오락",
+    "hanja": "娛樂",
+    "meaning": "amusement, entertainment",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "외국",
+    "hanja": "外國",
+    "meaning": "foreign country",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "유전",
+    "hanja": "遺傳",
+    "meaning": "heredity",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "음악",
+    "hanja": "音樂",
+    "meaning": "music",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "전달",
+    "hanja": "傳達",
+    "meaning": "delivery",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "전설",
+    "hanja": "傳說",
+    "meaning": "legend, myth",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "전통",
+    "hanja": "傳統",
+    "meaning": "tradition",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 135,
+    "korean": "통계",
+    "hanja": "統計",
+    "meaning": "statistics",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "통일",
+    "hanja": "統一",
+    "meaning": "unification",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 135,
+    "korean": "혈통",
+    "hanja": "血統",
+    "meaning": "blood, pedigree",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "국민",
+    "hanja": "國民",
+    "meaning": "a people, a nation",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 136,
+    "korean": "무료",
+    "hanja": "無料",
+    "meaning": "no charge, free of charge",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "무명",
+    "hanja": "無名",
+    "meaning": "nameless, unknown",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "무식",
+    "hanja": "無識",
+    "meaning": "ignorance, uneducated",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "세대",
+    "hanja": "世代",
+    "meaning": "generation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "시대",
+    "hanja": "時代",
+    "meaning": "an era, time, period",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "시민",
+    "hanja": "市民",
+    "meaning": "citizen",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "실향민",
+    "hanja": "失鄉民",
+    "meaning": "displaced person",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "유구무언",
+    "hanja": "有口無言",
+    "meaning": "having no words to say; no excuse to offer",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "유료",
+    "hanja": "有料",
+    "meaning": "charged, with fee",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "유명",
+    "hanja": "有名",
+    "meaning": "fame; well-known",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "유명무실",
+    "hanja": "有名無實",
+    "meaning": "being in name only",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "유식",
+    "hanja": "有識",
+    "meaning": "being knowledgeable; learned",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 136,
+    "korean": "현대",
+    "hanja": "現代",
+    "meaning": "modern times, today",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 137,
+    "korean": "고대",
+    "hanja": "古代",
+    "meaning": "ancient times",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 137,
+    "korean": "고도",
+    "hanja": "古都",
+    "meaning": "ancient city",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 137,
+    "korean": "고전",
+    "hanja": "古典",
+    "meaning": "an old book, classics",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 137,
+    "korean": "유물",
+    "hanja": "遺物",
+    "meaning": "relic, remains",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 137,
+    "korean": "유산",
+    "hanja": "遺産",
+    "meaning": "an inheritance",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 137,
+    "korean": "유언",
+    "hanja": "遺言",
+    "meaning": "will, one’s last words",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "경제계",
+    "hanja": "經濟界",
+    "meaning": "economic circles; the business world",
+    "sourceKind": "tip-example"
+  },
+  {
+    "page": 141,
+    "korean": "선행",
+    "hanja": "善行",
+    "meaning": "good deed",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "세계",
+    "hanja": "世界",
+    "meaning": "the world",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 141,
+    "korean": "세기",
+    "hanja": "世紀",
+    "meaning": "century",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "세대",
+    "hanja": "世代",
+    "meaning": "a generation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "여관",
+    "hanja": "旅館",
+    "meaning": "an inn, a hotel",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "여권",
+    "hanja": "旅券",
+    "meaning": "a passport",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "여비",
+    "hanja": "旅費",
+    "meaning": "traveling expenses",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "여행",
+    "hanja": "旅行",
+    "meaning": "travel, a trip",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 141,
+    "korean": "연예계",
+    "hanja": "演藝界",
+    "meaning": "the entertainment world",
+    "sourceKind": "tip-example"
+  },
+  {
+    "page": 141,
+    "korean": "외계인",
+    "hanja": "外界人",
+    "meaning": "an alien",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "정치계",
+    "hanja": "政治界",
+    "meaning": "the political world",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "출세",
+    "hanja": "出世",
+    "meaning": "Success in life",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "한계",
+    "hanja": "限界",
+    "meaning": "limit, a boundary",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "행동",
+    "hanja": "行動",
+    "meaning": "an action, a movement",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 141,
+    "korean": "행사",
+    "hanja": "行事",
+    "meaning": "an event",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 142,
+    "korean": "각계",
+    "hanja": "各界",
+    "meaning": "all walks of life, every field of life",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 142,
+    "korean": "각국",
+    "hanja": "各國",
+    "meaning": "each nation, every country",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 142,
+    "korean": "각자",
+    "hanja": "各自",
+    "meaning": "each one, individual",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 142,
+    "korean": "명문",
+    "hanja": "名門",
+    "meaning": "distinguished family, noble lineage",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 142,
+    "korean": "명소",
+    "hanja": "名所",
+    "meaning": "noted place, sights to see",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 142,
+    "korean": "명품",
+    "hanja": "名品",
+    "meaning": "luxury goods",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 142,
+    "korean": "전국",
+    "hanja": "全國",
+    "meaning": "the whole country",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 142,
+    "korean": "전부",
+    "hanja": "全部",
+    "meaning": "everything",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 142,
+    "korean": "전세계",
+    "hanja": "全世界",
+    "meaning": "the whole world",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 143,
+    "korean": "식당",
+    "hanja": "食堂",
+    "meaning": "a restaurant",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 143,
+    "korean": "식사",
+    "hanja": "食事",
+    "meaning": "meal",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 143,
+    "korean": "연휴",
+    "hanja": "連休",
+    "meaning": "consecutive holidays",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 143,
+    "korean": "음식",
+    "hanja": "飲食",
+    "meaning": "food(and drink)",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 143,
+    "korean": "휴식",
+    "hanja": "休息",
+    "meaning": "rest",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 143,
+    "korean": "휴일",
+    "hanja": "休日",
+    "meaning": "a holiday, day off",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 147,
+    "korean": "가상",
+    "hanja": "假想",
+    "meaning": "assumption",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 147,
+    "korean": "논문",
+    "hanja": "論文",
+    "meaning": "dissertation, thesis",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 147,
+    "korean": "사고",
+    "hanja": "思考",
+    "meaning": "thought",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 147,
+    "korean": "사상",
+    "hanja": "思想",
+    "meaning": "an idea, ideology",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 147,
+    "korean": "사춘기",
+    "hanja": "思春期",
+    "meaning": "adolescence",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 147,
+    "korean": "상상",
+    "hanja": "想像",
+    "meaning": "imagination",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 147,
+    "korean": "언론",
+    "hanja": "言論",
+    "meaning": "speech",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 147,
+    "korean": "예상",
+    "hanja": "豫想",
+    "meaning": "expectation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 147,
+    "korean": "의사",
+    "hanja": "意思",
+    "meaning": "an intention",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 147,
+    "korean": "이론",
+    "hanja": "理論",
+    "meaning": "a theory",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 147,
+    "korean": "이유",
+    "hanja": "理由",
+    "meaning": "reason",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 147,
+    "korean": "이해",
+    "hanja": "理解",
+    "meaning": "understanding",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 147,
+    "korean": "일리",
+    "hanja": "一理",
+    "meaning": "some reason",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 147,
+    "korean": "토론",
+    "hanja": "討論",
+    "meaning": "discussion",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "노력",
+    "hanja": "努力",
+    "meaning": "effort",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "능력",
+    "hanja": "能力",
+    "meaning": "ability, capability",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "무식",
+    "hanja": "無識",
+    "meaning": "ignorance",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "미완성",
+    "hanja": "未完成",
+    "meaning": "unfinished, incomplete",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "미지",
+    "hanja": "未知",
+    "meaning": "unknown",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "미혼",
+    "hanja": "未婚",
+    "meaning": "single, unmarried",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "사고력",
+    "hanja": "思考力",
+    "meaning": "thinking power",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "상식",
+    "hanja": "常識",
+    "meaning": "common sense",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "의견",
+    "hanja": "意見",
+    "meaning": "opinion",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "의미",
+    "hanja": "意味",
+    "meaning": "meaning",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "의사소통",
+    "hanja": "意思疏通",
+    "meaning": "communication",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 148,
+    "korean": "의식",
+    "hanja": "意識",
+    "meaning": "consciousness",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 148,
+    "korean": "인식",
+    "hanja": "認識",
+    "meaning": "recognition",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 149,
+    "korean": "성실",
+    "hanja": "誠實",
+    "meaning": "sincerity",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 149,
+    "korean": "실감",
+    "hanja": "實感",
+    "meaning": "actual feeling",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 149,
+    "korean": "실천",
+    "hanja": "實踐",
+    "meaning": "practice",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 149,
+    "korean": "지능",
+    "hanja": "知能",
+    "meaning": "intelligence",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 149,
+    "korean": "지식",
+    "hanja": "知識",
+    "meaning": "knowledge",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 149,
+    "korean": "친지",
+    "hanja": "親知",
+    "meaning": "close acquaintance",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "국제법",
+    "hanja": "國際法",
+    "meaning": "international law",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "단어",
+    "hanja": "單語",
+    "meaning": "a word",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "법관",
+    "hanja": "法官",
+    "meaning": "judge",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "법률",
+    "hanja": "法律",
+    "meaning": "law",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "비용",
+    "hanja": "費用",
+    "meaning": "expense(s), a cost",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "실언",
+    "hanja": "失言",
+    "meaning": "slip of the tongue",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "언론",
+    "hanja": "言論",
+    "meaning": "speech",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "언어",
+    "hanja": "言語",
+    "meaning": "language",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 153,
+    "korean": "언쟁",
+    "hanja": "言爭",
+    "meaning": "an argument",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "외국어",
+    "hanja": "外國語",
+    "meaning": "foreign language",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "용법",
+    "hanja": "用法",
+    "meaning": "usage",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 153,
+    "korean": "이용",
+    "hanja": "利用",
+    "meaning": "use, utilization",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "한국어",
+    "hanja": "韓國語",
+    "meaning": "Korean language",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 153,
+    "korean": "활용",
+    "hanja": "活用",
+    "meaning": "practical use",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 154,
+    "korean": "노점",
+    "hanja": "露店",
+    "meaning": "street stall",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 154,
+    "korean": "대사관",
+    "hanja": "大使館",
+    "meaning": "an embassy",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 154,
+    "korean": "대화",
+    "hanja": "對話",
+    "meaning": "conversation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 154,
+    "korean": "도서관",
+    "hanja": "圖書館",
+    "meaning": "library",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 154,
+    "korean": "박물관",
+    "hanja": "博物館",
+    "meaning": "museum",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 154,
+    "korean": "백화점",
+    "hanja": "百貨店",
+    "meaning": "department store",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 154,
+    "korean": "본점",
+    "hanja": "本店",
+    "meaning": "head office",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 154,
+    "korean": "서점",
+    "hanja": "書店",
+    "meaning": "bookstore",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 154,
+    "korean": "체육관",
+    "hanja": "體育館",
+    "meaning": "gym",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 154,
+    "korean": "화제",
+    "hanja": "話題",
+    "meaning": "topic",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 155,
+    "korean": "기록",
+    "hanja": "記錄",
+    "meaning": "record, document",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 155,
+    "korean": "농담",
+    "hanja": "弄談",
+    "meaning": "a joke",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 155,
+    "korean": "상담",
+    "hanja": "相談",
+    "meaning": "counsel, consultation",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 155,
+    "korean": "일기",
+    "hanja": "日記",
+    "meaning": "diary",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 155,
+    "korean": "작가",
+    "hanja": "作家",
+    "meaning": "writer",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 155,
+    "korean": "작문",
+    "hanja": "作文",
+    "meaning": "composition",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 159,
+    "korean": "견학",
+    "hanja": "見學",
+    "meaning": "field trip",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 159,
+    "korean": "경기",
+    "hanja": "競技",
+    "meaning": "game",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 159,
+    "korean": "기술",
+    "hanja": "技術",
+    "meaning": "technique",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 159,
+    "korean": "미술",
+    "hanja": "美術",
+    "meaning": "art, the fine arts",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 159,
+    "korean": "발견",
+    "hanja": "發見",
+    "meaning": "discovery",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 159,
+    "korean": "발명",
+    "hanja": "發明",
+    "meaning": "invention",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 159,
+    "korean": "발전",
+    "hanja": "發展",
+    "meaning": "development",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 159,
+    "korean": "예술",
+    "hanja": "藝術",
+    "meaning": "art",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 159,
+    "korean": "의견",
+    "hanja": "意見",
+    "meaning": "an opinion",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 159,
+    "korean": "출발",
+    "hanja": "出發",
+    "meaning": "departure",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 159,
+    "korean": "특기",
+    "hanja": "特技",
+    "meaning": "special ability",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 159,
+    "korean": "편견",
+    "hanja": "偏見",
+    "meaning": "prejudice, bias",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 160,
+    "korean": "부족",
+    "hanja": "不足",
+    "meaning": "insufficiency",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 160,
+    "korean": "불만",
+    "hanja": "不滿",
+    "meaning": "dissatisfaction",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 160,
+    "korean": "불안",
+    "hanja": "不安",
+    "meaning": "uneasiness",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 160,
+    "korean": "비과학적",
+    "hanja": "非科學的",
+    "meaning": "unscientific",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 160,
+    "korean": "비인간적",
+    "hanja": "非人間的",
+    "meaning": "inhuman",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 160,
+    "korean": "비효율적",
+    "hanja": "非效率的",
+    "meaning": "inefficient",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 160,
+    "korean": "진보",
+    "hanja": "進步",
+    "meaning": "progress, improvement",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 160,
+    "korean": "진행",
+    "hanja": "進行",
+    "meaning": "progress, advance",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 161,
+    "korean": "과목",
+    "hanja": "科目",
+    "meaning": "subject",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 161,
+    "korean": "과학",
+    "hanja": "科學",
+    "meaning": "science",
+    "sourceKind": "central-compound"
+  },
+  {
+    "page": 161,
+    "korean": "내과",
+    "hanja": "內科",
+    "meaning": "internal medicine department",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 161,
+    "korean": "이용",
+    "hanja": "利用",
+    "meaning": "use, utilization",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 161,
+    "korean": "이익",
+    "hanja": "利益",
+    "meaning": "benefit, advantage",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 161,
+    "korean": "편리",
+    "hanja": "便利",
+    "meaning": "convenience",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 164,
+    "korean": "가족",
+    "hanja": "家族",
+    "meaning": "family",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 164,
+    "korean": "교실",
+    "hanja": "教室",
+    "meaning": "classroom",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 164,
+    "korean": "주택",
+    "hanja": "住宅",
+    "meaning": "house",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 165,
+    "korean": "결과",
+    "hanja": "結果",
+    "meaning": "result",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 165,
+    "korean": "근본",
+    "hanja": "根本",
+    "meaning": "a basis",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 165,
+    "korean": "동해",
+    "hanja": "東海",
+    "meaning": "the East Sea",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 165,
+    "korean": "세수",
+    "hanja": "洗手",
+    "meaning": "face washing",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 165,
+    "korean": "연휴",
+    "hanja": "連休",
+    "meaning": "consecutive holiday",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 165,
+    "korean": "위치",
+    "hanja": "位置",
+    "meaning": "location",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 165,
+    "korean": "임야",
+    "hanja": "林野",
+    "meaning": "forests and fields",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 165,
+    "korean": "자신감",
+    "hanja": "自信感",
+    "meaning": "confidence",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 165,
+    "korean": "한강",
+    "hanja": "漢江",
+    "meaning": "Hangang River",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 166,
+    "korean": "관광",
+    "hanja": "觀光",
+    "meaning": "sightseeing",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 166,
+    "korean": "다기",
+    "hanja": "茶器",
+    "meaning": "tea-things",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 166,
+    "korean": "백설",
+    "hanja": "白雪",
+    "meaning": "white snow",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 166,
+    "korean": "시청",
+    "hanja": "視聽",
+    "meaning": "seeing and hearing",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 166,
+    "korean": "운해",
+    "hanja": "雲海",
+    "meaning": "a sea of clouds",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 166,
+    "korean": "전기",
+    "hanja": "電氣",
+    "meaning": "electricity",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 166,
+    "korean": "친구",
+    "hanja": "親舊",
+    "meaning": "friend",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 166,
+    "korean": "화원",
+    "hanja": "花園",
+    "meaning": "flower garden",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 166,
+    "korean": "화초",
+    "hanja": "花草",
+    "meaning": "flowering plants",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 168,
+    "korean": "노력",
+    "hanja": "努力",
+    "meaning": "effort",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 168,
+    "korean": "동물",
+    "hanja": "動物",
+    "meaning": "an animal",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 168,
+    "korean": "손자",
+    "hanja": "孫子",
+    "meaning": "grandson",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 168,
+    "korean": "증가",
+    "hanja": "增加",
+    "meaning": "increase",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 168,
+    "korean": "한자",
+    "hanja": "漢字",
+    "meaning": "Hanja; Chinese character",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 168,
+    "korean": "효자",
+    "hanja": "孝子",
+    "meaning": "dutiful son",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 169,
+    "korean": "감동",
+    "hanja": "感動",
+    "meaning": "impression",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 169,
+    "korean": "교통",
+    "hanja": "交通",
+    "meaning": "traffic",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 169,
+    "korean": "도로",
+    "hanja": "道路",
+    "meaning": "road",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 169,
+    "korean": "미혼",
+    "hanja": "未婚",
+    "meaning": "single, unmarried",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 169,
+    "korean": "상상",
+    "hanja": "想像",
+    "meaning": "imagination",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 169,
+    "korean": "인정",
+    "hanja": "人情",
+    "meaning": "humanity, human feeling",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 169,
+    "korean": "전진",
+    "hanja": "前進",
+    "meaning": "advance",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 169,
+    "korean": "처가",
+    "hanja": "妻家",
+    "meaning": "one's wife's home",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 169,
+    "korean": "호의",
+    "hanja": "好意",
+    "meaning": "goodwill, favor",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 170,
+    "korean": "대화",
+    "hanja": "對話",
+    "meaning": "conversation",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 170,
+    "korean": "무료",
+    "hanja": "無料",
+    "meaning": "no charge",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 170,
+    "korean": "열",
+    "hanja": "熱",
+    "meaning": "heat",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 170,
+    "korean": "외국어",
+    "hanja": "外國語",
+    "meaning": "foreign language",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 170,
+    "korean": "일기",
+    "hanja": "日記",
+    "meaning": "diary",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 170,
+    "korean": "조명",
+    "hanja": "照明",
+    "meaning": "lighting",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 170,
+    "korean": "질문",
+    "hanja": "質問",
+    "meaning": "question",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 170,
+    "korean": "통곡",
+    "hanja": "痛哭",
+    "meaning": "loud weeping",
+    "sourceKind": "vocabulary-row"
+  },
+  {
+    "page": 170,
+    "korean": "호명",
+    "hanja": "呼名",
+    "meaning": "calling a name",
+    "sourceKind": "vocabulary-row"
+  }
+]

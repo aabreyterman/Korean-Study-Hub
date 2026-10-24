@@ -1,0 +1,9 @@
+.DS_Store
+preview*.png
+__pycache__/
+node_modules/
+.env
+.env.*
+seoul-study-progress*.json
+*progress-backup*.json
+*.log

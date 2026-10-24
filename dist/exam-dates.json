@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-22",
+  "timezone": "Asia/Dubai",
+  "result": {
+    "id": "topik-108-results",
+    "title": "108th TOPIK I result release",
+    "examDate": "2026-10-17",
+    "date": "2026-12-10",
+    "timeKorea": "15:00",
+    "timeDubai": "10:00",
+    "releaseAt": "2026-12-10T15:00:00+09:00",
+    "status": "officially_scheduled",
+    "scope": "Global results for the 108th PBT sitting",
+    "sourceUrl": "https://www.topik.go.kr/",
+    "note": "The official Korean TOPIK schedule lists 10 December at 15:00. Dubai is five hours behind Korea (10:00). Results are not yet released; taking the exam does not establish a passing result."
+  },
+  "uaeRegistration": {
+    "id": "uae-next-topik-ii-registration",
+    "title": "Next UAE TOPIK II registration",
+    "status": "awaiting_local_confirmation",
+    "startDate": null,
+    "endDate": null,
+    "examDate": null,
+    "sourceUrl": "https://uae.korean-culture.org/en/556/board/383/list",
+    "contact": "topik.kccuae@gmail.com",
+    "note": "No verified 2027 UAE registration notice was located as of 22 October 2026. The UAE notices page could not be fully retrieved (redirect loop). The dates below are Korea registration windows, not UAE deadlines. Local test availability and registration must be confirmed with the Korean Cultural Center in the UAE."
+  },
+  "upcoming": [
+    {
+      "id": "topik-pbt-110",
+      "session": 110,
+      "format": "PBT",
+      "title": "110th TOPIK I / II PBT",
+      "scope": "Korea only",
+      "registrationScope": "Korea only",
+      "registrationStart": "2026-12-08",
+      "registrationEnd": "2026-12-14",
+      "testStart": "2027-01-10",
+      "testEnd": "2027-01-10",
+      "resultDate": "2027-02-04",
+      "uaeConfirmed": false,
+      "status": "official_annual_plan",
+      "sourceUrl": "https://english.moe.go.kr/boardCnts/viewRenewal.do?boardID=265&boardSeq=107361&lev=0&m=0201&opType=N&page=1&s=english&searchType=null&statusYN=W",
+      "note": "This sitting is not offered outside Korea."
+    },
+    {
+      "id": "topik-ibt-18",
+      "session": 18,
+      "format": "IBT",
+      "title": "18th TOPIK I / II IBT",
+      "scope": "Korea & participating overseas centres",
+      "registrationScope": "Korea only",
+      "registrationStart": "2027-01-12",
+      "registrationEnd": "2027-01-18",
+      "testStart": "2027-03-20",
+      "testEnd": "2027-03-20",
+      "resultDate": "2027-04-09",
+      "uaeConfirmed": false,
+      "status": "official_annual_plan",
+      "sourceUrl": "https://english.moe.go.kr/boardCnts/viewRenewal.do?boardID=265&boardSeq=107361&lev=0&m=0201&opType=N&page=1&s=english&searchType=null&statusYN=W",
+      "note": "UAE availability and UAE registration dates are not confirmed. Follow your local session notice."
+    },
+    {
+      "id": "topik-pbt-111",
+      "session": 111,
+      "format": "PBT",
+      "title": "111th TOPIK I / II PBT",
+      "scope": "Korea & participating overseas centres",
+      "registrationScope": "Korea only",
+      "registrationStart": "2027-01-26",
+      "registrationEnd": "2027-02-01",
+      "testStart": "2027-04-10",
+      "testEnd": "2027-04-11",
+      "resultDate": "2027-05-31",
+      "uaeConfirmed": false,
+      "status": "official_annual_plan",
+      "sourceUrl": "https://english.moe.go.kr/boardCnts/viewRenewal.do?boardID=265&boardSeq=107361&lev=0&m=0201&opType=N&page=1&s=english&searchType=null&statusYN=W",
+      "note": "UAE availability and UAE registration dates are not confirmed. Follow your local session notice."
+    },
+    {
+      "id": "topik-pbt-112",
+      "session": 112,
+      "format": "PBT",
+      "title": "112th TOPIK I / II PBT",
+      "scope": "Korea & participating overseas centres",
+      "registrationScope": "Korea only",
+      "registrationStart": "2027-03-09",
+      "registrationEnd": "2027-03-15",
+      "testStart": "2027-05-15",
+      "testEnd": "2027-05-16",
+      "resultDate": "2027-06-24",
+      "uaeConfirmed": false,
+      "status": "official_annual_plan",
+      "sourceUrl": "https://english.moe.go.kr/boardCnts/viewRenewal.do?boardID=265&boardSeq=107361&lev=0&m=0201&opType=N&page=1&s=english&searchType=null&statusYN=W",
+      "note": "UAE availability and UAE registration dates are not confirmed. Follow your local session notice."
+    },
+    {
+      "id": "topik-pbt-113",
+      "session": 113,
+      "format": "PBT",
+      "title": "113th TOPIK I / II PBT",
+      "scope": "Korea & participating overseas centres",
+      "registrationScope": "Korea only",
+      "registrationStart": "2027-04-20",
+      "registrationEnd": "2027-04-26",
+      "testStart": "2027-07-03",
+      "testEnd": "2027-07-04",
+      "resultDate": "2027-08-12",
+      "uaeConfirmed": false,
+      "status": "official_annual_plan",
+      "sourceUrl": "https://english.moe.go.kr/boardCnts/viewRenewal.do?boardID=265&boardSeq=107361&lev=0&m=0201&opType=N&page=1&s=english&searchType=null&statusYN=W",
+      "note": "UAE availability and UAE registration dates are not confirmed. Follow your local session notice."
+    },
+    {
+      "id": "topik-pbt-114",
+      "session": 114,
+      "format": "PBT",
+      "title": "114th TOPIK I / II PBT",
+      "scope": "Korea & participating overseas centres",
+      "registrationScope": "Korea only",
+      "registrationStart": "2027-08-03",
+      "registrationEnd": "2027-08-09",
+      "testStart": "2027-10-16",
+      "testEnd": "2027-10-17",
+      "resultDate": "2027-12-09",
+      "uaeConfirmed": false,
+      "status": "official_annual_plan",
+      "sourceUrl": "https://english.moe.go.kr/boardCnts/viewRenewal.do?boardID=265&boardSeq=107361&lev=0&m=0201&opType=N&page=1&s=english&searchType=null&statusYN=W",
+      "note": "UAE availability and UAE registration dates are not confirmed. Follow your local session notice."
+    }
+  ],
+  "thresholds": {
+    "format": "PBT",
+    "maximum": 300,
+    "level3": 120,
+    "level4": 150,
+    "level3Band": [
+      120,
+      149
+    ],
+    "level4Band": [
+      150,
+      189
+    ],
+    "scope": "Paper-based TOPIK II only. These are total-score thresholds; IBT uses a different scale. Practice scores are readiness estimates, not official certification.",
+    "sourceUrl": "https://www.niied.go.kr/convert/preview/1764682094654/index.html"
+  },
+  "sources": [
+    {
+      "id": "topik-current",
+      "title": "Official TOPIK schedule and score release",
+      "url": "https://www.topik.go.kr/"
+    },
+    {
+      "id": "moe-2027",
+      "title": "Ministry of Education: 2027 TOPIK implementation plan, 30 September 2026",
+      "url": "https://english.moe.go.kr/boardCnts/viewRenewal.do?boardID=265&boardSeq=107361&lev=0&m=0201&opType=N&page=1&s=english&searchType=null&statusYN=W"
+    },
+    {
+      "id": "uae-notices",
+      "title": "Korean Cultural Center in the UAE — official notices",
+      "url": "https://uae.korean-culture.org/en/556/board/383/list"
+    },
+    {
+      "id": "niied-score",
+      "title": "NIIED TOPIK operating regulations — PBT grade thresholds",
+      "url": "https://www.niied.go.kr/convert/preview/1764682094654/index.html"
+    }
+  ],
+  "verificationNotes": [
+    "Every registration window in upcoming is for Korea. The Ministry explicitly states overseas registration is set by local administration agencies.",
+    "Korea & overseas in the annual plan does not guarantee the UAE offers that sitting.",
+    "The Ministry English table has an inconsistent 115th PBT result date; that session is omitted here rather than guessed."
+  ]
+}

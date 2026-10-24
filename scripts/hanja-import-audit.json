@@ -1,0 +1,288 @@
+{
+  "importComplete": true,
+  "chapterCount": 26,
+  "indexRows": 388,
+  "uniqueIndexedCharacters": 386,
+  "characterPlacements": 503,
+  "uniqueCharacters": 406,
+  "vocabularyEntries": 733,
+  "uniqueVocabularyPairs": 657,
+  "vocabularyAssociations": 1116,
+  "unassignedVocabulary": 0,
+  "sourcePdfPages": 241,
+  "verifiedIndexPages": [
+    181,
+    182,
+    183,
+    184
+  ],
+  "lessonPages": [
+    19,
+    20,
+    21,
+    25,
+    26,
+    27,
+    31,
+    32,
+    33,
+    37,
+    38,
+    39,
+    43,
+    44,
+    45,
+    49,
+    50,
+    51,
+    55,
+    56,
+    57,
+    61,
+    62,
+    63,
+    67,
+    68,
+    69,
+    73,
+    74,
+    75,
+    79,
+    80,
+    81,
+    85,
+    86,
+    87,
+    93,
+    94,
+    95,
+    99,
+    100,
+    101,
+    105,
+    106,
+    107,
+    111,
+    112,
+    113,
+    117,
+    118,
+    119,
+    123,
+    124,
+    125,
+    129,
+    130,
+    131,
+    135,
+    136,
+    137,
+    141,
+    142,
+    143,
+    147,
+    148,
+    149,
+    153,
+    154,
+    155,
+    159,
+    160,
+    161,
+    164,
+    165,
+    166,
+    168,
+    169,
+    170
+  ],
+  "status": "Complete: all 26 chapters, full character index including More Hanja, explicit vocabulary rows, central compounds, and radical examples.",
+  "scope": "The teaching chapters and explicit vocabulary/tip lists are imported. Practice sentences, workbook questions, stroke-by-stroke repeated forms, and answer-key duplicates do not create additional vocabulary cards.",
+  "source": "User-supplied scanned 2022 revised edition; printed page numbers equal PDF page numbers for imported pages.",
+  "method": "Two local Vision OCR passes (Korean-first and Chinese-first), character-index reconciliation, row corrections, and visual review of all intermediate central-compound pages. English glosses are concise vocabulary translations; no running prose is reproduced.",
+  "uncertainTranslations": 0,
+  "perChapter": [
+    {
+      "number": 1,
+      "title": "Numbers",
+      "characters": 13,
+      "vocabularyRows": 6,
+      "vocabularyAssociations": 6
+    },
+    {
+      "number": 2,
+      "title": "Dates and Days of the Week",
+      "characters": 10,
+      "vocabularyRows": 29,
+      "vocabularyAssociations": 33
+    },
+    {
+      "number": 3,
+      "title": "Sizes and Positions",
+      "characters": 12,
+      "vocabularyRows": 35,
+      "vocabularyAssociations": 37
+    },
+    {
+      "number": 4,
+      "title": "Directions",
+      "characters": 11,
+      "vocabularyRows": 30,
+      "vocabularyAssociations": 33
+    },
+    {
+      "number": 5,
+      "title": "Nature and People",
+      "characters": 11,
+      "vocabularyRows": 29,
+      "vocabularyAssociations": 31
+    },
+    {
+      "number": 6,
+      "title": "Body Parts",
+      "characters": 12,
+      "vocabularyRows": 31,
+      "vocabularyAssociations": 36
+    },
+    {
+      "number": 7,
+      "title": "Colors and Basic Objects",
+      "characters": 11,
+      "vocabularyRows": 26,
+      "vocabularyAssociations": 29
+    },
+    {
+      "number": 8,
+      "title": "Seasons and Weather",
+      "characters": 10,
+      "vocabularyRows": 28,
+      "vocabularyAssociations": 30
+    },
+    {
+      "number": 9,
+      "title": "Animals and Plants",
+      "characters": 10,
+      "vocabularyRows": 25,
+      "vocabularyAssociations": 27
+    },
+    {
+      "number": 10,
+      "title": "Family",
+      "characters": 12,
+      "vocabularyRows": 30,
+      "vocabularyAssociations": 44
+    },
+    {
+      "number": 11,
+      "title": "School",
+      "characters": 11,
+      "vocabularyRows": 31,
+      "vocabularyAssociations": 37
+    },
+    {
+      "number": 12,
+      "title": "Times",
+      "characters": 10,
+      "vocabularyRows": 24,
+      "vocabularyAssociations": 29
+    },
+    {
+      "number": 13,
+      "title": "Life",
+      "characters": 31,
+      "vocabularyRows": 29,
+      "vocabularyAssociations": 58
+    },
+    {
+      "number": 14,
+      "title": "Education",
+      "characters": 27,
+      "vocabularyRows": 31,
+      "vocabularyAssociations": 57
+    },
+    {
+      "number": 15,
+      "title": "Personality",
+      "characters": 26,
+      "vocabularyRows": 30,
+      "vocabularyAssociations": 54
+    },
+    {
+      "number": 16,
+      "title": "Economy",
+      "characters": 28,
+      "vocabularyRows": 29,
+      "vocabularyAssociations": 53
+    },
+    {
+      "number": 17,
+      "title": "Jobs",
+      "characters": 28,
+      "vocabularyRows": 32,
+      "vocabularyAssociations": 61
+    },
+    {
+      "number": 18,
+      "title": "Transportation",
+      "characters": 23,
+      "vocabularyRows": 28,
+      "vocabularyAssociations": 49
+    },
+    {
+      "number": 19,
+      "title": "Popular Culture",
+      "characters": 22,
+      "vocabularyRows": 31,
+      "vocabularyAssociations": 46
+    },
+    {
+      "number": 20,
+      "title": "Cultural Heritage",
+      "characters": 24,
+      "vocabularyRows": 34,
+      "vocabularyAssociations": 59
+    },
+    {
+      "number": 21,
+      "title": "Travel",
+      "characters": 23,
+      "vocabularyRows": 31,
+      "vocabularyAssociations": 50
+    },
+    {
+      "number": 22,
+      "title": "Learning",
+      "characters": 25,
+      "vocabularyRows": 33,
+      "vocabularyAssociations": 58
+    },
+    {
+      "number": 23,
+      "title": "Language",
+      "characters": 25,
+      "vocabularyRows": 30,
+      "vocabularyAssociations": 47
+    },
+    {
+      "number": 24,
+      "title": "Science",
+      "characters": 22,
+      "vocabularyRows": 26,
+      "vocabularyAssociations": 44
+    },
+    {
+      "number": 25,
+      "title": "Main Radical I",
+      "characters": 32,
+      "vocabularyRows": 21,
+      "vocabularyAssociations": 53
+    },
+    {
+      "number": 26,
+      "title": "Main Radical II",
+      "characters": 34,
+      "vocabularyRows": 24,
+      "vocabularyAssociations": 55
+    }
+  ]
+}
