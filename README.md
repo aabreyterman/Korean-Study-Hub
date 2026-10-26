@@ -2,6 +2,12 @@
 
 A personal Korean study room with flashcards, multiple-choice quizzes, Korean typing practice, chapter notes, Hanja, daily checklists and saved progress.
 
+## Language and daily Korean
+
+The EN / 한국어 control switches the interface without rebuilding the active view, changing card meanings, or clearing draft inputs. The choice is saved locally under `anastasiia-study-language`. Interface translations are bundled locally; no text is sent to a translation API for this switch. Study answers, original notebook content and learner notes stay in their original language.
+
+Two compact Korean lines show a friendly daily fortune and a common proverb. They rotate deterministically by the Dubai calendar date and stay the same when the page is reopened that day. The browser icon is a local SVG Korean flag.
+
 ## Navigation
 
 The left sidebar is the main navigation: Today, My progress, Hanja, Book notes, Vocabulary, and Calendar. Chapter tracking, the study roadmap, and TOPIK goals are grouped under My progress. Word-practice modes appear only inside a study set. On small screens, the sidebar opens from the menu button.
