@@ -2,6 +2,12 @@
 
 A personal Korean study room with flashcards, multiple-choice quizzes, Korean typing practice, chapter notes, Hanja, daily checklists and saved progress.
 
+## Navigation
+
+The left sidebar is the main navigation: Today, My progress, Hanja, Book notes, Vocabulary, and Calendar. Chapter tracking, the study roadmap, and TOPIK goals are grouped under My progress. Word-practice modes appear only inside a study set. On small screens, the sidebar opens from the menu button.
+
+Today puts the five-item checklist first, opens the next unfinished task, and keeps other controls collapsed. Book charts and the compact calendar sit alongside it on desktop and below it on mobile. Backups live in the sidebar rather than above the study plan.
+
 ## Daily study
 
 1. Revise 20 random vocabulary cards. The selection changes each Dubai calendar day and remains stable when reopening that day. Words can repeat on future days.
