@@ -493,5 +493,6 @@ window.KoreanUIStrings={
  "Korea & participating overseas centres": "한국 및 참가 해외 시험장",
  "UAE availability unconfirmed.": "UAE 시행 여부 미확인.",
  "Dubai": "두바이",
- "Korea": "한국"
+ "Korea": "한국",
+ "TOPIK I sat": "TOPIK I 응시 완료"
 };
