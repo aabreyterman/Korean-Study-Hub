@@ -12,11 +12,17 @@ A personal Korean study room with flashcards, multiple-choice quizzes, Korean ty
 
 ## Progress and moving from the old address
 
-Open the new site and select **Restore latest backup**. Choose the most recent `seoul-study-progress` JSON file. Reconnect the progress file for automatic disk backups if desired. Site addresses have separate browser storage, so the one-time restore is necessary when moving from the old site.
+The owner-approved 26 October 2026 backup is published at `dist/progress/latest.json`. A new browser, or a browser with an older timestamp, restores it automatically. Newer browser progress is kept. Before an automatic replacement, a recovery snapshot is stored under `seoul-study-club-v1-before-published-restore` in localStorage. **Progress & backups** also provides manual import, download, and explicit published-backup restore.
 
-Study progress, newly entered words, corrections and learning history save in localStorage plus an IndexedDB backup on this computer/browser. An optional connected file stores a portable JSON copy. GitHub Pages hosts the application; it does **not** synchronise personal progress between devices or commit personal vocabulary to the repository. Download a backup before changing browsers or clearing site data.
+Study progress, newly entered words, corrections and learning history save in localStorage plus an IndexedDB backup on this computer/browser. An optional connected file stores a portable JSON copy. GitHub Pages does not push subsequent personal progress back to GitHub or synchronise devices. To publish another snapshot, replace `dist/progress/latest.json` with an exported backup and commit/push it. Download a backup before changing browsers or clearing site data.
 
-Personal progress files must never be committed. `.gitignore` excludes the standard backup filenames. No personal progress seed or credentials are shipped.
+The published snapshot is public by the owner's explicit request. Other standard backup filenames remain ignored; credentials are never shipped.
+
+## Chapters and cards
+
+**Chapter progress** shows Hanja coverage and individual student-book parts. Completed tiles are green; partially completed student chapters are yellow. Click a student chapter to log or undo a part and start its vocabulary quiz, typing test, or flashcards. Hanja chapter buttons open the corresponding book entries; **Test Korean readings** asks for the character's Korean reading and then reveals its meaning.
+
+Book-note dates start collapsed. Custom cards can be edited (including Korean spelling) or deleted from Book notes and the word library. Edits keep stable card IDs and review history. Deleted cards are excluded from study sets but retained in backups and can be restored from **Deleted words**.
 
 ## Translation
 
@@ -39,4 +45,4 @@ python3 -m http.server 8765 --directory dist
 node --test tests/*.test.cjs
 ```
 
-The original 417 notebook cards and their IDs are preserved. Hanja remains separate from the general vocabulary pool. Book notes are grouped by textbook chapter and study date. `scripts/` contains factual source tables used to validate the Hanja import; no source PDFs or private progress backups are included.
+The original 417 notebook cards and their IDs are preserved. Hanja remains separate from the general vocabulary pool. Book notes are grouped by textbook chapter and study date. `scripts/` contains factual source tables used to validate the Hanja import; no source PDFs are included.

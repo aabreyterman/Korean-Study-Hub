@@ -1,0 +1,6412 @@
+{
+  "version": 2,
+  "app": "seoul-study-club",
+  "state": {
+    "learned": {},
+    "mistakes": [],
+    "daily": {},
+    "plan": {},
+    "practice": {},
+    "linkPractice": {},
+    "customWords": [
+      {
+        "id": "custom:c7900a1e-4f91-4f5c-92c6-62413efc75eb",
+        "custom": true,
+        "korean": "건물",
+        "forms": [
+          "건물"
+        ],
+        "answer": "building",
+        "quizAnswer": "building",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "existing study vocabulary",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "건물"
+      },
+      {
+        "id": "custom:14efd464-30fb-40e5-acdc-84e480d8095a",
+        "custom": true,
+        "korean": "열",
+        "forms": [
+          "열"
+        ],
+        "answer": "10 (native Korean)",
+        "quizAnswer": "10 (native Korean)",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "existing study vocabulary",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "열"
+      },
+      {
+        "id": "custom:d691fc91-f685-41c8-9e19-022bc13334bc",
+        "custom": true,
+        "korean": "콧물",
+        "forms": [
+          "콧물"
+        ],
+        "answer": "Nasal discharge",
+        "quizAnswer": "Nasal discharge",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "콧물"
+      },
+      {
+        "id": "custom:07d67599-5769-48e6-874a-5480d6fe05bf",
+        "custom": true,
+        "korean": "언어",
+        "forms": [
+          "언어"
+        ],
+        "answer": "languages",
+        "quizAnswer": "languages",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "언어"
+      },
+      {
+        "id": "custom:2b4ce771-43a6-45b0-9a12-5ed3f40ec59a",
+        "custom": true,
+        "korean": "교사",
+        "forms": [
+          "교사"
+        ],
+        "answer": "Teacher",
+        "quizAnswer": "Teacher",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "교사"
+      },
+      {
+        "id": "custom:ca5abfa7-0e15-4b32-908c-ae187b556082",
+        "custom": true,
+        "korean": "수의사",
+        "forms": [
+          "수의사"
+        ],
+        "answer": "vet",
+        "quizAnswer": "vet",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "수의사"
+      },
+      {
+        "id": "custom:fb76fd98-595d-4bef-9e5b-a9673a216e17",
+        "custom": true,
+        "korean": "간호사",
+        "forms": [
+          "간호사"
+        ],
+        "answer": "Nurse",
+        "quizAnswer": "Nurse",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "간호사"
+      },
+      {
+        "id": "custom:e366f564-a765-4650-96fb-a88ac2d2ea7b",
+        "custom": true,
+        "korean": "변호사",
+        "forms": [
+          "변호사"
+        ],
+        "answer": "Lawyer",
+        "quizAnswer": "Lawyer",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "변호사"
+      },
+      {
+        "id": "custom:908ee57d-551d-4483-8ff8-bccfe56c5fb8",
+        "custom": true,
+        "korean": "회계사",
+        "forms": [
+          "회계사"
+        ],
+        "answer": "Accountant",
+        "quizAnswer": "Accountant",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "회계사"
+      },
+      {
+        "id": "custom:0e0d995d-477f-4a54-9052-2d9fff59ae69",
+        "custom": true,
+        "korean": "공무원",
+        "forms": [
+          "공무원"
+        ],
+        "answer": "Civil service",
+        "quizAnswer": "Civil service",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "공무원"
+      },
+      {
+        "id": "custom:d0746ddb-689b-4902-8286-e1625cc511e1",
+        "custom": true,
+        "korean": "연구원",
+        "forms": [
+          "연구원"
+        ],
+        "answer": "Research Institute",
+        "quizAnswer": "Research Institute",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "연구원"
+      },
+      {
+        "id": "custom:976665b6-7558-49e2-bf35-a49dfbdf7ae4",
+        "custom": true,
+        "korean": "은행원",
+        "forms": [
+          "은행원"
+        ],
+        "answer": "Bank",
+        "quizAnswer": "Bank",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "은행원"
+      },
+      {
+        "id": "custom:1bc5791b-a033-4fa2-8743-4e7cbf977120",
+        "custom": true,
+        "korean": "음악가",
+        "forms": [
+          "음악가"
+        ],
+        "answer": "Musician",
+        "quizAnswer": "Musician",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "음악가"
+      },
+      {
+        "id": "custom:b451ec53-0fe6-4d31-9839-b22ba74d6d89",
+        "custom": true,
+        "korean": "작곡가",
+        "forms": [
+          "작곡가"
+        ],
+        "answer": "Composer",
+        "quizAnswer": "Composer",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "작곡가"
+      },
+      {
+        "id": "custom:b3b84b43-02d1-4151-8054-a9ab81c70ed8",
+        "custom": true,
+        "korean": "각가",
+        "forms": [
+          "각가"
+        ],
+        "answer": "Angular",
+        "quizAnswer": "Angular",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "각가"
+      },
+      {
+        "id": "custom:f3b5ee7b-3f42-45b4-a847-a349669cfa57",
+        "custom": true,
+        "korean": "화가",
+        "forms": [
+          "화가"
+        ],
+        "answer": "Painting",
+        "quizAnswer": "Painting",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "화가"
+      },
+      {
+        "id": "custom:b4f06f63-d1e8-4e38-b8f3-ce90073b50c8",
+        "custom": true,
+        "korean": "예술가",
+        "forms": [
+          "예술가"
+        ],
+        "answer": "Artist",
+        "quizAnswer": "Artist",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "예술가"
+      },
+      {
+        "id": "custom:37a31197-e37d-4199-8cd6-9fe06991b41c",
+        "custom": true,
+        "korean": "사업가",
+        "forms": [
+          "사업가"
+        ],
+        "answer": "Entrepreneur",
+        "quizAnswer": "Entrepreneur",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "사업가"
+      },
+      {
+        "id": "custom:4d4195c2-61cc-4402-8ef5-b94cea6f1a53",
+        "custom": true,
+        "korean": "경찰관",
+        "forms": [
+          "경찰관"
+        ],
+        "answer": "Police officer",
+        "quizAnswer": "Police officer",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "경찰관"
+      },
+      {
+        "id": "custom:f7a1dcc3-e049-4948-b256-5e7cbc861afd",
+        "custom": true,
+        "korean": "소방관",
+        "forms": [
+          "소방관"
+        ],
+        "answer": "Fire fighter",
+        "quizAnswer": "Fire fighter",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "소방관"
+      },
+      {
+        "id": "custom:4c649c59-8e9d-4763-8ee6-e3475149ef3e",
+        "custom": true,
+        "korean": "경제 전문가",
+        "forms": [
+          "경제 전문가"
+        ],
+        "answer": "Economist",
+        "quizAnswer": "Economist",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "경제 전문가"
+      },
+      {
+        "id": "custom:761d5ee1-ffe0-4ece-b626-caa9c7e9428a",
+        "custom": true,
+        "korean": "건축 전문가",
+        "forms": [
+          "건축 전문가"
+        ],
+        "answer": "Architectural Expert",
+        "quizAnswer": "Architectural Expert",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "건축 전문가"
+      },
+      {
+        "id": "custom:f3e2619a-9b8b-461e-b1ba-f5aa8d8f0309",
+        "custom": true,
+        "korean": "군인",
+        "forms": [
+          "군인"
+        ],
+        "answer": "Soldier",
+        "quizAnswer": "Soldier",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-2",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "군인"
+      },
+      {
+        "id": "custom:41764adb-a16e-4ab5-89f0-423cb9e1fbe8",
+        "custom": true,
+        "korean": "곡",
+        "forms": [
+          "곡"
+        ],
+        "answer": "Song",
+        "quizAnswer": "Song",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-3",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "곡"
+      },
+      {
+        "id": "custom:9cb76ff0-f28a-4d41-a90d-a2316a9b3f62",
+        "custom": true,
+        "korean": "마디",
+        "forms": [
+          "마디"
+        ],
+        "answer": "sections",
+        "quizAnswer": "sections",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "manual correction",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-3",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "마디"
+      },
+      {
+        "id": "custom:16c1e29f-a061-42ad-bfa1-7aa54f07d10c",
+        "custom": true,
+        "korean": "군데",
+        "forms": [
+          "군데"
+        ],
+        "answer": "place",
+        "quizAnswer": "place",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "manual correction",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "군데"
+      },
+      {
+        "id": "custom:0b138893-94cb-4e54-af29-f2fea4e7dd71",
+        "custom": true,
+        "korean": "봉지",
+        "forms": [
+          "봉지"
+        ],
+        "answer": "Bag",
+        "quizAnswer": "Bag",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "봉지"
+      },
+      {
+        "id": "custom:0233a912-be47-4c63-91a9-ea1ed6a663af",
+        "custom": true,
+        "korean": "결레",
+        "forms": [
+          "결레"
+        ],
+        "answer": "shoes",
+        "quizAnswer": "shoes",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "manual correction",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "결레"
+      },
+      {
+        "id": "custom:a0ed0fab-7ff6-4917-82f9-544e19b701c1",
+        "custom": true,
+        "korean": "켤레",
+        "forms": [
+          "켤레"
+        ],
+        "answer": "Pairs",
+        "quizAnswer": "Pairs",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "켤레"
+      },
+      {
+        "id": "custom:fdee1b11-79c0-4530-b3e1-a97178eaaadc",
+        "custom": true,
+        "korean": "잔",
+        "forms": [
+          "잔"
+        ],
+        "answer": "glass",
+        "quizAnswer": "glass",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "잔"
+      },
+      {
+        "id": "custom:6e8babd9-8ca5-4c9a-8b63-2637bb1fe0d9",
+        "custom": true,
+        "korean": "장",
+        "forms": [
+          "장"
+        ],
+        "answer": "CHAPTER",
+        "quizAnswer": "CHAPTER",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "장"
+      },
+      {
+        "id": "custom:e7fe4530-d3f3-45fe-87ad-eaca41e4236d",
+        "custom": true,
+        "korean": "차이가 나다",
+        "forms": [
+          "차이가 나다"
+        ],
+        "answer": "different",
+        "quizAnswer": "different",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-3",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "차이가 나다"
+      },
+      {
+        "id": "custom:11b20e99-8500-416b-a130-0a1fd31dd113",
+        "custom": true,
+        "korean": "빼고",
+        "forms": [
+          "빼고"
+        ],
+        "answer": "Except",
+        "quizAnswer": "Except",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-3",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "빼고"
+      },
+      {
+        "id": "custom:67db160b-4746-461b-9f40-1feb5fa5be24",
+        "custom": true,
+        "korean": "외동딸",
+        "forms": [
+          "외동딸"
+        ],
+        "answer": "only daughter",
+        "quizAnswer": "only daughter",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-3",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "외동딸"
+      },
+      {
+        "id": "custom:c379912c-c4b5-400e-83c2-4308d86768f4",
+        "custom": true,
+        "korean": "켱우",
+        "forms": [
+          "켱우"
+        ],
+        "answer": "situation",
+        "quizAnswer": "situation",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "manual correction",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-3",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "켱우"
+      },
+      {
+        "id": "custom:535ba3df-26ba-4554-b18c-a9914ec22a35",
+        "custom": true,
+        "korean": "친척하다",
+        "forms": [
+          "친척하다"
+        ],
+        "answer": "to be related",
+        "quizAnswer": "to be related",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "친척하다"
+      },
+      {
+        "id": "custom:8dbe7f3d-70ad-4be7-bbcc-f1f1f85826d6",
+        "custom": true,
+        "korean": "닮다",
+        "forms": [
+          "닮다"
+        ],
+        "answer": "Similar",
+        "quizAnswer": "Similar",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "닮다"
+      },
+      {
+        "id": "custom:3d21517a-5bb9-4521-9d07-3c905aa5e4ed",
+        "custom": true,
+        "korean": "문법",
+        "forms": [
+          "문법"
+        ],
+        "answer": "Grammar",
+        "quizAnswer": "Grammar",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "문법"
+      },
+      {
+        "id": "custom:3a5f45d5-11c5-4df2-87e3-fa8f0346ea8c",
+        "custom": true,
+        "korean": "한류",
+        "forms": [
+          "한류"
+        ],
+        "answer": "korean wave",
+        "quizAnswer": "korean wave",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "manual correction",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "한류"
+      },
+      {
+        "id": "custom:c0f87e8e-cb09-413a-83ec-65c5eab9d5c5",
+        "custom": true,
+        "korean": "주류",
+        "forms": [
+          "주류"
+        ],
+        "answer": "mainstream",
+        "quizAnswer": "mainstream",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "manual correction",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "주류"
+      },
+      {
+        "id": "custom:c0a6b7af-3f8b-4756-a757-cdb6b615d511",
+        "custom": true,
+        "korean": "실네",
+        "forms": [
+          "실네"
+        ],
+        "answer": "indoors",
+        "quizAnswer": "indoors",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "manual correction",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "실네"
+      },
+      {
+        "id": "custom:9ef8fd00-1ca0-4a16-ab1f-a4e93772a233",
+        "custom": true,
+        "korean": "외교",
+        "forms": [
+          "외교"
+        ],
+        "answer": "Diplomacy",
+        "quizAnswer": "Diplomacy",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "외교"
+      },
+      {
+        "id": "custom:14b8fd5d-d246-497e-8b12-3779581f8b7f",
+        "custom": true,
+        "korean": "어학",
+        "forms": [
+          "어학"
+        ],
+        "answer": "Linguistics",
+        "quizAnswer": "Linguistics",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "어학"
+      },
+      {
+        "id": "custom:6e0c56e3-5243-4d9c-8b7a-01b12af49972",
+        "custom": true,
+        "korean": "대부분",
+        "forms": [
+          "대부분"
+        ],
+        "answer": "generally",
+        "quizAnswer": "generally",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "대부분"
+      },
+      {
+        "id": "custom:4cee7a55-1ef2-473e-8092-b76bd70476ae",
+        "custom": true,
+        "korean": "최대",
+        "forms": [
+          "최대"
+        ],
+        "answer": "MAX",
+        "quizAnswer": "MAX",
+        "note": "Your chapter vocabulary · meaning is editable.",
+        "categories": [
+          "Book notes",
+          "Book vocabulary",
+          "Book chapter 1",
+          "Book day 2026-10-26"
+        ],
+        "sourcePages": [],
+        "occurrences": [],
+        "count": 1,
+        "important": false,
+        "learned": false,
+        "translationSource": "MyMemory automatic",
+        "studyRef": {
+          "chapter": 1,
+          "part": "vocabulary-1",
+          "date": "2026-10-26",
+          "kind": "vocabulary",
+          "lesson": "custom-2026-10-26-ch1"
+        },
+        "pronunciation": "최대"
+      }
+    ],
+    "updatedAt": 1793025843254,
+    "exam": "2026-10-17",
+    "curriculum": {
+      "version": 1,
+      "startDate": "2026-10-24",
+      "dailyMinutes": 60,
+      "hanjaPace": 1,
+      "dayPlans": {
+        "2026-10-22": {
+          "hanja": [
+            5
+          ],
+          "course": {
+            "chapter": 1,
+            "part": "grammar-1",
+            "block": 1
+          },
+          "exercise": {
+            "chapter": 1,
+            "part": "quiz-1",
+            "block": 1
+          },
+          "paragraph": "",
+          "exercises": "",
+          "carry": []
+        },
+        "2026-10-24": {
+          "hanja": [
+            5
+          ],
+          "course": {
+            "chapter": 1,
+            "part": "quiz-1",
+            "block": 1
+          },
+          "exercise": {
+            "chapter": 1,
+            "part": "quiz-1",
+            "block": 1
+          },
+          "paragraph": "",
+          "exercises": "",
+          "carry": [
+            "review",
+            "yesterday",
+            "hanja",
+            "add-vocabulary"
+          ]
+        },
+        "2026-10-26": {
+          "hanja": [
+            10
+          ],
+          "course": {
+            "chapter": 1,
+            "part": "quiz-1",
+            "block": 1
+          },
+          "exercise": null,
+          "paragraph": "",
+          "exercises": "",
+          "carry": [
+            "add-vocabulary",
+            "course"
+          ]
+        }
+      },
+      "reviewBatches": {
+        "2026-10-24": [
+          "의미",
+          "탁구",
+          "쪽",
+          "중심",
+          "bn:kme-2026-10-22-ch1-grammar1:word-26",
+          "잃어버리다",
+          "팔다",
+          "어둡다",
+          "잘생기다",
+          "선수",
+          "게시판",
+          "미용실",
+          "가게",
+          "정류장",
+          "야경",
+          "길다",
+          "뛰다",
+          "산새",
+          "왼",
+          "생기다"
+        ],
+        "2026-10-26": [
+          "즐기다",
+          "신나다",
+          "전시하다",
+          "성격",
+          "주차장",
+          "연극",
+          "계절",
+          "코",
+          "유럽",
+          "bn:kme-2026-10-22-ch1-grammar1:word-10",
+          "소식",
+          "돌려주다",
+          "채소",
+          "지키다",
+          "주인",
+          "도전",
+          "의미",
+          "헤어지다",
+          "올리다",
+          "배달"
+        ]
+      },
+      "chapters": {
+        "chapter-1": true,
+        "chapter-2": true,
+        "chapter-3": true,
+        "chapter-4": true,
+        "chapter-5": true,
+        "chapter-7": true,
+        "chapter-8": true,
+        "chapter-9": true,
+        "chapter-6": true,
+        "chapter-10": true
+      },
+      "books": {
+        "course-1": true,
+        "course": false,
+        "course-1-part-grammar-1": true,
+        "lesson-seed:kme-2026-10-22-ch1-grammar1": true,
+        "course-1-part-grammar-2": true,
+        "course-1-part-quiz-2": true,
+        "course-1-part-conversation-2": true,
+        "course-1-part-vocabulary-2": true,
+        "course-1-part-grammar-3": true,
+        "course-1-part-quiz-3": true,
+        "course-1-part-conversation-3": true,
+        "course-1-part-vocabulary-3": true,
+        "course-1-part-quiz-1": true,
+        "course-1-part-conversation-1": true,
+        "course-1-part-vocabulary-1": true,
+        "course-1-part-talk": true,
+        "course-1-part-word-web": true,
+        "course-1-part-culture": true
+      },
+      "sessions": {
+        "2026-10-22": {
+          "minutes": 0,
+          "tasks": [
+            "course"
+          ],
+          "note": "",
+          "coveredHanja": [],
+          "coveredCourse": [],
+          "coveredParts": [
+            {
+              "chapter": 1,
+              "part": "grammar-1"
+            }
+          ]
+        },
+        "2026-10-24": {
+          "minutes": 60,
+          "tasks": [
+            "review",
+            "yesterday",
+            "hanja"
+          ],
+          "note": "",
+          "coveredHanja": [
+            5,
+            7,
+            8,
+            9
+          ],
+          "coveredCourse": [],
+          "coveredParts": []
+        },
+        "2026-10-26": {
+          "minutes": 60,
+          "tasks": [
+            "review",
+            "yesterday",
+            "hanja",
+            "course",
+            "add-vocabulary"
+          ],
+          "note": "",
+          "coveredHanja": [
+            10
+          ],
+          "coveredCourse": [],
+          "coveredParts": [
+            {
+              "chapter": 1,
+              "part": "grammar-2"
+            },
+            {
+              "chapter": 1,
+              "part": "quiz-2"
+            },
+            {
+              "chapter": 1,
+              "part": "conversation-2"
+            },
+            {
+              "chapter": 1,
+              "part": "vocabulary-2"
+            },
+            {
+              "chapter": 1,
+              "part": "grammar-3"
+            },
+            {
+              "chapter": 1,
+              "part": "quiz-3"
+            },
+            {
+              "chapter": 1,
+              "part": "conversation-3"
+            },
+            {
+              "chapter": 1,
+              "part": "vocabulary-3"
+            }
+          ]
+        }
+      },
+      "calendar": {},
+      "reviews": {
+        "함께": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "연필": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "걷기": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "습관": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "대회": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "기억": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "부탁": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "이유": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "보신 분": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "탁구": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "잃어버리다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "세계 대회": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "회": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "야구": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "자료": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "창문": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "놀이공원": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "자전거": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "청소": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "부부": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "현금": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "열일곱": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "모두": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "신청": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "계절": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "교환하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "처음": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "참가하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "근처": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "길어서": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "도착하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "영화제": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "정리하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "유치원": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "즐겁다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "무료로": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "기숙사": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "유명하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "시장": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "어린이": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "어른": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "우체국": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "운전하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "해외여행": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "퇴근": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "경치": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "설명하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "목소리": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "그러나": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "그러면": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "그러니까": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "소금": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "화장품": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "배달": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "피부": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "키우다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "콘서트": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "마음에 들다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "놀다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "빌리다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "감기약": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "기쁘다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "가깝다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "멀다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "기름": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "넓다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "좁다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "반찬": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "재료": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "그릇": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "포도": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "밀가루": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "방법": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "안내": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "왜냐하면": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "복잡하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "물어보다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "닦다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "원하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "봄": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "여름": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "가을": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "겨울": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "주부": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "음악": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "멋있다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "주차장": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "설탕": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "꽃병": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "가운데": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "중심": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "중앙": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "빨다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "세탁하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "생각하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "씻다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "토끼": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "미술관": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "백화점": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "걱정하다": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "전통": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "고등학교": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "노인": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "시력": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:九": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:萬": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:1:萬:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:1:萬:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:百": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:1:百:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:1:百:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:四": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:三": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:十": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:五": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:六": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:二": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:一": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:千": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:1:千:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:1:千:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:七": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:1:八": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:2:金": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:金:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:金:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:金:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:2:年": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:年:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:年:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:年:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:2:木": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:木:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:木:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:木:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:2:分": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:分:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:分:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:2:水": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:水:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:水:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:水:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:2:時": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:時:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:時:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:時:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:2:月": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:月:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:月:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:月:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:2:日": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:日:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:日:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:日:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:日:3": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:日:4": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:日:5": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:日:6": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:2:土": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:土:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:土:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:土:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:2:火": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:火:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:火:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:2:火:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:高": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:高:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:高:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:高:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:內": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:內:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:內:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:內:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:多": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:多:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:多:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:多:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:短": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:短:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:短:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:短:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:大": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:大:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:大:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:大:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:大:3": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:小": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:小:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:小:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:少": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:少:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:少:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:外": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:外:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:外:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:外:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:外:3": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:入": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:入:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:入:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:入:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:長": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:長:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:長:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:長:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:長:3": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:低": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:低:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:低:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:低:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:3:出": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:出:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:出:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:3:出:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:4:南": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:南:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:南:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:南:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:4:東": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:東:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:東:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:東:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:東:3": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:4:北": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:北:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:北:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:4:上": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:上:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:上:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:上:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:4:西": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:西:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:西:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:4:右": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:右:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:右:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:4:前": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:前:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:前:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:前:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:4:左": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:左:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:左:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:左:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:左:3": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:4:中": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:中:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:中:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:中:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:中:3": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:4:下": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:下:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:下:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:下:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:4:後": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:後:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:後:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:4:後:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:since": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-1": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-2": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-3": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-4": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-5": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-6": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-7": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-8": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-9": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-10": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-11": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-12": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-13": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-14": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-15": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-16": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-17": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-18": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-19": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-20": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-21": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-22": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-23": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-24": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-25": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-26": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-27": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "bn:kme-2026-10-22-ch1-grammar1:word-28": {
+          "due": "2026-10-23",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:5:間": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:間:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:間:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:間:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:5:江": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:江:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:江:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:5:林": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:林:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:林:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:5:山": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:山:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:山:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:山:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:山:3": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:5:石": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:石:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:石:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:石:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:5:星": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:星:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:星:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:星:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:5:人": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:人:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:人:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:人:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:5:地": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:地:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:地:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:地:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:5:川": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:川:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:川:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:川:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:5:天": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:天:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:天:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:5:海": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:海:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:海:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:5:海:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:7:綠": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:綠:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:綠:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:7:刀": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:刀:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:刀:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:7:物": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:物:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:物:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:物:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:7:白": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:白:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:白:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:白:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:7:色": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:色:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:色:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:色:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:7:衣": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:衣:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:衣:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:衣:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:7:赤": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:赤:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:赤:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:赤:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:7:車": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:車:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:車:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:7:靑": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:靑:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:靑:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:7:黃": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:黃:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:黃:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:黃:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:黃:3": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:7:黑": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:黑:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:7:黑:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:8:冷": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:冷:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:冷:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:冷:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:8:冬": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:冬:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:冬:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:8:雪": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:雪:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:雪:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:雪:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:8:溫": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:溫:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:溫:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:溫:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:8:雨": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:雨:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:雨:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:雨:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:8:雲": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:雲:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:雲:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:8:秋": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:秋:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:秋:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:秋:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:8:春": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:春:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:春:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:春:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:春:3": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:春:4": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:8:風": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:風:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:風:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:風:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:8:夏": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:夏:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:夏:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:8:夏:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:9:果": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:果:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:果:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:果:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:9:動": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:動:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:動:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:動:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:9:馬": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:馬:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:馬:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:9:魚": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:魚:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:魚:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:魚:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:9:鳥": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:鳥:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:鳥:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:9:竹": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:竹:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:竹:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:竹:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:9:草": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:草:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:草:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:草:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:9:貝": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:貝:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:貝:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:9:花": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:花:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:花:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:花:2": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:花:3": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:9:牛": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:牛:0": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:9:牛:1": {
+          "due": "2026-10-24",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:骨": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:骨:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:骨:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:骨:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:口": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:口:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:口:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:口:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:口:3": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:目": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:目:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:目:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:目:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:目:3": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:鼻": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:鼻:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:鼻:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:手": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:手:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:手:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:手:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:身": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:身:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:身:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:心": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:心:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:心:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:肉": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:肉:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:肉:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:耳": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:耳:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:耳:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:耳:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:耳:3": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:耳:4": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:耳:5": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:足": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:足:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:足:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:齒": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:齒:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:齒:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:齒:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:6:血": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:血:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:血:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:6:血:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:家": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:家:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:家:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:家:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:家:3": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:家:4": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:男": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:男:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:男:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:男:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:女": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:女:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:女:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:女:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:母": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:母:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:母:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:母:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:母:3": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:母:4": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:父": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:父:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:父:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:父:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:父:3": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:孫": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:孫:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:孫:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:孫:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:子": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:子:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:子:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:子:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:子:3": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:子:4": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:子:5": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:子:6": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:子:7": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:弟": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:弟:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:弟:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:祖": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:祖:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:祖:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:族": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:族:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:族:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:兄": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:兄:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:兄:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:兄:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:兄:3": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:char:10:好": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:好:0": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:好:1": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "hj:word:10:好:2": {
+          "due": "2026-10-26",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:c7900a1e-4f91-4f5c-92c6-62413efc75eb": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:14efd464-30fb-40e5-acdc-84e480d8095a": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:d691fc91-f685-41c8-9e19-022bc13334bc": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:07d67599-5769-48e6-874a-5480d6fe05bf": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:2b4ce771-43a6-45b0-9a12-5ed3f40ec59a": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:ca5abfa7-0e15-4b32-908c-ae187b556082": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:fb76fd98-595d-4bef-9e5b-a9673a216e17": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:e366f564-a765-4650-96fb-a88ac2d2ea7b": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:908ee57d-551d-4483-8ff8-bccfe56c5fb8": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:0e0d995d-477f-4a54-9052-2d9fff59ae69": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:d0746ddb-689b-4902-8286-e1625cc511e1": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:976665b6-7558-49e2-bf35-a49dfbdf7ae4": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:1bc5791b-a033-4fa2-8743-4e7cbf977120": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:b451ec53-0fe6-4d31-9839-b22ba74d6d89": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:b3b84b43-02d1-4151-8054-a9ab81c70ed8": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:f3b5ee7b-3f42-45b4-a847-a349669cfa57": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:b4f06f63-d1e8-4e38-b8f3-ce90073b50c8": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:37a31197-e37d-4199-8cd6-9fe06991b41c": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:4d4195c2-61cc-4402-8ef5-b94cea6f1a53": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:f7a1dcc3-e049-4948-b256-5e7cbc861afd": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:4c649c59-8e9d-4763-8ee6-e3475149ef3e": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:761d5ee1-ffe0-4ece-b626-caa9c7e9428a": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:f3e2619a-9b8b-461e-b1ba-f5aa8d8f0309": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:41764adb-a16e-4ab5-89f0-423cb9e1fbe8": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:9cb76ff0-f28a-4d41-a90d-a2316a9b3f62": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:16c1e29f-a061-42ad-bfa1-7aa54f07d10c": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:0b138893-94cb-4e54-af29-f2fea4e7dd71": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:0233a912-be47-4c63-91a9-ea1ed6a663af": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:a0ed0fab-7ff6-4917-82f9-544e19b701c1": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:fdee1b11-79c0-4530-b3e1-a97178eaaadc": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:6e8babd9-8ca5-4c9a-8b63-2637bb1fe0d9": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:e7fe4530-d3f3-45fe-87ad-eaca41e4236d": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:11b20e99-8500-416b-a130-0a1fd31dd113": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:67db160b-4746-461b-9f40-1feb5fa5be24": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:c379912c-c4b5-400e-83c2-4308d86768f4": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:535ba3df-26ba-4554-b18c-a9914ec22a35": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:8dbe7f3d-70ad-4be7-bbcc-f1f1f85826d6": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:3d21517a-5bb9-4521-9d07-3c905aa5e4ed": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:3a5f45d5-11c5-4df2-87e3-fa8f0346ea8c": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:c0f87e8e-cb09-413a-83ec-65c5eab9d5c5": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:c0a6b7af-3f8b-4756-a757-cdb6b615d511": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:9ef8fd00-1ca0-4a16-ab1f-a4e93772a233": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:14b8fd5d-d246-497e-8b12-3779581f8b7f": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:6e0c56e3-5243-4d9c-8b7a-01b12af49972": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        },
+        "custom:4cee7a55-1ef2-473e-8092-b76bd70476ae": {
+          "due": "2026-10-27",
+          "interval": 0,
+          "successes": 0,
+          "lapses": 0,
+          "lastDate": "",
+          "lastResult": false
+        }
+      },
+      "mocks": [],
+      "skills": {},
+      "rewards": {}
+    }
+  }
+}
