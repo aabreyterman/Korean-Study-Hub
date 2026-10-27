@@ -61,7 +61,7 @@ The original 417 notebook cards and their IDs are preserved. Hanja remains separ
 
 ## Vocabulary groups and word webs
 
-Vocabulary opens an overview with stats and separate TOPIK I, Korean Made Easy, All words mixed, and Latest added pages. The original notebook deck stays in TOPIK I. Chapter notes and later additions belong to Korean Made Easy; Hanja is excluded from these groups. Topic cards open their own flashcards, quiz, typing practice or word list. Add or rename categories in the vocabulary overview and change a book word’s category in its topic/word list. A category choice overrides the initial chapter/lesson grouping. Latest added follows the Dubai date of creation for new cards and the study date for older cards.
+Vocabulary opens an overview with stats and separate TOPIK I, Korean Made Easy, All words mixed, and Latest added pages. The original notebook deck stays in TOPIK I. Chapter notes and later additions belong to Korean Made Easy; Hanja is excluded from these groups. Topic cards open their own flashcards, quiz, typing practice or word list. Each topic page has an Add words button with its category preselected; saving refreshes the list and keeps the form ready for another word. Add or rename categories in the vocabulary overview and change a book word’s category in its topic/word list. A category choice overrides the initial chapter/lesson grouping. Latest added follows the Dubai date of creation for new cards and the study date for older cards.
 
 The daily entry form can save a word to a selected category or route a rule/grammar explanation to its own reference section, keeping the chapter, lesson and study date. New categories, assignments and reference entries use the existing browser and connected-file backup.
 

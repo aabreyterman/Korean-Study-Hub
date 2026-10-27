@@ -504,3 +504,4 @@ Object.assign(window.KoreanUIStrings,{"Vocabulary sections":"어휘 메뉴","Ove
 Object.assign(window.KoreanUIStrings,{"Add at least two words to this group for a quiz. Flashcards and typing are available now.":"퀴즈를 풀려면 이 그룹에 단어를 두 개 이상 추가하세요. 지금은 단어 카드와 쓰기 연습을 이용할 수 있어요.","Korean Made Easy vocabulary":"Korean Made Easy 어휘"});
 Object.assign(window.KoreanUIStrings,{"Back to vocabulary":"어휘로 돌아가기"});
 Object.assign(window.KoreanUIStrings,{"Add an explanation or examples":"설명이나 예문을 입력하세요"});
+Object.assign(window.KoreanUIStrings,{"Add words":"단어 추가"});
