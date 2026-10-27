@@ -1,10 +1,10 @@
 'use strict';
 window.VocabularyHub=(()=>{
- const defaults=[['general','General'],['background','Nationality, Background & Location'],['occupations','Names & Occupations'],['family','Family'],['computer','Using Computer']];let tab='home',topic='',query='',page=1,selectedDate='',adding=false,entryContext=null;
+ const defaults=[['general','General'],['background','Nationality, Background & Location'],['occupations','Names & Occupations'],['family','Family'],['computer','Using Computer'],['frequency','Frequency adverbs']];let tab='home',topic='',query='',page=1,selectedDate='',adding=false,entryContext=null;
  function normalize(raw){const topics=[],ids=new Set();for(const t of[...defaults.map(([id,name])=>({id,name})),...(Array.isArray(raw?.topics)?raw.topics:[])]){if(!t||typeof t.id!=='string'||typeof t.name!=='string'||!t.name.trim())continue;if(ids.has(t.id)){topics.find(x=>x.id===t.id).name=t.name.trim().slice(0,150);continue}ids.add(t.id);topics.push({id:t.id,name:t.name.trim().slice(0,150)})}return{topics,assignments:Object.fromEntries(Object.entries(raw?.assignments||{}).filter(([id,t])=>typeof id==='string'&&ids.has(t)))}}
  function config(){return state.vocabularyGroups=normalize(state.vocabularyGroups)}
  function infer(w){if(/가족|아버지|어머니|부모|형제|언니|누나|오빠|동생|남편|아내|할머니|할아버지|외동|친척|닮다/.test(w.korean))return'family';if(/교사|수의사|간호사|변호사|회계사|공무원|연구원|은행원|음악가|작곡가|작가|화가|예술가|사업가|경찰관|소방관|전문가|군인|성함|이름/.test(w.korean))return'occupations';if(w.studyRef?.chapter===1&&/^(grammar|vocabulary|quiz|conversation)-1$/.test(w.studyRef.part))return'background';if(w.studyRef?.chapter===1&&/^(grammar|vocabulary|quiz|conversation)-2$/.test(w.studyRef.part))return'occupations';return'general'}
- function topicOf(w){const c=config();return c.assignments[w.id]||infer(w)}
+ function topicOf(w){const c=config();return c.assignments[w.id]||(c.topics.some(t=>t.id===w.topicId)?w.topicId:infer(w))}
  function assign(id,value){const c=config();c.assignments[id]=c.topics.some(t=>t.id===value)?value:'general'}
  function dateOf(w){return w.addedAt&&Number.isFinite(Date.parse(w.addedAt))?new Date(w.addedAt).toLocaleDateString('en-CA',{timeZone:'Asia/Dubai'}):w.studyRef.date}
  function matches(w,stack){if(w.deleted||w.hanjaRef||w.studyRef?.kind==='grammar')return false;const key=stack.slice(6);if(key==='topik')return !w.studyRef;if(key==='book')return !!w.studyRef;if(key==='mixed')return true;if(key.startsWith('topic:'))return !!w.studyRef&&topicOf(w)===key.slice(6);if(key.startsWith('day:'))return !!w.studyRef&&(dateOf(w))===key.slice(4);return false}

@@ -222,6 +222,219 @@
           "note": "Original dictated spelling retained. For suburb / outskirts, learn 교외."
         }
       ]
+    },
+    {
+      "id": "kme-2026-10-27-ch2-grammar1",
+      "date": "2026-10-27",
+      "chapter": 2,
+      "part": "grammar-1",
+      "title": "Chapter 2 · Grammar 1 · Using Computer & Frequency adverbs",
+      "reportedCompletion": false,
+      "source": "Your dictated study additions on 27 October 2026. You said the lesson was started today; no completion was assumed.",
+      "corrections": [
+        "전부 파일을 보내다 → 첨부 파일을 보내다 for send an attachment.",
+        "거의 means almost / nearly; 거의 + negative expresses hardly ever / almost never.",
+        "별로 + negative expresses not much / not often. 전혀 + negative expresses not at all / never."
+      ],
+      "entries": [
+        {
+          "key": "type",
+          "kind": "vocabulary",
+          "korean": "(타자를) 치다",
+          "meaning": "to type",
+          "topic": "computer",
+          "note": "타자를 치다 = to type. 타자 means typing / keystrokes.",
+          "pronunciation": "타자를 치다"
+        },
+        {
+          "key": "save",
+          "kind": "vocabulary",
+          "korean": "저장하다",
+          "meaning": "to save (a document or file)",
+          "topic": "computer",
+          "note": "문서를 저장하다 = save a document. 저장 = saving / storage.",
+          "pronunciation": "저장하다"
+        },
+        {
+          "key": "delete",
+          "kind": "vocabulary",
+          "korean": "삭제하다",
+          "meaning": "to delete",
+          "topic": "computer",
+          "note": "파일을 삭제하다 = delete a file.",
+          "pronunciation": "삭제하다"
+        },
+        {
+          "key": "attachment",
+          "kind": "vocabulary",
+          "korean": "첨부 파일을 보내다",
+          "meaning": "to send an attachment",
+          "topic": "computer",
+          "note": "Corrected from dictated 전부 파일을 보내다. 첨부 파일 = attached file / attachment; 전부 means all.",
+          "pronunciation": "첨부 파일을 보내다"
+        },
+        {
+          "key": "search",
+          "kind": "vocabulary",
+          "korean": "자료를 검색하다",
+          "meaning": "to search for information / materials",
+          "topic": "computer",
+          "note": "자료 = information / materials; 검색하다 = search / look up.",
+          "pronunciation": "자료를 검색하다"
+        },
+        {
+          "key": "chat",
+          "kind": "vocabulary",
+          "korean": "채팅하다",
+          "meaning": "to chat online",
+          "topic": "computer",
+          "note": "채팅 is borrowed from English chatting.",
+          "pronunciation": "채팅하다"
+        },
+        {
+          "key": "comment",
+          "kind": "vocabulary",
+          "korean": "댓글을 달다",
+          "meaning": "to write / leave a comment",
+          "topic": "computer",
+          "note": "댓글 = online comment; 댓글을 달다 = post a comment.",
+          "pronunciation": "댓글을 달다"
+        },
+        {
+          "key": "video",
+          "kind": "vocabulary",
+          "korean": "동영상을 보다",
+          "meaning": "to watch a video clip",
+          "topic": "computer",
+          "note": "동영상 = video; 보다 = watch / see.",
+          "pronunciation": "동영상을 보다"
+        },
+        {
+          "key": "download",
+          "kind": "vocabulary",
+          "korean": "다운로드하다",
+          "meaning": "to download",
+          "topic": "computer",
+          "note": "Borrowed from English download. 파일을 다운로드하다 = download a file.",
+          "pronunciation": "다운로드하다"
+        },
+        {
+          "key": "blog",
+          "kind": "vocabulary",
+          "korean": "블로그를 방문하다",
+          "meaning": "to visit a blog",
+          "topic": "computer",
+          "note": "블로그 = blog; 방문하다 = visit.",
+          "pronunciation": "블로그를 방문하다"
+        },
+        {
+          "key": "upload",
+          "kind": "vocabulary",
+          "korean": "(글/사진을) 올리다",
+          "meaning": "to upload / post text or a picture",
+          "topic": "computer",
+          "note": "글을 올리다 = post some writing; 사진을 올리다 = upload a picture. 올리다 also means to raise / put up.",
+          "pronunciation": "글이나 사진을 올리다"
+        },
+        {
+          "key": "games",
+          "kind": "vocabulary",
+          "korean": "컴퓨터 게임을 하다",
+          "meaning": "to play computer games",
+          "topic": "computer",
+          "note": "컴퓨터 = computer; 게임 = game; 하다 = do / play.",
+          "pronunciation": "컴퓨터 게임을 하다"
+        },
+        {
+          "key": "always",
+          "kind": "vocabulary",
+          "korean": "언제나",
+          "meaning": "always",
+          "topic": "frequency",
+          "note": "언제나 사용해요. = I always use it. 언제나 can also mean at any time.",
+          "pronunciation": "언제나"
+        },
+        {
+          "key": "always-neul",
+          "kind": "vocabulary",
+          "korean": "늘",
+          "meaning": "always",
+          "topic": "frequency",
+          "note": "늘 사용해요. = I always use it. Similar in meaning to 언제나.",
+          "pronunciation": "늘"
+        },
+        {
+          "key": "sometimes",
+          "kind": "vocabulary",
+          "korean": "가끔",
+          "meaning": "sometimes / occasionally",
+          "topic": "frequency",
+          "note": "가끔 사용해요. = I sometimes use it.",
+          "pronunciation": "가끔"
+        },
+        {
+          "key": "from-time-to-time",
+          "kind": "vocabulary",
+          "korean": "때때로",
+          "meaning": "sometimes / from time to time",
+          "topic": "frequency",
+          "note": "때때로 사용해요. = I use it from time to time.",
+          "pronunciation": "때때로"
+        },
+        {
+          "key": "occasionally",
+          "kind": "vocabulary",
+          "korean": "종종",
+          "meaning": "sometimes / occasionally",
+          "topic": "frequency",
+          "note": "종종 사용해요. = I use it from time to time. Similar to 가끔 and 때때로.",
+          "pronunciation": "종종"
+        },
+        {
+          "key": "not-often",
+          "kind": "vocabulary",
+          "korean": "별로",
+          "meaning": "not really / not particularly; with a negative: not often",
+          "topic": "frequency",
+          "note": "별로 안 사용해요. = I do not use it much / often. 별로 is normally used with a negative expression; it does not mean rarely by itself.",
+          "pronunciation": "별로"
+        },
+        {
+          "key": "hardly-ever",
+          "kind": "vocabulary",
+          "korean": "거의",
+          "meaning": "almost / nearly; with a negative: hardly ever / almost never",
+          "topic": "frequency",
+          "note": "거의 안 사용해요. = I hardly ever use it. 거의 다 했어요. = I have almost finished. 거의 alone does not mean never.",
+          "pronunciation": "거의"
+        },
+        {
+          "key": "never",
+          "kind": "vocabulary",
+          "korean": "전혀",
+          "meaning": "not at all; with a negative verb: never",
+          "topic": "frequency",
+          "note": "전혀 사용 안 해요. = I never use it / do not use it at all. Use a negative verb for this meaning.",
+          "pronunciation": "전혀"
+        },
+        {
+          "key": "both-use",
+          "kind": "grammar",
+          "korean": "A와 B 둘 다 사용해요",
+          "meaning": "I use both A and B.",
+          "note": "A와 B = A and B; 둘 다 = both. Example: 이메일과 채팅 둘 다 사용해요. = I use both email and chat.",
+          "pronunciation": "에이와 비 둘 다 사용해요"
+        },
+        {
+          "key": "neither-use",
+          "kind": "grammar",
+          "korean": "A와 B 둘 다 사용 안 해요",
+          "meaning": "I use neither A nor B. / I do not use A or B.",
+          "note": "둘 다 + a negative predicate expresses neither in this sentence. Longer negative form: A와 B 둘 다 사용하지 않아요. This is different from saying that you use only one of them.",
+          "pronunciation": "에이와 비 둘 다 사용 안 해요"
+        }
+      ],
+      "importVocabularyAsCustom": true
     }
   ],
   "sources": [
