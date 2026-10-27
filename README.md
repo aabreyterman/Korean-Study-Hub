@@ -6,7 +6,7 @@ A personal Korean study room with flashcards, multiple-choice quizzes, Korean ty
 
 The EN / 한국어 control switches the interface without rebuilding the active view, changing card meanings, or clearing draft inputs. The choice is saved locally under `anastasiia-study-language`. Interface translations are bundled locally; no text is sent to a translation API for this switch. Study answers, original notebook content and learner notes stay in their original language.
 
-Two compact Korean lines show a friendly daily fortune and a common proverb. They rotate deterministically by the Dubai calendar date and stay the same when the page is reopened that day. The browser icon is a local SVG Korean flag.
+Two compact Korean lines show a friendly daily fortune and a common proverb. They rotate deterministically by the Dubai calendar date and stay the same when the page is reopened that day. Click the Korean quote to reveal or hide its matching English translation. The translation is bundled with each proverb and remains English in Korean interface mode. The browser icon is a local SVG Korean flag.
 
 ## Navigation
 

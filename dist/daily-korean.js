@@ -15,8 +15,23 @@ window.DailyKorean=(()=>{
  '한 번 더 읽어 본 문장이 오래 기억에 남을 거예요.'
  ];
  // Common Korean proverbs; no invented author attributions.
- const quotes=['천 리 길도 한 걸음부터.','시작이 반이다.','티끌 모아 태산.','배움에는 끝이 없다.','공든 탑이 무너지랴.','구슬이 서 말이라도 꿰어야 보배.','가는 말이 고와야 오는 말이 곱다.','백지장도 맞들면 낫다.','호랑이 굴에 가야 호랑이 새끼를 잡는다.','돌다리도 두들겨 보고 건너라.','고생 끝에 낙이 온다.','하늘은 스스로 돕는 자를 돕는다.'];
- function forDay(day){const n=Math.floor(Date.parse(day+'T00:00:00Z')/86400000);return{fortune:fortunes[((n%fortunes.length)+fortunes.length)%fortunes.length],quote:quotes[(((n*7+3)%quotes.length)+quotes.length)%quotes.length]}}
- function render(day){const box=document.querySelector('#dailyKorean');if(!box)return;const lines=forDay(day);box.innerHTML=`<p lang="ko"><span>오늘의 운세</span> ${lines.fortune}</p><p lang="ko"><span>오늘의 한마디</span> “${lines.quote}”</p>`}
+ const quotes=[
+ {korean:'천 리 길도 한 걸음부터.',english:'A long journey begins with a single step.'},
+ {korean:'시작이 반이다.',english:'Getting started is half the task.'},
+ {korean:'티끌 모아 태산.',english:'Tiny grains of dust can form a mountain - small efforts add up.'},
+ {korean:'배움에는 끝이 없다.',english:'There is no end to learning.'},
+ {korean:'공든 탑이 무너지랴.',english:'Careful, steady effort will not go to waste.'},
+ {korean:'구슬이 서 말이라도 꿰어야 보배.',english:'Even precious beads are only a treasure when strung together - knowledge becomes useful when you apply it.'},
+ {korean:'가는 말이 고와야 오는 말이 곱다.',english:'Kind words invite kind words in return.'},
+ {korean:'백지장도 맞들면 낫다.',english:'Even a sheet of paper is easier to lift together - teamwork makes things easier.'},
+ {korean:'호랑이 굴에 가야 호랑이 새끼를 잡는다.',english:"You have to enter the tiger's den to catch a tiger cub - reaching a goal takes courage."},
+ {korean:'돌다리도 두들겨 보고 건너라.',english:'Tap even a stone bridge before crossing - check carefully, even when something seems safe.'},
+ {korean:'고생 끝에 낙이 온다.',english:'After hardship comes happiness.'},
+ {korean:'하늘은 스스로 돕는 자를 돕는다.',english:'Heaven helps those who help themselves.'}
+ ];
+ let expandedDay='';
+ function forDay(day){const n=Math.floor(Date.parse(day+'T00:00:00Z')/86400000),quote=quotes[(((n*7+3)%quotes.length)+quotes.length)%quotes.length];return{fortune:fortunes[((n%fortunes.length)+fortunes.length)%fortunes.length],quote:quote.korean,quoteTranslation:quote.english}}
+ function render(day){const box=document.querySelector('#dailyKorean');if(!box)return;const lines=forDay(day);box.innerHTML=`<p lang="ko"><span>오늘의 운세</span> ${lines.fortune}</p><details class="daily-quote" ${expandedDay===day?'open':''}><summary lang="ko" title="Click to show or hide the English translation · 클릭하면 영어 뜻을 볼 수 있어요"><span>오늘의 한마디</span> <span class="quote-text">“${lines.quote}”</span></summary><p class="quote-translation" lang="en" translate="no">${lines.quoteTranslation}</p></details>`;const detail=box.querySelector('.daily-quote');detail.ontoggle=()=>{expandedDay=detail.open?day:''}}
+
  return{forDay,render};
 })();
