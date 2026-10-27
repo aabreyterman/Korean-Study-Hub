@@ -62,3 +62,4 @@ main{max-width:1440px;padding:0 32px}
 @media(max-width:600px){.reference-grid{grid-template-columns:1fr}.reference-toolbar{align-items:stretch;flex-direction:column;gap:14px}.reference-search{max-width:none}.reference-card summary{min-height:180px}.reference-card summary>span:first-child{font-size:30px}}
 
 .reference-card{aspect-ratio:1 / 1}
+.reference-card:has(details[open]){aspect-ratio:auto}
