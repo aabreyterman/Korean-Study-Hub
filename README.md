@@ -6,11 +6,11 @@ A personal Korean study room with flashcards, multiple-choice quizzes, Korean ty
 
 The EN / 한국어 control switches the interface without rebuilding the active view, changing card meanings, or clearing draft inputs. The choice is saved locally under `anastasiia-study-language`. Interface translations are bundled locally; no text is sent to a translation API for this switch. Study answers, original notebook content and learner notes stay in their original language.
 
-Two compact Korean lines show a friendly daily fortune and a common proverb. They rotate deterministically by the Dubai calendar date and stay the same when the page is reopened that day. Click the Korean quote to reveal or hide its matching English translation. The translation is bundled with each proverb and remains English in Korean interface mode. The browser icon is a local SVG Korean flag.
+Two compact Korean lines show a friendly daily fortune and a common proverb. They rotate deterministically by the Dubai calendar date and stay the same when the page is reopened that day. Click the Korean fortune or quote to reveal or hide its matching English translation. The translation is bundled with each proverb and remains English in Korean interface mode. The browser icon is a local SVG Korean flag.
 
 ## Navigation
 
-The left sidebar is the main navigation: Today, My progress, Hanja, Book notes, Vocabulary, and Calendar. Chapter tracking, the study roadmap, and TOPIK goals are grouped under My progress. Word-practice modes appear only inside a study set. On small screens, the sidebar opens from the menu button.
+The left sidebar is the main navigation: Today, My progress, Hanja, Book notes, Rules, Grammar structures, Vocabulary, and Calendar. Chapter tracking, the study roadmap, and TOPIK goals are grouped under My progress. Word-practice modes appear only inside a study set. On small screens, the sidebar opens from the menu button.
 
 Today puts the five-item checklist first, opens the next unfinished task, and keeps other controls collapsed. Book charts and the compact calendar sit alongside it on desktop and below it on mobile. Backups live in the sidebar rather than above the study plan.
 
@@ -58,3 +58,11 @@ node --test tests/*.test.cjs
 ```
 
 The original 417 notebook cards and their IDs are preserved. Hanja remains separate from the general vocabulary pool. Book notes are grouped by textbook chapter and study date. `scripts/` contains factual source tables used to validate the Hanja import; no source PDFs are included.
+
+## Vocabulary groups and word webs
+
+Vocabulary opens an overview with stats and separate TOPIK I, Korean Made Easy, All words mixed, and Latest added pages. The original notebook deck stays in TOPIK I. Chapter notes and later additions belong to Korean Made Easy; Hanja is excluded from these groups. Topic cards open their own flashcards, quiz, typing practice or word list. Add or rename categories in the vocabulary overview and change a book word’s category in its topic/word list. A category choice overrides the initial chapter/lesson grouping. Latest added follows the Dubai date of creation for new cards and the study date for older cards.
+
+The daily entry form can save a word to a selected category or route a rule/grammar explanation to its own reference section, keeping the chapter, lesson and study date. New categories, assignments and reference entries use the existing browser and connected-file backup.
+
+Hanja → Word web offers an authored selector for image-based webs. The first web reproduces all 24 pictured words around 한 and 국. Select a root, guess or reveal a branch word, then explore its connected words. Recall results save independently of vocabulary counters and chapter completion. Add future image transcriptions to the `webs` dataset in `dist/word-web.js`; these words never enter the general vocabulary pool automatically.

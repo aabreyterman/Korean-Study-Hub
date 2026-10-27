@@ -36,7 +36,7 @@ window.StudyLanguage=(()=>{
  [/^Grammar (\d+) lesson$/,(_,n)=>`문법 ${n} 학습`],[/^(Grammar|Quiz Yourself|Quiz|Conversation|Vocabulary) (\d+)$/,(_,part,n)=>`${({Grammar:'문법','Quiz Yourself':'확인 퀴즈',Quiz:'퀴즈',Conversation:'대화',Vocabulary:'어휘'})[part]} ${n}`],
  [/^Whole chapter · all parts$/,'전체 단원 · 모든 부분'],[/^Other chapter words$/,'그 밖의 단원 어휘'],
  [/^Study vocabulary \((\d+)\)$/,(_,n)=>`어휘 학습 (${n})`],[/^Study grammar \((\d+)\)$/,(_,n)=>`문법 학습 (${n})`],[/^Test chapter words \((\d+)\)$/,(_,n)=>`단원 어휘 퀴즈 (${n})`],
- [/^Deleted entries \((\d+)\)$/,(_,n)=>`삭제한 항목 (${n})`],[/^Deleted words \((\d+)\)$/,(_,n)=>`삭제한 단어 (${n})`],[/^Learn all (\d+) words →$/,(_,n)=>`단어 ${n}개 학습 →`],[/^Learn (\d+) words →$/,(_,n)=>`단어 ${n}개 학습 →`],
+ [/^(\d+) \/ (\d+) recalled$/,(_,a,b)=>`${b}개 중 ${a}개 기억함`],[/^Deleted entries \((\d+)\)$/,(_,n)=>`삭제한 항목 (${n})`],[/^Deleted words \((\d+)\)$/,(_,n)=>`삭제한 단어 (${n})`],[/^Learn all (\d+) words →$/,(_,n)=>`단어 ${n}개 학습 →`],[/^Learn (\d+) words →$/,(_,n)=>`단어 ${n}개 학습 →`],
  [/^Next: (.+)$/,(_,next)=>'다음: '+translate(next,'ko')],[/^Covered today: (.+)$/,(_,parts)=>'오늘 학습: '+translate(parts,'ko')],
  [/^Saved to Chapter (\d+) · (.+)$/,(_,n,date)=>`${n}단원에 저장됨 · ${date}`],
  [/^(\d+) \/ (\d+) recalled ♡$/,(_,a,b)=>`${b}개 중 ${a}개 기억했어요 ♡`],[/^(\d+)\/(\d+) recalled ♡$/,(_,a,b)=>`${b}개 중 ${a}개 기억했어요 ♡`],
