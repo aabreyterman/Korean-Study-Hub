@@ -496,3 +496,6 @@ window.KoreanUIStrings={
  "Korea": "한국",
  "TOPIK I sat": "TOPIK I 응시 완료"
 };
+
+Object.assign(window.KoreanUIStrings,{"Rules":"규칙","Grammar structures":"문법 표현","Add rule":"규칙 추가","Add grammar structure":"문법 표현 추가","Edit entry":"항목 수정","Title":"제목","Meaning, explanation & examples":"뜻, 설명 및 예문","Save entry":"저장","Search entries":"항목 검색","Show meaning":"뜻 보기","No matching entries.":"일치하는 항목이 없습니다.","Entry pages":"항목 페이지","Entry saved.":"저장했습니다.","Rule title":"규칙 제목","e.g. (으)면서":"예: (으)면서"});
+Object.assign(window.KoreanUIStrings,{"Edit":"수정","Delete":"삭제","Previous":"이전","Next":"다음"});
