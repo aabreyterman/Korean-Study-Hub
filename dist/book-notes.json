@@ -244,7 +244,11 @@
           "meaning": "to type",
           "topic": "computer",
           "note": "타자를 치다 = to type. 타자 means typing / keystrokes.",
-          "pronunciation": "타자를 치다"
+          "pronunciation": "타자를 치다",
+          "forms": [
+            "타자를 치다",
+            "치다"
+          ]
         },
         {
           "key": "save",
@@ -334,7 +338,13 @@
           "meaning": "to upload / post text or a picture",
           "topic": "computer",
           "note": "글을 올리다 = post some writing; 사진을 올리다 = upload a picture. 올리다 also means to raise / put up.",
-          "pronunciation": "글이나 사진을 올리다"
+          "pronunciation": "글이나 사진을 올리다",
+          "forms": [
+            "글을 올리다",
+            "사진을 올리다",
+            "글이나 사진을 올리다",
+            "올리다"
+          ]
         },
         {
           "key": "games",
@@ -343,7 +353,10 @@
           "meaning": "to play computer games",
           "topic": "computer",
           "note": "컴퓨터 = computer; 게임 = game; 하다 = do / play.",
-          "pronunciation": "컴퓨터 게임을 하다"
+          "pronunciation": "컴퓨터 게임을 하다",
+          "forms": [
+            "컴퓨터 게임하다"
+          ]
         },
         {
           "key": "always",
