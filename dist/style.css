@@ -68,3 +68,6 @@ main{max-width:1440px;padding:0 32px}
 .vocabulary-form #newMeaning{width:100%;box-sizing:border-box;font:inherit;padding:12px;border:1px solid #18191666;border-radius:10px;background:#fffdf4;resize:vertical}
 
 .topic-heading{display:flex;align-items:center;justify-content:space-between;gap:20px;margin:18px 0}.topic-heading h2{margin:0}.topic-word-form{margin:20px 0}.topic-word-form h3{margin-top:0}@media(max-width:600px){.topic-heading{align-items:start;flex-direction:column;gap:14px}}
+
+.mini-day.is-rest{position:relative;background:#c0d2ed;border:1px solid #466183;color:#13263c}.mini-day.is-rest small{font-size:9px;position:absolute;right:1px;top:0}.calendar-date.rest-day{background:#c0d2ed;color:#13263c;border-color:#466183}.rest-day-panel{padding:18px;border:1px solid #466183;border-radius:14px;background:#e0eafa;margin:18px 0}.rest-day-panel p{font-size:13px;line-height:1.5}.weekly-freeze-status{font-size:12px!important;color:#244769}.flashcard .answer,.flashcard .korean{animation:study-card-in .1s ease-out}@keyframes study-card-in{from{opacity:.6;transform:translateY(2px)}to{opacity:1;transform:none}}@media(prefers-reduced-motion:reduce){.flashcard .answer,.flashcard .korean{animation:none}}
+.mini-calendar-footer{flex-wrap:wrap}

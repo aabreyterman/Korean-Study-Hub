@@ -1,5 +1,5 @@
 'use strict';
-// Browser autosave remains synchronous; IndexedDB also remembers the optional disk file.
+// The UI save queue invokes changed after the next paint; IndexedDB also remembers the optional disk file.
 window.createProgressStorage=({getSnapshot,restoreSnapshot,onStatus,onExistingFile})=>{
  let db=null,handle=null,ready=false,dirty=false,writing=false,paused=false;
  const status=(message,kind='browser')=>onStatus(message,kind);

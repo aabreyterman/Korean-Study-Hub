@@ -16,8 +16,8 @@ Today puts the five-item checklist first, opens the next unfinished task, and ke
 
 ## Daily study
 
-1. Revise 20 random vocabulary cards. The selection changes each Dubai calendar day and remains stable when reopening that day. Words can repeat on future days.
-2. Learn **all** vocabulary added yesterday, in a separate unlimited set.
+1. Revise 20 random vocabulary cards. A fresh Fisher–Yates draw samples unique Korean spellings without a date-derived seed or difficulty priority. The selection is saved for each Dubai calendar day; reopening does not reroll it, and words may repeat on later days.
+2. Review all vocabulary from the most recent earlier addition date, even after skipped days, in a separate unlimited set.
 3. Log the Hanja chapters covered.
 4. Log a textbook lesson: Grammar → Quiz → Conversation → Vocabulary, in printed order. Individual sections and whole chapters remain available.
 5. Type Korean, select its textbook chapter/date, and press Enter to translate and save a personal card.
@@ -66,3 +66,11 @@ Vocabulary opens an overview with stats and separate TOPIK I, Korean Made Easy, 
 The daily entry form can save a word to a selected category or route a rule/grammar explanation to its own reference section, keeping the chapter, lesson and study date. New categories, assignments and reference entries use the existing browser and connected-file backup.
 
 Hanja → Word web offers an authored selector for image-based webs. The first web reproduces all 24 pictured words around 한 and 국. Select a root, guess or reveal a branch word, then explore its connected words. Recall results save independently of vocabulary counters and chapter completion. Add future image transcriptions to the `webs` dataset in `dist/word-web.js`; these words never enter the general vocabulary pool automatically.
+
+## Weekly rest and responsive reviews
+
+One streak freeze is available each Monday–Sunday week. The requested 28 October 2026 rest day is seeded once. Calendar days can use, remove or move that week’s freeze; the compact calendar shows a snowflake. A freeze bridges the streak without adding study minutes or increasing the actual study-day total. These settings survive backups, and removing the seeded day does not re-add it on refresh.
+
+Seen counts include card reveals as well as judgments. A migration recovers minimum views from saved daily logs and judgment totals; identical Korean spellings can share displayed history across source groups while their learned marks remain separate. Known/again/forgotten counters retain their actual values.
+
+Flashcard clicks update the card without rebuilding navigation or recomputing the full review pool. Save requests coalesce until after the next paint; browser progress flushes synchronously on page hide or when the document becomes hidden, with the existing IndexedDB and connected-file backup continuing afterward.

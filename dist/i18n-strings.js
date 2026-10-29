@@ -505,3 +505,5 @@ Object.assign(window.KoreanUIStrings,{"Add at least two words to this group for 
 Object.assign(window.KoreanUIStrings,{"Back to vocabulary":"어휘로 돌아가기"});
 Object.assign(window.KoreanUIStrings,{"Add an explanation or examples":"설명이나 예문을 입력하세요"});
 Object.assign(window.KoreanUIStrings,{"Add words":"단어 추가"});
+
+Object.assign(window.KoreanUIStrings,{"Previous days’ words":"지난 공부 단어","Review previous days’ words":"지난 공부 단어 복습","No earlier vocabulary yet. You can move on.":"이전에 추가한 단어가 아직 없습니다. 다음으로 넘어가세요.","❄ Rest day":"❄ 휴식일","❄ Weekly rest used":"❄ 이번 주 휴식 사용 완료","❄ 1 weekly rest available":"❄ 이번 주 휴식 1회 가능","❄ Rest day · streak protected":"❄ 휴식일 · 연속 학습 유지","1 rest day available this week":"이번 주 휴식 1회 가능","One streak freeze per week · Monday–Sunday. Rest does not add study minutes.":"월요일부터 일요일까지 매주 연속 학습 보호 1회. 휴식은 공부 시간에 포함되지 않습니다.","Remove rest day":"휴식일 취소","Move weekly rest day here":"이번 주 휴식일을 이날로 변경","Use weekly rest day":"이번 주 휴식 사용","Rest day removed.":"휴식일을 취소했어요.","Rest day saved. Your streak is protected.":"휴식일을 저장했어요. 연속 학습이 유지됩니다."});

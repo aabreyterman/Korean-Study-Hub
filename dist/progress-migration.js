@@ -11,7 +11,7 @@ window.migrateStudyProgress=(state,words)=>{
   const marks=candidates.filter(c=>c.hasMark).sort((a,b)=>b.time-a.time||(a.mark===false?-1:b.mark===false?1:0));
   if(marks.length)state.learned[w.id]=marks[0].mark;
   const ps=candidates.filter(c=>c.p);if(ps.length){const latest=[...ps].sort((a,b)=>b.time-a.time)[0];const history=ps.flatMap(c=>c.p.history||[]).sort((a,b)=>(Date.parse(a.at)||0)-(Date.parse(b.at)||0));
-   state.practice[w.id]={known:ps.reduce((n,c)=>n+(c.p.known||0),0),again:ps.reduce((n,c)=>n+(c.p.again||0),0),forgotten:ps.reduce((n,c)=>n+(c.p.forgotten||0),0),lastAction:latest.p.lastAction,lastAt:latest.p.lastAt,history:history.slice(-100)};
+   state.practice[w.id]={seen:ps.reduce((n,c)=>n+Math.max(c.p.seen||0,(c.p.known||0)+(c.p.again||0)),0),lastSeenAt:ps.map(c=>c.p.lastSeenAt||'').sort().at(-1)||'',known:ps.reduce((n,c)=>n+(c.p.known||0),0),again:ps.reduce((n,c)=>n+(c.p.again||0),0),forgotten:ps.reduce((n,c)=>n+(c.p.forgotten||0),0),lastAction:latest.p.lastAction,lastAt:latest.p.lastAt,history:history.slice(-100)};
   }
   for(const id of aliases){delete state.learned[id];delete state.practice[id]}
  }
