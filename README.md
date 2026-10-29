@@ -71,6 +71,6 @@ Hanja → Word web offers an authored selector for image-based webs. The first w
 
 One streak freeze is available each Monday–Sunday week. The requested 28 October 2026 rest day is seeded once. Calendar days can use, remove or move that week’s freeze; the compact calendar shows a snowflake. A freeze bridges the streak without adding study minutes or increasing the actual study-day total. These settings survive backups, and removing the seeded day does not re-add it on refresh.
 
-Seen counts include card reveals as well as judgments. A migration recovers minimum views from saved daily logs and judgment totals; identical Korean spellings can share displayed history across source groups while their learned marks remain separate. Known/again/forgotten counters retain their actual values.
+Seen counts include each card presentation in a study pass, including cards skipped without revealing the back. Flipping or judging the same card does not double-count that presentation. A migration recovers minimum views from saved daily logs and judgment totals; identical Korean spellings can share displayed history across source groups while their learned marks remain separate. Known/again/forgotten counters retain their actual values.
 
 Flashcard clicks update the card without rebuilding navigation or recomputing the full review pool. Save requests coalesce until after the next paint; browser progress flushes synchronously on page hide or when the document becomes hidden, with the existing IndexedDB and connected-file backup continuing afterward.
