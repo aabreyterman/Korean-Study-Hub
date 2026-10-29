@@ -172,5 +172,30 @@
     "Every registration window in upcoming is for Korea. The Ministry explicitly states overseas registration is set by local administration agencies.",
     "Korea & overseas in the annual plan does not guarantee the UAE offers that sitting.",
     "The Ministry English table has an inconsistent 115th PBT result date; that session is omitted here rather than guessed."
+  ],
+  "referenceApplications": [
+    {
+      "id": "kaist-btm",
+      "title": "KAIST · Business and Technology Management",
+      "months": [
+        "2026-12"
+      ],
+      "window": "December 2026 · expected",
+      "note": "Fall 2027 entry. Exact dates and participating programs are not yet announced.",
+      "status": "Expected · unconfirmed",
+      "sourceUrl": "https://admission.kaist.ac.kr/intl-graduate/Admission/YearlyTimelines"
+    },
+    {
+      "id": "kaist-me",
+      "title": "KAIST · Management Engineering",
+      "months": [
+        "2027-08",
+        "2027-09"
+      ],
+      "window": "August–September 2027 · expected",
+      "note": "Spring 2028 entry · spring admission only. Spring 2027 applications closed 1 September 2026. Exact next dates are not yet confirmed.",
+      "status": "Expected · unconfirmed",
+      "sourceUrl": "https://www.business.kaist.ac.kr/html/en/sub03/sub03_0301.html"
+    }
   ]
 }

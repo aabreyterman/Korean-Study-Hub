@@ -1,5 +1,6 @@
 'use strict';
 window.KoreanUIStrings={
+ "Dates to remember":"기억할 날짜", "This month’s dates":"이번 달의 주요 일정", "Official notice ↗":"공식 공지 ↗", "Expected · unconfirmed":"예상 · 미확정", "Awaiting local announcement":"현지 공지 대기 중", "TOPIK II · UAE registration":"TOPIK II · UAE 접수", "Next TOPIK II registration · Korea":"다음 TOPIK II 접수 · 한국", "No application or TOPIK dates listed this month.":"이번 달에 등록된 지원 또는 TOPIK 일정이 없습니다.", "✓ Complete":"✓ 완료",
  "Today": "오늘",
  "Today’s study": "오늘의 공부",
  "Your study plan": "오늘의 학습 계획",
