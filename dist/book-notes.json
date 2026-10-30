@@ -448,6 +448,389 @@
         }
       ],
       "importVocabularyAsCustom": true
+    },
+    {
+      "id": "kme-2026-10-30-ch2-grammar3-weekend",
+      "date": "2026-10-30",
+      "chapter": 2,
+      "part": "vocabulary-3",
+      "title": "Chapter 2 · Grammar 3 · 주말 word web and additional vocabulary",
+      "reportedCompletion": false,
+      "importVocabularyAsCustom": true,
+      "deduplicateSameDay": true,
+      "source": "Two textbook screenshots supplied on 30 October 2026.",
+      "corrections": [
+        "월간지: monthly magazine, not monthly subscription.",
+        "기념일: anniversary / commemorative day, not specifically Korean Memorial Day.",
+        "이상 includes the stated amount: at least / or more."
+      ],
+      "entries": [
+        {
+          "key": "weekend",
+          "kind": "vocabulary",
+          "korean": "주말",
+          "meaning": "weekend",
+          "topicName": "Time Expressions",
+          "note": "週 (주, week) + 末 (말, end)."
+        },
+        {
+          "key": "every-week",
+          "kind": "vocabulary",
+          "korean": "매주",
+          "meaning": "every week",
+          "topic": "frequency",
+          "note": "From the 주말 word web · 週 (주, week)."
+        },
+        {
+          "key": "every-month",
+          "kind": "vocabulary",
+          "korean": "매월",
+          "meaning": "every month",
+          "topic": "frequency",
+          "note": "From the 주말 word web · 週 (주, week)."
+        },
+        {
+          "key": "every-day",
+          "kind": "vocabulary",
+          "korean": "매일",
+          "meaning": "every day",
+          "topic": "frequency",
+          "note": "From the 주말 word web · 週 (주, week)."
+        },
+        {
+          "key": "every-year",
+          "kind": "vocabulary",
+          "korean": "매년",
+          "meaning": "every year",
+          "topic": "frequency",
+          "note": "From the 주말 word web · 週 (주, week)."
+        },
+        {
+          "key": "one-week",
+          "kind": "vocabulary",
+          "korean": "일주일",
+          "meaning": "one week",
+          "topic": "general",
+          "note": "From the 주말 word web · 週 (주, week).",
+          "topicName": "Time Expressions"
+        },
+        {
+          "key": "birthday",
+          "kind": "vocabulary",
+          "korean": "생일",
+          "meaning": "birthday",
+          "topic": "general",
+          "note": "From the 주말 word web · 週 (주, week).",
+          "topicName": "Time Expressions"
+        },
+        {
+          "key": "day-off",
+          "kind": "vocabulary",
+          "korean": "휴일",
+          "meaning": "day off / holiday",
+          "topic": "general",
+          "note": "From the 주말 word web · 週 (주, week).",
+          "topicName": "Time Expressions"
+        },
+        {
+          "key": "anniversary",
+          "kind": "vocabulary",
+          "korean": "기념일",
+          "meaning": "anniversary / commemorative day",
+          "topic": "general",
+          "note": "An anniversary or commemorative day in general. Korean Memorial Day is 현충일.",
+          "topicName": "Time Expressions"
+        },
+        {
+          "key": "weekly-pay",
+          "kind": "vocabulary",
+          "korean": "주급",
+          "meaning": "weekly pay / weekly salary",
+          "topic": "general",
+          "note": "From the 주말 word web · 週 (주, week)."
+        },
+        {
+          "key": "monthly-pay",
+          "kind": "vocabulary",
+          "korean": "월급",
+          "meaning": "monthly pay / monthly salary",
+          "topic": "general",
+          "note": "From the 주말 word web · 週 (주, week)."
+        },
+        {
+          "key": "hourly-pay",
+          "kind": "vocabulary",
+          "korean": "시급",
+          "meaning": "hourly wage",
+          "topic": "general",
+          "note": "From the 주말 word web · 週 (주, week)."
+        },
+        {
+          "key": "meals",
+          "kind": "vocabulary",
+          "korean": "급식",
+          "meaning": "provision of meals / school meals",
+          "topic": "general",
+          "note": "From the 주말 word web · 週 (주, week)."
+        },
+        {
+          "key": "month-end",
+          "kind": "vocabulary",
+          "korean": "월말",
+          "meaning": "end of the month",
+          "topic": "general",
+          "note": "From the 주말 word web · 末 (말, end).",
+          "topicName": "Time Expressions"
+        },
+        {
+          "key": "rent",
+          "kind": "vocabulary",
+          "korean": "월세",
+          "meaning": "monthly rent",
+          "topic": "general",
+          "note": "From the 주말 word web · 末 (말, end)."
+        },
+        {
+          "key": "month-start",
+          "kind": "vocabulary",
+          "korean": "월초",
+          "meaning": "beginning of the month",
+          "topic": "general",
+          "note": "From the 주말 word web · 末 (말, end).",
+          "topicName": "Time Expressions"
+        },
+        {
+          "key": "magazine",
+          "kind": "vocabulary",
+          "korean": "월간지",
+          "meaning": "monthly magazine",
+          "topic": "general",
+          "note": "月刊誌 · a magazine published monthly; not “monthly subscription.”"
+        },
+        {
+          "key": "year-end",
+          "kind": "vocabulary",
+          "korean": "연말",
+          "meaning": "end of the year",
+          "topic": "general",
+          "note": "From the 주말 word web · 末 (말, end).",
+          "topicName": "Time Expressions"
+        },
+        {
+          "key": "last-year",
+          "kind": "vocabulary",
+          "korean": "작년",
+          "meaning": "last year",
+          "topic": "general",
+          "note": "From the 주말 word web · 末 (말, end).",
+          "topicName": "Time Expressions"
+        },
+        {
+          "key": "next-year",
+          "kind": "vocabulary",
+          "korean": "내년",
+          "meaning": "next year",
+          "topic": "general",
+          "note": "From the 주말 word web · 末 (말, end).",
+          "topicName": "Time Expressions"
+        },
+        {
+          "key": "pension",
+          "kind": "vocabulary",
+          "korean": "연금",
+          "meaning": "pension",
+          "topic": "general",
+          "note": "From the 주말 word web · 末 (말, end)."
+        },
+        {
+          "key": "ending",
+          "kind": "vocabulary",
+          "korean": "결말",
+          "meaning": "ending",
+          "topic": "general",
+          "note": "From the 주말 word web · 末 (말, end)."
+        },
+        {
+          "key": "conclusion",
+          "kind": "vocabulary",
+          "korean": "결론",
+          "meaning": "conclusion",
+          "topic": "general",
+          "note": "From the 주말 word web · 末 (말, end)."
+        },
+        {
+          "key": "eventually",
+          "kind": "vocabulary",
+          "korean": "결국",
+          "meaning": "eventually / in the end",
+          "topic": "general",
+          "note": "From the 주말 word web · 末 (말, end)."
+        },
+        {
+          "key": "result",
+          "kind": "vocabulary",
+          "korean": "결과",
+          "meaning": "result",
+          "topic": "general",
+          "note": "From the 주말 word web · 末 (말, end)."
+        },
+        {
+          "key": "strip-more",
+          "kind": "vocabulary",
+          "korean": "이상",
+          "meaning": "more than / at least",
+          "topic": "general",
+          "note": "After an amount: 세 시간 이상 = three hours or more (includes the stated number). 넘게 is strictly over."
+        },
+        {
+          "key": "strip-video",
+          "kind": "vocabulary",
+          "korean": "동영상",
+          "meaning": "video / video clip",
+          "topic": "computer",
+          "note": ""
+        },
+        {
+          "key": "strip-chat",
+          "kind": "vocabulary",
+          "korean": "채팅하다",
+          "meaning": "to chat online",
+          "topic": "computer",
+          "note": ""
+        },
+        {
+          "key": "strip-reply",
+          "kind": "vocabulary",
+          "korean": "답장하다",
+          "meaning": "to reply / send a reply",
+          "topic": "computer",
+          "note": ""
+        },
+        {
+          "key": "strip-search",
+          "kind": "vocabulary",
+          "korean": "검색하다",
+          "meaning": "to search / look up (information, especially online)",
+          "topic": "computer",
+          "note": ""
+        },
+        {
+          "key": "strip-text",
+          "kind": "vocabulary",
+          "korean": "문자",
+          "meaning": "text message; character / letter",
+          "topic": "computer",
+          "note": "Here: a text message. 문자 메시지 is the full expression."
+        },
+        {
+          "key": "strip-call",
+          "kind": "vocabulary",
+          "korean": "통화",
+          "meaning": "telephone conversation / phone call",
+          "topic": "general",
+          "note": "통화하다 = to talk on the phone."
+        },
+        {
+          "key": "strip-counter",
+          "kind": "vocabulary",
+          "korean": "통",
+          "meaning": "counter for phone calls, letters and messages",
+          "topic": "general",
+          "note": "전화 한 통 = one phone call; 편지 한 통 = one letter."
+        },
+        {
+          "key": "strip-besides",
+          "kind": "vocabulary",
+          "korean": "이외에",
+          "meaning": "besides / in addition to / other than",
+          "topic": "general",
+          "note": ""
+        },
+        {
+          "key": "strip-fee",
+          "kind": "vocabulary",
+          "korean": "사용료",
+          "meaning": "usage fee / charge",
+          "topic": "general",
+          "note": ""
+        },
+        {
+          "key": "strip-come-out",
+          "kind": "vocabulary",
+          "korean": "나오다",
+          "meaning": "to come out / appear",
+          "topic": "general",
+          "note": ""
+        },
+        {
+          "key": "strip-skip-meal",
+          "kind": "vocabulary",
+          "korean": "(식사를) 거르다",
+          "meaning": "to skip / miss (a meal)",
+          "topic": "general",
+          "note": "거르다 is the verb; 식사를 is the optional object.",
+          "forms": [
+            "거르다",
+            "식사를 거르다"
+          ]
+        },
+        {
+          "key": "strip-occasionally",
+          "kind": "vocabulary",
+          "korean": "종종",
+          "meaning": "sometimes / occasionally",
+          "topic": "frequency",
+          "note": ""
+        },
+        {
+          "key": "strip-regularly",
+          "kind": "vocabulary",
+          "korean": "규칙적으로",
+          "meaning": "regularly",
+          "topic": "frequency",
+          "note": "규칙적 (regular) + 으로 (in a regular way)."
+        },
+        {
+          "key": "strip-always",
+          "kind": "vocabulary",
+          "korean": "항상",
+          "meaning": "always / all the time",
+          "topic": "frequency",
+          "note": ""
+        },
+        {
+          "key": "strip-make-plans",
+          "kind": "vocabulary",
+          "korean": "계획을 세우다",
+          "meaning": "to make plans",
+          "topic": "general",
+          "note": "Literally: set up a plan."
+        },
+        {
+          "key": "strip-keep-plans",
+          "kind": "vocabulary",
+          "korean": "계획을 지키다",
+          "meaning": "to keep / stick to one’s plans",
+          "topic": "general",
+          "note": ""
+        },
+        {
+          "key": "strip-go-around",
+          "kind": "vocabulary",
+          "korean": "돌아다니다",
+          "meaning": "to go around / wander around",
+          "topic": "general",
+          "note": ""
+        },
+        {
+          "key": "strip-go-well",
+          "kind": "vocabulary",
+          "korean": "어울리다",
+          "meaning": "to go well with / suit; to mix or socialize with",
+          "topic": "general",
+          "note": "옷이 잘 어울려요 = the clothes suit you. 친구들과 어울리다 = to socialize with friends."
+        }
+      ]
     }
   ],
   "sources": [
