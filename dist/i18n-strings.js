@@ -1,5 +1,6 @@
 'use strict';
 window.KoreanUIStrings={
+ "Time studied":"공부한 시간", "Confirm":"확인", "Add notes":"메모 추가", "Optional":"선택 사항", "Notes for today":"오늘의 메모", "Save notes":"메모 저장", "Minutes studied":"공부한 시간(분)", "Cards reviewed":"복습한 카드", "Words added":"추가한 단어", "Vocabulary review":"어휘 복습", "✓ Checklist complete":"✓ 체크리스트 완료", "No study recorded for this day.":"이날의 학습 기록이 없습니다.", "Use rest day":"휴식일 사용", "Move rest day here":"휴식일을 이날로 이동",
  "Dates to remember":"기억할 날짜", "This month’s dates":"이번 달의 주요 일정", "Official notice ↗":"공식 공지 ↗", "Expected · unconfirmed":"예상 · 미확정", "Awaiting local announcement":"현지 공지 대기 중", "TOPIK II · UAE registration":"TOPIK II · UAE 접수", "Next TOPIK II registration · Korea":"다음 TOPIK II 접수 · 한국", "No application or TOPIK dates listed this month.":"이번 달에 등록된 지원 또는 TOPIK 일정이 없습니다.", "✓ Complete":"✓ 완료",
  "Today": "오늘",
  "Today’s study": "오늘의 공부",
