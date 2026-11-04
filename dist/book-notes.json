@@ -831,6 +831,238 @@
           "note": "옷이 잘 어울려요 = the clothes suit you. 친구들과 어울리다 = to socialize with friends."
         }
       ]
+    },
+    {
+      "id": "kme-2026-11-04-ch3-grammar1",
+      "date": "2026-11-04",
+      "chapter": 3,
+      "part": "vocabulary-1",
+      "title": "Chapter 3 · Grammar 1 · time-related expressions",
+      "reportedCompletion": false,
+      "reportedVocabularyComplete": true,
+      "importVocabularyAsCustom": true,
+      "deduplicateSameDay": true,
+      "source": "User dictation checked against Korean Made Easy Intermediate, Chapter 3 Grammar 1, printed pp.50–53 (PDF pp.52–55); 경기 confirmed in Conversation 1 and the p.315 glossary.",
+      "entries": [
+        {
+          "key": "important",
+          "kind": "vocabulary",
+          "korean": "중요하다",
+          "meaning": "to be important",
+          "topic": "general",
+          "note": "重要: important."
+        },
+        {
+          "key": "personality",
+          "kind": "vocabulary",
+          "korean": "성격이 다르다",
+          "meaning": "to have different personalities",
+          "topic": "general",
+          "note": "Confirmed 성격이 다르다 in the p.50 example. 성격 = personality; 다르다 = to be different. Repeated twice in your dictation: marked important.",
+          "count": 2,
+          "important": true
+        },
+        {
+          "key": "confidence",
+          "kind": "vocabulary",
+          "korean": "자신감",
+          "meaning": "self-confidence / confidence",
+          "topic": "general",
+          "note": "自信感: feeling confident in oneself."
+        },
+        {
+          "key": "elapsed",
+          "kind": "vocabulary",
+          "korean": "___ 분(이) 지났어요",
+          "meaning": "___ minutes have passed",
+          "topic": "time-related",
+          "note": "30분이 지났어요. = Thirty minutes have passed. 분 uses Sino-Korean numbers: 삼십 분."
+        },
+        {
+          "key": "left",
+          "kind": "vocabulary",
+          "korean": "___ 분(이) 남았어요",
+          "meaning": "There are ___ minutes left",
+          "topic": "time-related",
+          "note": "30분이 남았어요. = There are thirty minutes left."
+        },
+        {
+          "key": "past-clock",
+          "kind": "vocabulary",
+          "korean": "___ 시가 넘었어요",
+          "meaning": "It is past ___ o’clock",
+          "topic": "time-related",
+          "note": "세 시가 넘었어요. = It is past three o’clock. 시 uses native Korean numbers."
+        },
+        {
+          "key": "not-clock",
+          "kind": "vocabulary",
+          "korean": "아직 ___ 시가 안 됐어요",
+          "meaning": "It is not ___ o’clock yet",
+          "topic": "time-related",
+          "note": "아직 세 시가 안 됐어요. = It is not three o’clock yet."
+        },
+        {
+          "key": "enough",
+          "kind": "vocabulary",
+          "korean": "충분하다",
+          "meaning": "to be enough / sufficient",
+          "topic": "time-related",
+          "note": "Corrected 춘분하다 → 충분하다. 시간이 충분해요. = There is enough time."
+        },
+        {
+          "key": "rush",
+          "kind": "vocabulary",
+          "korean": "서두르지 마세요",
+          "meaning": "Don’t rush / Don’t hurry",
+          "topic": "time-related",
+          "note": "서두르다 = to hurry. -지 마세요 = please do not …"
+        },
+        {
+          "key": "short",
+          "kind": "vocabulary",
+          "korean": "시간이 부족해요",
+          "meaning": "There isn’t enough time",
+          "topic": "time-related",
+          "note": "부족하다 = to be insufficient; opposite of 충분하다."
+        },
+        {
+          "key": "free",
+          "kind": "vocabulary",
+          "korean": "시간이 나다",
+          "meaning": "to have time become available / to have free time",
+          "topic": "time-related",
+          "note": "시간이 나면 전화하세요. = Call me when you have time. Write a space: 시간이 나다."
+        },
+        {
+          "key": "make",
+          "kind": "vocabulary",
+          "korean": "시간을 내다",
+          "meaning": "to make time / set aside time",
+          "topic": "time-related",
+          "note": "시간을 내 주셔서 감사합니다. = Thank you for making time."
+        },
+        {
+          "key": "spend",
+          "kind": "vocabulary",
+          "korean": "시간을 쓰다",
+          "meaning": "to spend time",
+          "topic": "time-related",
+          "note": "공부하는 데 시간을 써요. = I spend time studying."
+        },
+        {
+          "key": "save",
+          "kind": "vocabulary",
+          "korean": "시간을 절약하다",
+          "meaning": "to save time / use time economically",
+          "topic": "time-related",
+          "note": "절약하다 = to economize / save. Similar to 시간을 아껴 쓰다."
+        },
+        {
+          "key": "budget",
+          "kind": "vocabulary",
+          "korean": "시간을 아껴 쓰다",
+          "meaning": "to use time sparingly / budget time",
+          "topic": "time-related",
+          "note": "아끼다 = to spare / value; 아껴 쓰다 = to use carefully. Similar to 시간을 절약하다."
+        },
+        {
+          "key": "waste",
+          "kind": "vocabulary",
+          "korean": "시간을 낭비하다",
+          "meaning": "to waste time",
+          "topic": "time-related",
+          "note": "Opposite of 시간을 절약하다 / 아껴 쓰다."
+        },
+        {
+          "key": "arrive",
+          "kind": "vocabulary",
+          "korean": "시간에 맞춰 가다 / 오다",
+          "meaning": "to go / come on time",
+          "topic": "time-related",
+          "note": "맞추어 contracts to 맞춰. 약속 시간에 맞춰 오세요. = Please come at the appointed time. Textbook wording: 시간 맞춰 (가다/오다).",
+          "forms": [
+            "시간에 맞춰 가다",
+            "시간에 맞춰 오다",
+            "시간에 맞추어 가다",
+            "시간에 맞추어 오다",
+            "시간 맞춰 가다",
+            "시간 맞춰 오다"
+          ]
+        },
+        {
+          "key": "coordinate",
+          "kind": "vocabulary",
+          "korean": "N하고 시간을 맞추다",
+          "meaning": "to coordinate one’s schedule with someone",
+          "topic": "time-related",
+          "note": "친구하고 시간을 맞췄어요. = I coordinated a time with my friend. 시간을 is the object; 맞추다 is an action."
+        },
+        {
+          "key": "delay",
+          "kind": "vocabulary",
+          "korean": "시간을 늦추다",
+          "meaning": "to delay / move a time later",
+          "topic": "time-related",
+          "note": "약속 시간을 한 시간 늦췄어요. = I moved the appointment one hour later."
+        },
+        {
+          "key": "exact",
+          "kind": "vocabulary",
+          "korean": "정각에 가다 / 오다",
+          "meaning": "to go / come exactly on time",
+          "topic": "time-related",
+          "note": "세 시 정각에 오세요. = Come at exactly three o’clock.",
+          "forms": [
+            "정각에 가다",
+            "정각에 오다"
+          ]
+        },
+        {
+          "key": "match",
+          "kind": "vocabulary",
+          "korean": "N하고 시간이 맞다",
+          "meaning": "for one’s availability / schedule to match someone’s",
+          "topic": "time-related",
+          "note": "친구하고 시간이 맞아요. = My availability matches my friend’s. 시간이 is the subject; 맞다 describes a match."
+        },
+        {
+          "key": "earlier",
+          "kind": "vocabulary",
+          "korean": "시간을 앞당기다",
+          "meaning": "to bring a time forward / move it earlier",
+          "topic": "time-related",
+          "note": "회의 시간을 한 시간 앞당겼어요. = I moved the meeting one hour earlier. Opposite of 시간을 늦추다."
+        },
+        {
+          "key": "not-talk",
+          "kind": "vocabulary",
+          "korean": "얘기 안 하다",
+          "meaning": "not to talk / not to talk about something",
+          "topic": "general",
+          "forms": [
+            "얘기 안 하다",
+            "이야기 안 하다"
+          ],
+          "note": "Confirmed from the Grammar 1 example on printed p.50: 얘기 안 했어요. 얘기 is a contraction of 이야기. This is not 아기를 낳다 (give birth)."
+        },
+        {
+          "key": "sport",
+          "kind": "vocabulary",
+          "korean": "경기",
+          "meaning": "sporting event / match / game",
+          "topic": "general",
+          "note": "Confirmed in Chapter 3 Conversation 1 (p.52) and its glossary (p.315). In this context, 경기 is a sporting event; 경제 경기 can instead refer to economic conditions."
+        },
+        {
+          "key": "pass-time",
+          "kind": "vocabulary",
+          "korean": "시간을 보내다",
+          "meaning": "to spend time / pass time",
+          "topic": "time-related",
+          "note": "Also listed in the time wording section on printed p.53. 시간을 쓰다 stresses using time; 시간을 보내다 often describes how one passes time."
+        }
+      ]
     }
   ],
   "sources": [
@@ -841,6 +1073,83 @@
     {
       "title": "National Institute of Korean Language: 한잔",
       "url": "https://krdict.korean.go.kr/jpn/dicSearch/SearchView?ParaWordNo=72462"
+    }
+  ],
+  "referenceEntries": [
+    {
+      "id": "rule:nov4-examples",
+      "kind": "rule",
+      "title": "N 같은 거 · giving examples",
+      "text": "N 같은 거 means “things like N / something like N.” 거 is the conversational form of 것. It gives examples rather than making an exhaustive list.\n\n저는 과자 같은 거 안 좋아해요.\nI do not like things like snacks.\n\n불고기나 갈비 같은 거를 자주 먹어요.\nI often eat things like bulgogi or galbi.\n\n거를 is conversational; 같은 것을 is a fuller form.",
+      "sourceIds": [],
+      "createdAt": "",
+      "updatedAt": "",
+      "deleted": false,
+      "studyRef": {
+        "chapter": 3,
+        "part": "grammar-1",
+        "date": "2026-11-04"
+      }
+    },
+    {
+      "id": "rule:nov4-geuraeyo",
+      "kind": "rule",
+      "title": "그래요? / 그래요. · reaction and agreement",
+      "text": "그래요? (rising intonation) = Really? / Is that so? It can express surprise or check what someone has said.\nA: 저 내일 한국에 가요. = I am going to Korea tomorrow.\nB: 그래요? = Really?\n\n그래요. (falling intonation) = Okay. / All right. Used to accept a suggestion or agree.\nA: 같이 점심 먹을까요? = Shall we have lunch together?\nB: 그래요. 같이 먹어요. = Okay. Let’s eat together.\n\nContext and intonation matter; 그래요 can also mean “that is so / that is right.”",
+      "sourceIds": [],
+      "createdAt": "",
+      "updatedAt": "",
+      "deleted": false,
+      "studyRef": {
+        "chapter": 3,
+        "part": "grammar-1",
+        "date": "2026-11-04"
+      }
+    },
+    {
+      "id": "grammar:nov4-shall",
+      "kind": "grammar",
+      "title": "-(으)ㄹ까요?",
+      "text": "Shall I …? / Shall we …? Ask about doing something or suggest doing it together.\n\nAfter a consonant: -을까요? 먹다 → 먹을까요?\nAfter a vowel or ㄹ: -ㄹ까요? 가다 → 갈까요? 만들다 → 만들까요?\n\n제가 도와드릴까요? = Shall I help you?\n같이 갈까요? = Shall we go together?\n\nIt can also ask for a guess/opinion depending on context: 내일 비가 올까요? = Do you think it will rain tomorrow?",
+      "sourceIds": [],
+      "createdAt": "",
+      "updatedAt": "",
+      "deleted": false,
+      "studyRef": {
+        "chapter": 3,
+        "part": "grammar-1",
+        "date": "2026-11-04"
+      }
+    },
+    {
+      "id": "grammar:nov4-nominal",
+      "kind": "grammar",
+      "title": "-는 것 / -(으)ㄴ 것 · noun phrases (-ing / the thing that …)",
+      "text": "A modifier + 것 creates a noun phrase: “doing …” or “the thing that …”.\n\nVerbs, present action/situation: -는 것\n먹는 것 = eating / the thing one eats\n한국어를 공부하는 것을 좋아해요. = I like studying Korean.\n\nVerbs, past/completed action: -(으)ㄴ 것\n먹은 것 = what one ate / the thing one has eaten\n어제 산 것 = what I bought yesterday\n\nAdjectives, present description: -(으)ㄴ 것\n좋은 것 = a good thing; 예쁜 것 = a pretty thing\nWith adjectives this is normally a present description, not past tense.\n\nNouns use 인 것: 학생인 것 = being a student.\n있다/없다 use -는 in modifiers: 재미있는 것, 맛없는 것.\n\nCommon contractions: 것이 → 게; 것은 → 건; 것을 → 걸.",
+      "sourceIds": [],
+      "createdAt": "",
+      "updatedAt": "",
+      "deleted": false,
+      "studyRef": {
+        "chapter": 3,
+        "part": "grammar-1",
+        "date": "2026-11-04"
+      }
+    },
+    {
+      "id": "rule:nov4-contractions",
+      "kind": "rule",
+      "title": "것이 → 게 · 것은 → 건",
+      "text": "In conversation, 것 + a particle often contracts:\n것이 → 게 (subject)\n것은 → 건 (topic)\n것을 → 걸 (object)\n\n공부하는 것이 좋아요. → 공부하는 게 좋아요.\nStudying is good / I like studying (depending on context).\n\n제가 좋아하는 것은 책이에요. → 제가 좋아하는 건 책이에요.\nWhat I like is books.\n\n한국어를 배우는 것을 좋아해요. → 한국어를 배우는 걸 좋아해요.\nI like learning Korean.\n\n건 is the contraction of 것은; it is not 곤.",
+      "sourceIds": [],
+      "createdAt": "",
+      "updatedAt": "",
+      "deleted": false,
+      "studyRef": {
+        "chapter": 3,
+        "part": "grammar-1",
+        "date": "2026-11-04"
+      }
     }
   ]
 }
