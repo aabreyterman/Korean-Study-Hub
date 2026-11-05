@@ -1063,6 +1063,297 @@
           "note": "Also listed in the time wording section on printed p.53. 시간을 쓰다 stresses using time; 시간을 보내다 often describes how one passes time."
         }
       ]
+    },
+    {
+      "id": "kme-2026-11-05-ch3-grammar2",
+      "date": "2026-11-05",
+      "chapter": 3,
+      "part": "vocabulary-2",
+      "title": "Chapter 3 · Grammar 2 · appointments",
+      "reportedCompletion": false,
+      "reportedVocabularyComplete": true,
+      "importVocabularyAsCustom": true,
+      "deduplicateSameDay": true,
+      "source": "User dictation checked against Chapter 3, printed pp.54–57 (PDF pp.56–59), Korean Made Easy Intermediate.",
+      "entries": [
+        {
+          "key": "decide",
+          "kind": "vocabulary",
+          "korean": "결정하다 (정하다)",
+          "meaning": "to decide / determine / set",
+          "topic": "general",
+          "note": "결정하다 and 정하다 can both follow -기로. 정하다 also means to choose or set something, such as a time.",
+          "forms": [
+            "결정하다",
+            "정하다"
+          ]
+        },
+        {
+          "key": "resolve",
+          "kind": "vocabulary",
+          "korean": "결심하다",
+          "meaning": "to resolve / make up one’s mind",
+          "topic": "general",
+          "note": "A firm personal resolution. Repeated twice in your dictation; marked important.",
+          "count": 2,
+          "important": true
+        },
+        {
+          "key": "leave",
+          "kind": "vocabulary",
+          "korean": "떠나다",
+          "meaning": "to leave / depart",
+          "topic": "general",
+          "note": "여행을 떠나다 = to leave on a trip."
+        },
+        {
+          "key": "personality",
+          "kind": "vocabulary",
+          "korean": "성격",
+          "meaning": "personality / character",
+          "topic": "general",
+          "note": "성격이 맞다 = personalities are compatible; 성격이 안 맞다 = personalities do not fit together."
+        },
+        {
+          "key": "fall",
+          "kind": "vocabulary",
+          "korean": "떨어지다",
+          "meaning": "to fall / drop; to run out",
+          "topic": "general",
+          "note": "In the Chapter 3 quiz: 기름이 떨어지다 = to run out of fuel. The meaning depends on context."
+        },
+        {
+          "key": "vending",
+          "kind": "vocabulary",
+          "korean": "자판기가 고장 나다",
+          "meaning": "for a vending machine to break down",
+          "topic": "general",
+          "note": "Corrected from the dictated 차박이…. 자판기 = vending machine; 고장 나다 = to break down."
+        },
+        {
+          "key": "cancel",
+          "kind": "vocabulary",
+          "korean": "취소하다",
+          "meaning": "to cancel",
+          "topic": "general",
+          "note": "取消: cancel. 약속을 취소하다 = to cancel an appointment."
+        },
+        {
+          "key": "gas",
+          "kind": "vocabulary",
+          "korean": "주유소",
+          "meaning": "gas station / petrol station",
+          "topic": "general",
+          "note": "Corrected 주이소 → 주유소. A place to refuel."
+        },
+        {
+          "key": "stop",
+          "kind": "vocabulary",
+          "korean": "잠깐 들렀어요",
+          "meaning": "I stopped by briefly / for a moment",
+          "topic": "general",
+          "note": "Textbook quiz: 주유소에 잠깐 들렀어요. Dictionary form: 들르다 (stop by), past 들렀어요. Distinguish 들리다 (be heard).",
+          "forms": [
+            "잠깐 들렀어요",
+            "잠깐 들르다"
+          ]
+        },
+        {
+          "key": "occasion",
+          "kind": "vocabulary",
+          "korean": "웬일",
+          "meaning": "what occasion / what brings you here",
+          "topic": "general",
+          "note": "Corrected 원일 → 웬일. 웬일이에요? = What’s up? / What brings you here? Said about an unexpected visit or situation.",
+          "forms": [
+            "웬일",
+            "웬일이에요?"
+          ]
+        },
+        {
+          "key": "well",
+          "kind": "vocabulary",
+          "korean": "글쎄요",
+          "meaning": "Well… / I’m not sure / Let me see",
+          "topic": "general",
+          "note": "Corrected 그세요 → 글쎄요. Used when hesitating or unsure how to answer."
+        },
+        {
+          "key": "perhaps",
+          "kind": "vocabulary",
+          "korean": "혹시",
+          "meaning": "perhaps / by any chance",
+          "topic": "general",
+          "note": "혹시 시간이 있어요? = Do you have time, by any chance?"
+        },
+        {
+          "key": "can-postpone",
+          "kind": "vocabulary",
+          "korean": "미룰 수 있다",
+          "meaning": "to be able to postpone / put off",
+          "topic": "general",
+          "note": "미루다 (postpone) + -(으)ㄹ 수 있다 (can). 약속을 미룰 수 있어요? = Can we postpone the appointment?"
+        },
+        {
+          "key": "regards",
+          "kind": "vocabulary",
+          "korean": "안부 전해 주세요",
+          "meaning": "Please give them my regards / say hello for me",
+          "topic": "general",
+          "note": "안부 = regards / news of how someone is doing; 전하다 = to convey. 가족들에게 안부 전해 주세요. = Please give my regards to your family."
+        },
+        {
+          "key": "while",
+          "kind": "vocabulary",
+          "korean": "한참",
+          "meaning": "a while / quite some time",
+          "topic": "time-related",
+          "note": "A substantial length of time, longer than 잠깐 (a moment). 한참 기다렸어요. = I waited quite a while."
+        },
+        {
+          "key": "make",
+          "kind": "vocabulary",
+          "korean": "약속을 잡다",
+          "meaning": "to make / arrange an appointment",
+          "topic": "appointments",
+          "note": "Active: someone arranges the appointment."
+        },
+        {
+          "key": "made",
+          "kind": "vocabulary",
+          "korean": "약속이 잡히다",
+          "meaning": "for an appointment to be made / scheduled",
+          "topic": "appointments",
+          "note": "Passive counterpart of 약속을 잡다. 약속이 is the subject."
+        },
+        {
+          "key": "change",
+          "kind": "vocabulary",
+          "korean": "약속을 바꾸다",
+          "meaning": "to change an appointment",
+          "topic": "appointments",
+          "note": "Included with its passive partner from the textbook appointment expressions."
+        },
+        {
+          "key": "changed",
+          "kind": "vocabulary",
+          "korean": "약속이 바뀌다",
+          "meaning": "for an appointment to be changed",
+          "topic": "appointments",
+          "note": "Passive counterpart of 약속을 바꾸다."
+        },
+        {
+          "key": "cancel-meeting",
+          "kind": "vocabulary",
+          "korean": "약속을 취소하다",
+          "meaning": "to cancel an appointment",
+          "topic": "appointments",
+          "note": "Active. Pair: 약속이 취소되다."
+        },
+        {
+          "key": "cancelled",
+          "kind": "vocabulary",
+          "korean": "약속이 취소되다",
+          "meaning": "for an appointment to be cancelled",
+          "topic": "appointments",
+          "note": "Passive. Pair: 약속을 취소하다."
+        },
+        {
+          "key": "postpone",
+          "kind": "vocabulary",
+          "korean": "약속을 미루다 (연기하다)",
+          "meaning": "to postpone / push back an appointment",
+          "topic": "appointments",
+          "note": "미루다 and 연기하다 are alternatives here. 미루다 → 미뤄요.",
+          "forms": [
+            "약속을 미루다",
+            "약속을 연기하다",
+            "연기하다"
+          ]
+        },
+        {
+          "key": "postponed",
+          "kind": "vocabulary",
+          "korean": "약속이 미뤄지다 (연기되다)",
+          "meaning": "for an appointment to be postponed / pushed back",
+          "topic": "appointments",
+          "note": "Passive. 미루어지다 contracts to 미뤄지다.",
+          "forms": [
+            "약속이 미뤄지다",
+            "약속이 미루어지다",
+            "약속이 연기되다",
+            "연기되다"
+          ]
+        },
+        {
+          "key": "later",
+          "kind": "vocabulary",
+          "korean": "약속 시간을 늦추다",
+          "meaning": "to move the appointment time later",
+          "topic": "appointments",
+          "note": "Change the time to a later time; not simply any change."
+        },
+        {
+          "key": "later-passive",
+          "kind": "vocabulary",
+          "korean": "약속 시간이 늦춰지다",
+          "meaning": "for the appointment time to be moved later",
+          "topic": "appointments",
+          "note": "늦추어지다 contracts to 늦춰지다.",
+          "forms": [
+            "약속 시간이 늦춰지다",
+            "약속 시간이 늦추어지다"
+          ]
+        },
+        {
+          "key": "earlier",
+          "kind": "vocabulary",
+          "korean": "약속 시간을 앞당기다",
+          "meaning": "to bring the appointment time forward / move it earlier",
+          "topic": "appointments",
+          "note": "Opposite of 약속 시간을 늦추다."
+        },
+        {
+          "key": "earlier-passive",
+          "kind": "vocabulary",
+          "korean": "약속 시간이 앞당겨지다",
+          "meaning": "for the appointment time to be moved earlier",
+          "topic": "appointments",
+          "note": "Passive counterpart of 약속 시간을 앞당기다."
+        },
+        {
+          "key": "confirm",
+          "kind": "vocabulary",
+          "korean": "약속을 확인하다",
+          "meaning": "to confirm an appointment",
+          "topic": "appointments",
+          "note": "Check that the appointment details are correct."
+        },
+        {
+          "key": "keep",
+          "kind": "vocabulary",
+          "korean": "약속을 지키다",
+          "meaning": "to keep an appointment / keep a promise",
+          "topic": "appointments",
+          "note": "Opposite of 약속을 어기다."
+        },
+        {
+          "key": "overlap",
+          "kind": "vocabulary",
+          "korean": "약속이 겹치다",
+          "meaning": "for appointments to overlap / to be double-booked",
+          "topic": "appointments",
+          "note": "Two appointments are scheduled at overlapping times."
+        },
+        {
+          "key": "break",
+          "kind": "vocabulary",
+          "korean": "약속을 어기다",
+          "meaning": "to break / miss an appointment or promise",
+          "topic": "appointments",
+          "note": "Corrected 약속이 어기다 → 약속을 어기다: 어기다 takes an object."
+        }
+      ]
     }
   ],
   "sources": [
@@ -1149,6 +1440,51 @@
         "chapter": 3,
         "part": "grammar-1",
         "date": "2026-11-04"
+      }
+    },
+    {
+      "id": "rule:nov5-ida",
+      "kind": "rule",
+      "title": "이다 + -아/어서 → -(이)라서",
+      "text": "When a noun + 이다 gives the reason (“because … is …”), this lesson uses -(이)라서.\n\nAfter a noun ending in a consonant: 이라서\n학생이라서 = because I am a student\n\nAfter a noun ending in a vowel: 라서\n친구라서 = because we are friends\n\nExamples:\n학생이라서 할인을 받아요. = I get a discount because I am a student.\n친구라서 도와줬어요. = I helped because we are friends.\n\nThe cause comes first. With verbs/adjectives, use -아/어서 (바빠서, 먹어서); 하다 becomes 해서. For the causal pattern taught here, do not put -았/었- or -겠- immediately before -아/어서: 어제 아파서 못 갔어요.\n\nNoun forms 이어서/여서 also exist; -(이)라서 is the form highlighted in this chapter.",
+      "sourceIds": [],
+      "createdAt": "",
+      "updatedAt": "",
+      "deleted": false,
+      "studyRef": {
+        "chapter": 3,
+        "part": "grammar-2",
+        "date": "2026-11-05"
+      }
+    },
+    {
+      "id": "grammar:nov5-decide",
+      "kind": "grammar",
+      "title": "-기로 하다",
+      "text": "To decide to do something / agree or promise to do something. Attach -기로 to a verb stem.\n\n가다 → 가기로 하다 = decide to go\n만나다 → 만나기로 하다 = agree to meet\n\n내일 만나기로 했어요. = We decided to meet tomorrow.\n오늘부터 운동하기로 해요. = Let’s decide to exercise starting today.\n\nYou can replace 하다 with 약속하다 (promise), 결정하다 / 정하다 (decide), or 결심하다 (resolve).\n예: 담배를 끊기로 결심했어요. = I resolved to quit smoking.\n\n-기로 했어요 normally reports an earlier decision; -기로 해요 can establish a decision or agreement now. The pattern is -기로 하다, not 결호하다.",
+      "sourceIds": [],
+      "createdAt": "",
+      "updatedAt": "",
+      "deleted": false,
+      "studyRef": {
+        "chapter": 3,
+        "part": "grammar-2",
+        "date": "2026-11-05"
+      }
+    },
+    {
+      "id": "grammar:nov5-jyo",
+      "kind": "grammar",
+      "title": "-지요 / -죠",
+      "text": "-죠 is the conversational contraction of -지요. Use it to confirm something, ask for agreement, or remind the listener of a fact you expect them to know. Intonation and context matter.\n\n우리 내일 만나기로 했죠? = We agreed to meet tomorrow, right?\n오늘 춥죠? = It is cold today, isn’t it?\n네, 그렇죠. = Yes, that’s right.\n\nThe past tense may come before it: 했지요? → 했죠? The 죠 ending itself does not mean “become” or “decide”; the rest of the sentence carries that meaning.\n\nVerb/adjective stem + 지요; noun + 이지요 (consonant) / 지요 (vowel).",
+      "sourceIds": [],
+      "createdAt": "",
+      "updatedAt": "",
+      "deleted": false,
+      "studyRef": {
+        "chapter": 3,
+        "part": "grammar-2",
+        "date": "2026-11-05"
       }
     }
   ]
